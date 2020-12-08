@@ -2,12 +2,14 @@
 title: Liquidshop – the Liquidsoap workshop 1.0
 ---
 
-A workshop about Liquidsoap and related technologies.
+The **liquidshop** is the first edition of a workshop about Liquidsoap and
+related technologies. It will be held fully online. Feel free to register in
+order to attend or propose a talk!
 
 Presentations
 -------------
 
-There are two tracks for presentations:
+Three kinds of presentations will be featured during the workshop:
 
 - _showcase_ (15 min): short presentations about the website / radio / art
   installation that you realized using Liquidsoap or related tools
@@ -18,7 +20,7 @@ There are two tracks for presentations:
 Schedule
 --------
 
-Sunday, January 17th and Monday, January 18yh
+Sunday January 17th and Monday January 18th, more details to come later.
 
 Registration
 ------------
