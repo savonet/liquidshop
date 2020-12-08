@@ -44,4 +44,4 @@ In case of any question or comment please contact the two organizers
 - Samuel Mimram: [sam@liquidsoap.info](mailto:sam@liquidsoap.info)
 
 
-<center><a href="https://www.liquidsoap.info/"><img src="https://www.liquidsoap.info/assets/img/bottle_invert.png" alt="drawing" height="100px" style="margin: 20px;"/></a></center>
+<center><a href="https://www.liquidsoap.info/"><img src="https://www.liquidsoap.info/assets/img/bottle_invert.png" alt="drawing" height="100px" style="margin-top: 50px;"/></a></center>
