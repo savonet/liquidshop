@@ -1,7 +1,3 @@
----
-title: Liquidshop – the Liquidsoap workshop 1.0
----
-
 The **liquidshop** is the first edition of a workshop about Liquidsoap and
 related technologies. It will be held fully online. Feel free to register in
 order to attend or propose a talk!
