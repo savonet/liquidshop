@@ -1,5 +1,6 @@
-Liquidsoap workshop 1.0
-=======================
+---
+title: Liquidshop – the Liquidsoap workshop 1.0
+---
 
 A workshop about Liquidsoap and related technologies.
 
