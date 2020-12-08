@@ -22,6 +22,10 @@ Sunday, January 17th and Monday, January 18yh
 Registration
 ------------
 
+If you want to propose a talk or simply attend [**please register
+here**](https://forms.gle/HdGNLz5qM3HVU1ub7). Registration is free but mandatory
+for organisational purposes.
+
 Organizing team
 ---------------
 
