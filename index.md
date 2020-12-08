@@ -9,9 +9,12 @@ Three kinds of presentations will be featured during the workshop:
 
 - _showcase_ (15 min): short presentations about the website / radio / art
   installation that you realized using Liquidsoap or related tools
-- _tech talks_ (30 min): in depth presentation of a technology related to
+- _tech talks_ (30 min): in-depth presentation of a technology related to
   streaming
 - _workshop_: user-centered freeform discussions about your project or issues
+
+A detailed presentation about the forthcoming Liquidsoap 2.0 and the new
+features will be given by the lead developer Romain Beauxis.
 
 Schedule
 --------
