@@ -1,18 +1,20 @@
-The **liquidshop** is the first edition of a workshop about Liquidsoap and
-related technologies. It will be held fully online. Feel free to
-[register](https://forms.gle/HdGNLz5qM3HVU1ub7) in order to attend or propose a
-talk!
+The **liquidshop** is the first edition of a workshop about
+[Liquidsoap](https://www.liquidsoap.info/) and related technologies (for
+streaming audio and video, interacting through websites, etc.). It will be held
+fully online. Feel free to [register](https://forms.gle/HdGNLz5qM3HVU1ub7) in
+order to attend or propose a talk!
 
 Presentations
 -------------
 
 Three kinds of presentations will be featured during the workshop:
 
-- _showcase_ (15 min): short presentations about the website / radio / art
-  installation that you realized using Liquidsoap or related tools
-- _tech talks_ (30 min): in-depth presentation of a technology related to
-  streaming
+- _showcase_ (15 min): a short presentation about a website / radio / art
+  installation that you built using Liquidsoap or related tools
+- _tech talks_ (30 min): an in-depth presentation of a technology related to
+  Liquidsoap and streaming in general
 - _workshop_: user-centered freeform discussions about your project or issues
+  around Liquidsoap and streaming
 
 A detailed presentation about the forthcoming Liquidsoap 2.0 and the new
 features will be given by the lead developer Romain Beauxis.
