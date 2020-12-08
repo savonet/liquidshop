@@ -1,6 +1,7 @@
 The **liquidshop** is the first edition of a workshop about Liquidsoap and
-related technologies. It will be held fully online. Feel free to register in
-order to attend or propose a talk!
+related technologies. It will be held fully online. Feel free to
+[register](https://forms.gle/HdGNLz5qM3HVU1ub7) in order to attend or propose a
+talk!
 
 Presentations
 -------------
