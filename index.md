@@ -42,3 +42,5 @@ In case of any question or comment please contact the two organizers
 
 - Romain Beauxis: [romain@liquidsoap.info](mailto:romain@liquidsoap.info)
 - Samuel Mimram: [sam@liquidsoap.info](mailto:sam@liquidsoap.info)
+
+[![](https://www.liquidsoap.info/assets/img/bottle_invert.png)](https://www.liquidsoap.info/)
