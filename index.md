@@ -19,7 +19,10 @@ features will be given by the lead developer Romain Beauxis.
 Schedule
 --------
 
-Sunday January 17th and Monday January 18th, more details to come later.
+Sunday January 17th and Monday January 18th, more details to come later. The
+time span will be roughly 15:00–23:00 GMT in order to accommodate with most
+timezones (for instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in
+Paris).
 
 Registration
 ------------
