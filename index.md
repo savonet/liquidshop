@@ -26,7 +26,8 @@ Registration
 
 If you want to propose a talk or simply attend [**please register
 here**](https://forms.gle/HdGNLz5qM3HVU1ub7). Registration is free but mandatory
-for organisational purposes.
+for organisational purposes (in particular, we need your mail in order to
+communicate the link for the live stream later on).
 
 Organizing team
 ---------------
