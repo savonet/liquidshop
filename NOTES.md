@@ -20,10 +20,11 @@ Some notes about the organization of the workshop.
 
 - [gather.town](https://gather.town/) is really cool to have "real-life like"
   discussions (you walk in a small world and discuss only with people around),
-  the free version is limited to 25 participants, which works very well
+  the free version is limited to 25 participants, which works very well. We
+  could have two rooms I guess.
 - [Calla chat](https://www.calla.chat/) is an
-  [open-source](https://github.com/capnmidnight/Calla) variant of the above, to
-  be tried out
+  [open-source](https://github.com/capnmidnight/Calla) variant of the above,
+  seems much less fancy.
 - [Mozilla hubs](https://hubs.mozilla.com/) is the same but in 3D (a bit too
   fancy, maybe).
   
