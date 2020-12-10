@@ -5,6 +5,7 @@ Some notes about the organization of the workshop.
 ## What we would like to have
 
 - support enough participants
+- have a fancy enough chat
 - live streaming to Youtube (or at least archiving)
 
 ## Conference
@@ -23,3 +24,15 @@ Some notes about the organization of the workshop.
 - [Calla chat](https://www.calla.chat/) is an
   [open-source](https://github.com/capnmidnight/Calla) variant of the above, to
   be tried out
+- [Mozilla hubs](https://hubs.mozilla.com/) is the same but in 3D (a bit too
+  fancy, maybe).
+  
+## Website
+
+- [MiniConf](https://github.com/Mini-Conf/Mini-Conf) is a tool to run a
+  conference. It takes care of displaying the schedule, etc. Might be an
+  overkill for us.
+
+## References
+
+- [a list of conferencing solutions](https://github.com/con/ference/issues/1)
