@@ -4,6 +4,14 @@ streaming audio and video, interacting through websites, etc.). It will be held
 fully online. Feel free to [register](https://forms.gle/HdGNLz5qM3HVU1ub7) in
 order to attend or propose a talk!
 
+Schedule
+--------
+
+**Sunday January 17th and Monday January 18th**, more details to come later. The
+time span will be roughly 15:00–23:00 GMT in order to accommodate with most
+timezones (for instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in
+Paris).
+
 Presentations
 -------------
 
@@ -18,14 +26,6 @@ Three kinds of presentations will be featured during the workshop:
 
 A detailed presentation about the forthcoming Liquidsoap 2.0 and the new
 features will be given by the lead developer Romain Beauxis.
-
-Schedule
---------
-
-Sunday January 17th and Monday January 18th, more details to come later. The
-time span will be roughly 15:00–23:00 GMT in order to accommodate with most
-timezones (for instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in
-Paris).
 
 Registration
 ------------
