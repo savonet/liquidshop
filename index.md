@@ -35,10 +35,16 @@ here**](https://forms.gle/HdGNLz5qM3HVU1ub7). Registration is free but mandatory
 for organisational purposes (in particular, we need your mail in order to
 communicate the link for the live stream later on).
 
+Sponsoring
+----------
+
+Please reach out if you want to sponsor the event in some way, you can also make
+[donations on Paypal](http://paypal.me/LiquidsoapMedia).
+
 Organizing team
 ---------------
 
-In case of any question or comment please contact the two organizers
+In case of any question, comment or suggestion please contact the two organizers
 
 - Romain Beauxis: [romain@liquidsoap.info](mailto:romain@liquidsoap.info)
 - Samuel Mimram: [sam@liquidsoap.info](mailto:sam@liquidsoap.info)
