@@ -14,6 +14,7 @@ The proposals for presentations are, for now:
 - Dane Streeter: _Creating a global virtual radio station with Liquidsoap_
 - John	Warburton: _Easing your automation and improving your sound with Liquidsoap and FFmpeg_
 - Gilles Pietri: _Actual radio work with Liquidsoap_ (initially a workshop discussion)
+- Jon: _Something about [live365.com](http://live365.com)_
 
 also maybe
 
@@ -25,7 +26,7 @@ showcase
 
 Workshop discussions
 
-- Ashlae Blume: Experimalental Livecoding
+- Ashlae Blume: Experimental livecoding
 
 Regular talks are
 
@@ -42,14 +43,15 @@ Long talks are
 Schedule
 --------
 
-| 16:00 | Welcome |
-| 16:15 | Long talk 1 (Romain ?) |
+| 15:45 | Welcome |
+| 16:00 | Long talk 1 (Romain ?) |
 | 17:00 | Break |
 | 17:15 | Talk 1 |
 | 17:45 | Talk 2 |
 | 18:15 | Break / lunch / dinner |
-| 19:30 | Long talk 2 (RF ?) |
-| 20:15 | Break |
-| 20:30 | Talk 3 |
-| 21:00 | Talk 4 |
+| 19:00 | Long talk 2 (RF ?) |
+| 19:45 | Break |
+| 20:00 | Talk 3 |
+| 20:30 | Talk 4 |
+| 21:00 | Talk 5 |
 | 21:30 | Workshop / free discussions |
