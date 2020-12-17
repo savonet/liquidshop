@@ -22,7 +22,7 @@ also maybe
 
 showcase
 
-- StarveTheEgo: DeerRadio
+- StarveTheEgo: [DeerRadio](https://www.youtube.com/watch?v=w5sXZDRdbBo)
 
 Workshop discussions
 
