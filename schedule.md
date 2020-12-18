@@ -8,11 +8,12 @@ All times are in GMT (16:00 GMT = 10:00 in New Orleans = 17:00 in Paris).
 Schedule
 --------
 
-| 15:45 | Welcome |
-| 16:00 | Romain Beauxis: _Liquidsoap current and future features_ |
-| 17:00 | Break |
-| 17:15 | Dane Streeter: _Creating a global virtual radio station with Liquidsoap_ |
-| 17:45 | Martin Kirchgessner: _Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)_ |
+| 15:15 | Welcome |
+| 15:30 | Romain Beauxis: _Liquidsoap current and future features_ |
+| 16:30 | Break |
+| 16:45 | Dane Streeter: _Creating a global virtual radio station with Liquidsoap_ |
+| 17:15 | Martin Kirchgessner: _Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)_ |
+| 17:45 | David Baelde: _TBA_ |
 | 18:15 | Break / lunch / dinner |
 | 19:00 | Liquidsoap at Radio France |
 | 19:45 | Break |
