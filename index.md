@@ -30,7 +30,7 @@ The current schedule is the following and still subject to minor changes:
 | 20:00 | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
 | 20:20 | Jon: __A presentation of [live365.com](http://live365.com)__ |
 | 20:40 | Tony	Miller: __[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio__ |
-| 21:20 | StarveTheEgo: __[DeerRadio](https://www.youtube.com/watch?v=w5sXZDRdbBo)__ |
+| 21:20 | StarveTheEgo: __[DeerRadio](https://www.youtube.com/watch?v=4U5kNWQu300)__ |
 | 21:00 | Gilles Pietri: __Actual radio work with Liquidsoap__ |
 | 21:40 | Workshop and free discussions |
 
@@ -132,16 +132,20 @@ Links
 -----
 
 [Azuracast](https://azuracast.com) / [Canstream](https://www.canstream.co.uk/) /
-[datafruits.fm](https://datafruits.fm/) / [dmd2](https://dmd2.com) /
-[Gargoyle](http://gargoyle.co.za) / [Googeradio](https://googeradio.com/) /
-[KPFA](https://kpfa.org) / [libretime](https://libretime.org) /
-[live365](http://live365.com) / [mediainbox](http://mediainbox.net/) /
-[Nakalen](http://narkanalen.no/) / [Opus75](http://opus75.com/) /
-[per](https://mustafejen.se/~per/) /
+[datafruits.fm](https://datafruits.fm/) /
+[DeerRadio](https://www.youtube.com/watch?v=4U5kNWQu300) /
+[dmd2](https://dmd2.com) / [Gargoyle](http://gargoyle.co.za) /
+[Googeradio](https://googeradio.com/) / [KPFA](https://kpfa.org) /
+[libretime](https://libretime.org) /
+**[Liquidsoap](https://www.liquidsoap.info/)** / [live365](http://live365.com) /
+[mediainbox](http://mediainbox.net/) / [Nakalen](http://narkanalen.no/) /
+[Opus75](http://opus75.com/) / [per](https://mustafejen.se/~per/) /
 [Psychedelik.com](https://www.psychedelik.com/) / [RaBe](https://rabe.ch) /
-[sharp stream](https://www.sharp-stream.com/) / [Slotex](https://slotex.pl/) /
-[Starsystem FM](https://radiosurle.net/) / [systrum](https://systrum.net/) /
-[The saturday night show](https://www.thethursdaynightshow.com/) /
+[sharp stream](https://www.sharp-stream.com/) /
+[Showergel](https://github.com/martinkirch/showergel) /
+[Slotex](https://slotex.pl/) / [Starsystem FM](https://radiosurle.net/) /
+[systrum](https://systrum.net/) / [The saturday night
+show](https://www.thethursdaynightshow.com/) /
 [Wolface.IT](https://www.wolface.fr/) / [xtradio](https://xtradio.org)
 
 
