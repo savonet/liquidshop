@@ -7,7 +7,8 @@ order to attend or propose a talk!
 Schedule
 --------
 
-**Sunday January 17th and Monday January 18th**.
+The workshop will be held on **Sunday January 17th**, you can have a look at the
+[preliminary schedule](schedule).
 
 The time span will be roughly 15:00–23:00 GMT in order to accommodate with most
 timezones (for instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in
