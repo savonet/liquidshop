@@ -45,6 +45,23 @@ Sponsoring
 Please reach out if you want to sponsor the event in some way, you can also make
 [donations on Paypal](http://paypal.me/LiquidsoapMedia).
 
+Links
+-----
+
+[Azuracast](https://azuracast.com) / [Canstream](https://www.canstream.co.uk/) /
+[datafruits.fm](https://datafruits.fm/) / [dmd2](https://dmd2.com) /
+[Gargoyle](http://gargoyle.co.za) / [Googeradio](https://googeradio.com/) /
+[KPFA](https://kpfa.org) / [libretime](https://libretime.org) /
+[live365](http://live365.com) / [mediainbox](http://mediainbox.net/) /
+[Nakalen](http://narkanalen.no/) / [Opus75](http://opus75.com/) /
+[per](https://mustafejen.se/~per/) /
+[Psychedelik.com](https://www.psychedelik.com/) / [RaBe](https://rabe.ch) /
+[sharp stream](https://www.sharp-stream.com/) / [Slotex](https://slotex.pl/) /
+[Starsystem FM](https://radiosurle.net/) / [systrum](https://systrum.net/) /
+[The saturday night show](https://www.thethursdaynightshow.com/) /
+[xtradio](https://xtradio.org)
+
+
 Organizing team
 ---------------
 
@@ -52,6 +69,5 @@ In case of any question, comment or suggestion please contact the two organizers
 
 - Romain Beauxis: [romain@liquidsoap.info](mailto:romain@liquidsoap.info)
 - Samuel Mimram: [sam@liquidsoap.info](mailto:sam@liquidsoap.info)
-
 
 <center><a href="https://www.liquidsoap.info/"><img src="https://www.liquidsoap.info/assets/img/bottle_invert.png" alt="drawing" height="100px" style="margin-top: 50px;"/></a></center>
