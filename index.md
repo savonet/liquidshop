@@ -13,22 +13,22 @@ instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
 The current schedule is the following and still subject to minor changes:
 
-| 15:15 | Welcome |
-| 15:30 | Romain Beauxis: _Liquidsoap current and future features_ |
-| 16:30 | Break |
-| 16:40 | Dane Streeter: _Creating a global virtual radio station with Liquidsoap_ |
-| 17:00 | Martin Kirchgessner: _Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)_ |
-| 17:20 | Lucas	Bickel: _The Broadcasters Niche – why we contribute_ |
-| 17:40 | David Baelde: _TBA_ |
-| 18:10 | Break / lunch / dinner |
-| 19:00 | _Liquidsoap at Radio France_ |
-| 19:45 | Break |
-| 20:00 | John Warburton: _Easing your automation and improving your sound with Liquidsoap and FFmpeg_ |
-| 20:20 | Jon: _A presentation of [live365.com](http://live365.com)_ |
-| 20:40 | Tony	Miller: _[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio_ |
-| 21:20 | StarveTheEgo: _[DeerRadio](https://www.youtube.com/watch?v=w5sXZDRdbBo)_ |
-| 21:00 | Gilles Pietri: _Actual radio work with Liquidsoap_ |
-| 21:40 | Workshop / free discussions |
+| 15:15 | _Welcome_ |
+| 15:30 | Romain Beauxis: __Liquidsoap current and future features__ |
+| 16:30 | _Break_ |
+| 16:40 | Dane Streeter: __Creating a global virtual radio station with Liquidsoap__ |
+| 17:00 | Martin Kirchgessner: __Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)__ |
+| 17:20 | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
+| 17:40 | David Baelde: __TBA__ |
+| 18:10 | _Break / lunch / dinner_ |
+| 19:00 | __Liquidsoap at Radio France__ |
+| 19:45 | _Break_ |
+| 20:00 | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
+| 20:20 | Jon: __A presentation of [live365.com](http://live365.com)__ |
+| 20:40 | Tony	Miller: __[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio__ |
+| 21:20 | StarveTheEgo: __[DeerRadio](https://www.youtube.com/watch?v=w5sXZDRdbBo)__ |
+| 21:00 | Gilles Pietri: __Actual radio work with Liquidsoap__ |
+| 21:40 | Workshop and free discussions |
 
 <!--
 Presentations
