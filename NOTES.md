@@ -22,6 +22,8 @@ Some notes about the organization of the workshop.
   discussions (you walk in a small world and discuss only with people around),
   the free version is limited to 25 participants, which works very well. We
   could have two rooms I guess.
+- [Work adventure](https://workadventu.re/) is nicer than the above and open
+  source!
 - [Calla chat](https://www.calla.chat/) is an
   [open-source](https://github.com/capnmidnight/Calla) variant of the above,
   seems much less fancy.

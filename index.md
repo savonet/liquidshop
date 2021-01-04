@@ -23,7 +23,7 @@ The current schedule is the following and still subject to minor changes:
 | 16:40 | Dane Streeter: __Creating a global virtual radio station with Liquidsoap__ |
 | 17:00 | Martin Kirchgessner: __Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)__ |
 | 17:20 | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
-| 17:40 | David Baelde: __TBA__ |
+| 17:40 | David Baelde: __The early days of Liquidsoap__ |
 | 18:10 | _Break / lunch / dinner_ |
 | 19:00 | __Liquidsoap at Radio France__ |
 | 19:45 | _Break_ |
@@ -87,7 +87,11 @@ project. This talk introduces the niche in which community-radio broadcasters
 consume digital audio technology and goes on to explain why we see contributing
 to open source as a key factor in reaching our goals.
 
-**David Baelde: _TBA_**
+**David Baelde: _The early days of liquidsoap_**
+
+As one of the founders and past developers of Liquidsoap, I will recall the
+early history of the project. This will be an opportunity to reflect on several
+choices we made and discuss what went well or not so well.
 
 **_Liquidsoap at Radio France_**
 
