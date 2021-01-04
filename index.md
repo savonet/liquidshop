@@ -14,6 +14,7 @@ The time span will be roughly 15:00–23:00 GMT in order to accommodate with mos
 timezones (for instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in
 Paris).
 
+<!--
 Presentations
 -------------
 
@@ -28,6 +29,7 @@ Three kinds of presentations will be featured during the workshop:
 
 A detailed presentation about the forthcoming Liquidsoap 2.0 and the new
 features will be given by the lead developer Romain Beauxis.
+-->
 
 Registration
 ------------
