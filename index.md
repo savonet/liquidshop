@@ -56,6 +56,16 @@ Abstracts
 
 **Romain Beauxis: _Liquidsoap current and future features_**
 
+What a year this has been... And to think that, just before everything went haywire, 
+we were presenting at FOSDEM.. Well, not everything was lost from there. After talking
+with Sam during the event, we had a vision of what liquidsoap could be if we fully integrated
+with ffmpeg and added some new and fancy languages features on top of that. Then, with all this time now
+on our hand with the ongoing crisis, it turns out that most of this vision has now materialized!
+
+I will, thus, be presenting all the new and shiny features that have been recently added to the 
+latest code and that terribly lack documentation. We'll see a couple of exciting examples and
+discuss future plans to stabilize and release it as liquidsoap 2.0!
+
 **Dane Streeter: _Creating a global virtual radio station with Liquidsoap_**
 
 Basis is showcasing how TTNS uses liquidsoap to enable DJ's from any time zone
