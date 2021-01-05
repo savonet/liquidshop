@@ -1,6 +1,8 @@
 <style>
 p {text-align: justify;}
 #downloads {display: none;}
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
 </style>
 
 The **liquidshop** is the first edition of a workshop about
