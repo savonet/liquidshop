@@ -33,7 +33,7 @@ The current schedule is the following and still subject to minor changes:
 | 20:00 | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
 | 20:20 | Jon: __A presentation of [live365.com](http://live365.com)__ |
 | 20:40 | Tony	Miller: __[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio__ |
-| 21:20 | StarveTheEgo: __[DeerRadio](https://www.youtube.com/watch?v=4U5kNWQu300)__ |
+| 21:20 | StarveTheEgo: __[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)__ |
 | 21:00 | Gilles Pietri: __Actual radio work with Liquidsoap__ |
 | 21:40 | Workshop and free discussions |
 
@@ -122,7 +122,7 @@ been using liquidsoap for all of its broadcasts. Learn about our history and how
 we formed an international online community, the ways we use liquidsoap and
 running week long online festivals.
 
-**StarveTheEgo: _[DeerRadio](https://www.youtube.com/watch?v=w5sXZDRdbBo)_**
+**StarveTheEgo: _[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)_**
 
 **Gilles Pietri: _Actual radio work with Liquidsoap_**
 
