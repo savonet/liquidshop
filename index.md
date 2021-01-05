@@ -1,5 +1,6 @@
 <style>
-p    {text-align: justify;}
+p {text-align: justify;}
+#downloads {display: none;}
 </style>
 
 The **liquidshop** is the first edition of a workshop about
