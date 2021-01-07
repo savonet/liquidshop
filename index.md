@@ -18,25 +18,25 @@ The workshop will be held on **Sunday January 17th**. The time span will be
 roughly 15:00–23:00 GMT in order to accommodate with most timezones (for
 instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
-The current schedule is the following and still subject to minor changes,
-<u>times are given in GMT</u>:
+The current schedule is the following and still subject to minor changes, <u>all
+times are given in [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)</u>:
 
-| 15:15 | _Welcome_ |
-| 15:30 | Romain Beauxis: __Liquidsoap current and future features__ |
-| 16:30 | _Break_ |
-| 16:40 | Dane Streeter: __Creating a global virtual radio station with Liquidsoap__ |
-| 17:00 | Martin Kirchgessner: __Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)__ |
-| 17:20 | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
-| 17:40 | David Baelde: __The early days of Liquidsoap__ |
-| 18:10 | _Break / lunch / dinner_ |
-| 19:00 | Youenn Piolet: __Liquidsoap at Radio France__ |
-| 19:45 | _Break_ |
-| 20:00 | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
-| 20:20 | Jon: __A presentation of [live365.com](http://live365.com)__ |
-| 20:40 | Tony	Miller: __[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio__ |
-| 21:20 | StarveTheEgo: __[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)__ |
-| 21:00 | Gilles Pietri: __Actual radio work with Liquidsoap__ |
-| 21:40 | Workshop and free discussions |
+| 15:15 GMT | _Welcome_ |
+| 15:30 GMT | Romain Beauxis: __Liquidsoap current and future features__ |
+| 16:30 GMT | _Break_ |
+| 16:40 GMT | Dane Streeter: __Creating a global virtual radio station with Liquidsoap__ |
+| 17:00 GMT | Martin Kirchgessner: __Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)__ |
+| 17:20 GMT | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
+| 17:40 GMT | David Baelde: __The early days of Liquidsoap__ |
+| 18:10 GMT | _Break / lunch / dinner_ |
+| 19:00 GMT | Youenn Piolet: __Liquidsoap at Radio France__ |
+| 19:45 GMT | _Break_ |
+| 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
+| 20:20 GMT | Jon: __A presentation of [live365.com](http://live365.com)__ |
+| 20:40 GMT | Tony	Miller: __[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio__ |
+| 21:20 GMT | StarveTheEgo: __[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)__ |
+| 21:00 GMT | Gilles Pietri: __Actual radio work with Liquidsoap__ |
+| 21:40 GMT | Workshop and free discussions |
 
 <!--
 Presentations
