@@ -18,8 +18,8 @@ The workshop will be held on **Sunday January 17th**. The time span will be
 roughly 15:00–23:00 GMT in order to accommodate with most timezones (for
 instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
-The current schedule is the following and still subject to minor changes, <u>all
-times are given in [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)</u>:
+The current schedule is the following and still subject to minor changes [all
+times are given in [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)]:
 
 | 15:15 GMT | _Welcome_ |
 | 15:30 GMT | Romain Beauxis: __Liquidsoap current and future features__ |
