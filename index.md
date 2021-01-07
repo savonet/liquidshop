@@ -28,7 +28,7 @@ The current schedule is the following and still subject to minor changes:
 | 17:20 | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
 | 17:40 | David Baelde: __The early days of Liquidsoap__ |
 | 18:10 | _Break / lunch / dinner_ |
-| 19:00 | __Liquidsoap at Radio France__ |
+| 19:00 | Youenn Piolet: __Liquidsoap at Radio France__ |
 | 19:45 | _Break_ |
 | 20:00 | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
 | 20:20 | Jon: __A presentation of [live365.com](http://live365.com)__ |
@@ -106,7 +106,7 @@ As one of the founders and past developers of Liquidsoap, I will recall the
 early history of the project. This will be an opportunity to reflect on several
 choices we made and discuss what went well or not so well.
 
-**_Liquidsoap at Radio France_**
+**Youenn Piolet: _Liquidsoap at Radio France_**
 
 **John Warburton: _Easing your automation and improving your sound with Liquidsoap and FFmpeg_**
 
