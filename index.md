@@ -18,7 +18,8 @@ The workshop will be held on **Sunday January 17th**. The time span will be
 roughly 15:00–23:00 GMT in order to accommodate with most timezones (for
 instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
-The current schedule is the following and still subject to minor changes:
+The current schedule is the following and still subject to minor changes,
+<u>times are given in GMT</u>:
 
 | 15:15 | _Welcome_ |
 | 15:30 | Romain Beauxis: __Liquidsoap current and future features__ |
@@ -59,11 +60,13 @@ Abstracts
 
 **Romain Beauxis: _Liquidsoap current and future features_**
 
-What a year this has been... And to think that, just before everything went haywire, 
-we were presenting at FOSDEM.. Well, not everything was lost from there. After talking
-with Sam during the event, we had a vision of what liquidsoap could be if we fully integrated
-with ffmpeg and added some new and fancy languages features on top of that. Then, with all this time now
-on our hand with the ongoing crisis, it turns out that most of this vision has now materialized!
+What a year this has been... And to think that, just before everything went
+haywire, we were presenting at FOSDEM.. Well, not everything was lost from
+there. After talking with Sam during the event, we had a vision of what
+liquidsoap could be if we fully integrated with ffmpeg and added some new and
+fancy languages features on top of that. Then, with all this time now on our
+hand with the ongoing crisis, it turns out that most of this vision has now
+materialized!
 
 I will, thus, be presenting all the new and shiny features that have been recently added to the 
 latest code and that terribly lack documentation. We'll see a couple of exciting examples and
@@ -137,7 +140,7 @@ Registration
 If you want to attend [**please register
 here**](https://forms.gle/HdGNLz5qM3HVU1ub7). Registration is free but mandatory
 for organisational purposes (in particular, we need your mail in order to
-communicate the link for the live stream later on).
+communicate the link to the live stream later on).
 
 Sponsoring
 ----------
@@ -169,7 +172,7 @@ show](https://www.thethursdaynightshow.com/) /
 Organizing team
 ---------------
 
-In case of any question, comment or suggestion please contact the two organizers
+In case of any question, comment or suggestion please contact the organizers
 
 - Romain Beauxis: [romain@liquidsoap.info](mailto:romain@liquidsoap.info)
 - Samuel Mimram: [sam@liquidsoap.info](mailto:sam@liquidsoap.info)
