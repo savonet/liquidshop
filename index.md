@@ -34,8 +34,8 @@ times are given in [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)]:
 | 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
 | 20:20 GMT | Jon: __A presentation of [live365.com](http://live365.com)__ |
 | 20:40 GMT | Tony	Miller: __[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio__ |
-| 21:20 GMT | StarveTheEgo: __[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)__ |
-| 21:00 GMT | Gilles Pietri: __Actual radio work with Liquidsoap__ |
+| 21:00 GMT | StarveTheEgo: __[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)__ |
+| 21:20 GMT | Gilles Pietri: __Actual radio work with Liquidsoap__ |
 | 21:40 GMT | Workshop and free discussions |
 
 <!--
