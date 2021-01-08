@@ -32,7 +32,7 @@ times are given in [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)]:
 | 19:00 GMT | Youenn Piolet: __Liquidsoap at Radio France__ |
 | 19:45 GMT | _Break_ |
 | 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
-| 20:20 GMT | Jon: __A presentation of [live365.com](http://live365.com)__ |
+| 20:20 GMT | Jon Stephenson: __A presentation of [live365.com](http://live365.com)__ |
 | 20:40 GMT | Dane Streeter: __Creating a global virtual radio station with Liquidsoap__ |
 | 21:00 GMT | StarveTheEgo: __[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)__ |
 | 21:20 GMT | Gilles Pietri: __Actual radio work with Liquidsoap__ |
@@ -113,7 +113,7 @@ choices we made and discuss what went well or not so well.
 An explanation of working, time-saving systems I have written, and use: and how
 they integrate with Liquidsoap.
 
-**Jon: _A presentation of [live365.com](http://live365.com)_**
+**Jon Stephenson: _A presentation of [live365.com](http://live365.com)_**
 
 **Dane Streeter: _Creating a global virtual radio station with Liquidsoap_**
 
