@@ -72,15 +72,12 @@ I will, thus, be presenting all the new and shiny features that have been recent
 latest code and that terribly lack documentation. We'll see a couple of exciting examples and
 discuss future plans to stabilize and release it as liquidsoap 2.0!
 
-**Dane Streeter: _Creating a global virtual radio station with Liquidsoap_**
+**Tony	Miller: _[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio_**
 
-Basis is showcasing how TTNS uses liquidsoap to enable DJ's from any time zone
-stream to a global audience. Highlight so far was a 24 hour broadcast touching
-every time zone. The project has 8 years success so far. In
-addition.... SharpStream uses LS to create 'premium' live ingress services with
-playlist failover, essential for stations with bad net connections & large
-events. Overall, I've been using soap in various community and enterprise various
-since 2012/13 and would be happy to showcase any of our usage and experiences.
+[Datafruits.fm](http://datafruits.fm/) has been online since late 2011, and has
+been using liquidsoap for all of its broadcasts. Learn about our history and how
+we formed an international online community, the ways we use liquidsoap and
+running week long online festivals.
 
 **Martin Kirchgessner: _Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)_**
 
@@ -118,12 +115,15 @@ they integrate with Liquidsoap.
 
 **Jon: _A presentation of [live365.com](http://live365.com)_**
 
-**Tony	Miller: _[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio_**
+**Dane Streeter: _Creating a global virtual radio station with Liquidsoap_**
 
-[Datafruits.fm](http://datafruits.fm/) has been online since late 2011, and has
-been using liquidsoap for all of its broadcasts. Learn about our history and how
-we formed an international online community, the ways we use liquidsoap and
-running week long online festivals.
+Basis is showcasing how TTNS uses liquidsoap to enable DJ's from any time zone
+stream to a global audience. Highlight so far was a 24 hour broadcast touching
+every time zone. The project has 8 years success so far. In
+addition.... SharpStream uses LS to create 'premium' live ingress services with
+playlist failover, essential for stations with bad net connections & large
+events. Overall, I've been using soap in various community and enterprise various
+since 2012/13 and would be happy to showcase any of our usage and experiences.
 
 **StarveTheEgo: _[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)_**
 
