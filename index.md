@@ -29,6 +29,7 @@ times are given in [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)]:
 | 17:20 GMT | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
 | 17:40 GMT | David Baelde: __The early days of Liquidsoap__ |
 | 18:10 GMT | _Break / lunch / dinner_ |
+| 18:40 GMT | David Cooper: __Burning Man Radio Scrubbed with Liquidsoap__ |
 | 19:00 GMT | Youenn Piolet: __Liquidsoap at Radio France__ |
 | 19:45 GMT | _Break_ |
 | 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
@@ -105,6 +106,25 @@ to open source as a key factor in reaching our goals.
 As one of the founders and past developers of Liquidsoap, I will recall the
 early history of the project. This will be an opportunity to reflect on several
 choices we made and discuss what went well or not so well.
+
+**David Cooper: _Burning Man Radio Scrubbed with Liquidsoap_**
+
+We will discuss:
+
+1. How we've used Liquidsoap and Docker in novel ways to support [BMIR 94.5
+   FM](https://en.wikipedia.org/wiki/BMIR) and [Shouting
+   Fire](https://shoutingfire.com/), for example,
+   
+  - supporting Zoom by using Zoom in a Docker container and hooking its audio
+    out via pulseaudio into liquidsoap – allowing non-technical DJs to broadcast
+    that couldn't figure out Icecast, and
+  - having `input.harbor` access time windows powered by Google Calendar and
+    others I'm sure,
+  - support reloading our main liquidsoap script with 0 listener downtime
+
+2. How that then has motived a new project I'm working on [Crazy Arms Radio
+   Backend](https://github.com/dtcooper/crazyarms), think of it as a simpler
+   backend-only AzuraCast designed for decentralized stations use cases.
 
 **Youenn Piolet: _Liquidsoap at Radio France_**
 
