@@ -29,7 +29,7 @@ times are given in [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)]:
 | 17:20 GMT | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
 | 17:40 GMT | David Baelde: __The early days of Liquidsoap__ |
 | 18:10 GMT | _Break / lunch / dinner_ |
-| 18:40 GMT | David Cooper: __Burning Man Radio Scrubbed with Liquidsoap__ |
+| 18:40 GMT | David Cooper: __[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap__ |
 | 19:00 GMT | Youenn Piolet: __Liquidsoap at Radio France__ |
 | 19:45 GMT | _Break_ |
 | 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
@@ -109,21 +109,21 @@ As one of the founders and past developers of Liquidsoap, I will recall the
 early history of the project. This will be an opportunity to reflect on several
 choices we made and discuss what went well or not so well.
 
-**David Cooper: _Burning Man Radio Scrubbed with Liquidsoap_**
+**David Cooper: _[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap_**
 
-We will discuss:
+We'll go over how we've mashed up Liquidsoap and other technologies in novel
+ways to support [BMIR 94.5 FM](https://en.wikipedia.org/wiki/BMIR) and [Shouting
+Fire](https://shoutingfire.com/) radio. Our primary goals were,
 
-1. How we've used Liquidsoap and Docker in novel ways to support [BMIR 94.5
-   FM](https://en.wikipedia.org/wiki/BMIR) and [Shouting
-   Fire](https://shoutingfire.com/): (a) supporting Zoom by using Zoom in a
-   Docker container and hooking its audio out via pulseaudio into liquidsoap –
-   allowing non-technical DJs to broadcast that couldn't figure out Icecast, (b)
-   having `input.harbor` access time windows powered by Google Calendar and
-   others I'm sure, (c) support reloading our main liquidsoap script with 0
-   listener downtime.
-2. How that then has motived a new project I'm working on [Crazy Arms Radio
-   Backend](https://github.com/dtcooper/crazyarms), think of it as a simpler
-   backend-only AzuraCast designed for decentralized stations use cases.
+* A fully decentralized stations (for 2020).
+* Getting as many technical and non-technical folks able to stream using an
+  _Idiot-Tolerant™ DJing_ approach.
+* Tight authorization windows for DJs; and
+* Zero listener downtime.
+
+The approach has motived an in-development project called [Crazy Arms Radio
+Backend](https://github.com/dtcooper/crazyarms), straightforward backend-only
+playout software for the modern, fully de-centralized station.
 
 **Youenn Piolet: _Liquidsoap at Radio France_**
 
@@ -186,7 +186,10 @@ Links
 [Slotex](https://slotex.pl/) / [Starsystem FM](https://radiosurle.net/) /
 [systrum](https://systrum.net/) / [The saturday night
 show](https://www.thethursdaynightshow.com/) /
-[Wolface.IT](https://www.wolface.fr/) / [xtradio](https://xtradio.org)
+[Wolface.IT](https://www.wolface.fr/) / [xtradio](https://xtradio.org) /
+[Burning Man Information Radio](https://en.wikipedia.org/wiki/BMIR) /
+[Shouting Fire](https://shoutingfire.com/) /
+[Crazy Arms Radio Backend](https://crazyarms.xyz)
 
 
 Organizing team
