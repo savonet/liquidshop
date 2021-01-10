@@ -113,15 +113,12 @@ We will discuss:
 
 1. How we've used Liquidsoap and Docker in novel ways to support [BMIR 94.5
    FM](https://en.wikipedia.org/wiki/BMIR) and [Shouting
-   Fire](https://shoutingfire.com/), for example,
-   
-  - supporting Zoom by using Zoom in a Docker container and hooking its audio
-    out via pulseaudio into liquidsoap – allowing non-technical DJs to broadcast
-    that couldn't figure out Icecast, and
-  - having `input.harbor` access time windows powered by Google Calendar and
-    others I'm sure,
-  - support reloading our main liquidsoap script with 0 listener downtime
-
+   Fire](https://shoutingfire.com/): (a) supporting Zoom by using Zoom in a
+   Docker container and hooking its audio out via pulseaudio into liquidsoap –
+   allowing non-technical DJs to broadcast that couldn't figure out Icecast, (b)
+   having `input.harbor` access time windows powered by Google Calendar and
+   others I'm sure, (c) support reloading our main liquidsoap script with 0
+   listener downtime.
 2. How that then has motived a new project I'm working on [Crazy Arms Radio
    Backend](https://github.com/dtcooper/crazyarms), think of it as a simpler
    backend-only AzuraCast designed for decentralized stations use cases.
