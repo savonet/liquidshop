@@ -171,7 +171,8 @@ Please reach out if you want to sponsor the event in some way, you can also make
 Links
 -----
 
-[Azuracast](https://azuracast.com) / [Canstream](https://www.canstream.co.uk/) /
+[Azuracast](https://azuracast.com) / [BMIR](https://bmir.org/) /
+[Canstream](https://www.canstream.co.uk/) /
 [datafruits.fm](https://datafruits.fm/) /
 [DeerRadio](https://www.youtube.com/watch?v=4U5kNWQu300) /
 [dmd2](https://dmd2.com) / [Gargoyle](http://gargoyle.co.za) /
@@ -187,9 +188,9 @@ Links
 [systrum](https://systrum.net/) / [The saturday night
 show](https://www.thethursdaynightshow.com/) /
 [Wolface.IT](https://www.wolface.fr/) / [xtradio](https://xtradio.org) /
-[Burning Man Information Radio](https://en.wikipedia.org/wiki/BMIR) /
-[Shouting Fire](https://shoutingfire.com/) /
-[Crazy Arms Radio Backend](https://crazyarms.xyz)
+[Burning Man Information Radio](https://en.wikipedia.org/wiki/BMIR) / [Shouting
+Fire](https://shoutingfire.com/) / [Crazy Arms Radio
+Backend](https://crazyarms.xyz)
 
 
 Organizing team
