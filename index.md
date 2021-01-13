@@ -172,12 +172,12 @@ Links
 -----
 
 [Azuracast](https://azuracast.com) / [BMIR](https://bmir.org/) /
-[Canstream](https://www.canstream.co.uk/) /
-[datafruits.fm](https://datafruits.fm/) /
+[Canstream](https://www.canstream.co.uk/) / [Crazy Arms Radio
+Backend](https://crazyarms.xyz) / [datafruits.fm](https://datafruits.fm/) /
 [DeerRadio](https://www.youtube.com/watch?v=4U5kNWQu300) /
 [dmd2](https://dmd2.com) / [Gargoyle](http://gargoyle.co.za) /
 [Googeradio](https://googeradio.com/) / [KPFA](https://kpfa.org) /
-[KPISS.FM](https://kpiss.fm/) / [libretime](https://libretime.org) /
+[KPISS.fm](https://kpiss.fm/) / [libretime](https://libretime.org) /
 **[Liquidsoap](https://www.liquidsoap.info/)** / [live365](http://live365.com) /
 [mediainbox](http://mediainbox.net/) / [Nakalen](http://narkanalen.no/) /
 [Opus75](http://opus75.com/) / [per](https://mustafejen.se/~per/) /
@@ -188,9 +188,7 @@ Links
 [systrum](https://systrum.net/) / [The saturday night
 show](https://www.thethursdaynightshow.com/) /
 [Wolface.IT](https://www.wolface.fr/) / [xtradio](https://xtradio.org) /
-[Burning Man Information Radio](https://en.wikipedia.org/wiki/BMIR) / [Shouting
-Fire](https://shoutingfire.com/) / [Crazy Arms Radio
-Backend](https://crazyarms.xyz)
+[Shouting Fire](https://shoutingfire.com/)
 
 
 Organizing team
