@@ -28,7 +28,8 @@ times are given in [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)]:
 | 17:00 GMT | Martin Kirchgessner: __Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)__ |
 | 17:20 GMT | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
 | 17:40 GMT | David Baelde: __The early days of Liquidsoap__ |
-| 18:10 GMT | _Break / lunch / dinner_ |
+| 18:10 GMT | _Break_ |
+| 18:20 GMT | Sheri Barclay: __Onboarding and Community Management Techniques__ |
 | 18:40 GMT | David Cooper: __[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap__ |
 | 19:00 GMT | Youenn Piolet: __Liquidsoap at Radio France__ |
 | 19:45 GMT | _Break_ |
@@ -109,6 +110,14 @@ As one of the founders and past developers of Liquidsoap, I will recall the
 early history of the project. This will be an opportunity to reflect on several
 choices we made and discuss what went well or not so well.
 
+**Sheri Barclay: _Onboarding and Community Management Techniques_**
+
+When 75 DJ's are all sharing the same MountPoint – how do you set it up? A
+presentation of onboarding and community management techniques at
+[KPISS.FM](http://kpiss.fm/). Learn a little bit about our 5 year history and
+transition into a fully remote entity from a physical space becoming truly 100%
+an internet radio station.
+
 **David Cooper: _[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap_**
 
 We'll go over how we've mashed up Liquidsoap and other technologies in novel
@@ -182,7 +191,8 @@ Backend](https://crazyarms.xyz) / [datafruits.fm](https://datafruits.fm/) /
 [mediainbox](http://mediainbox.net/) / [Nakalen](http://narkanalen.no/) /
 [Opus75](http://opus75.com/) / [per](https://mustafejen.se/~per/) /
 [Psychedelik.com](https://www.psychedelik.com/) / [RaBe](https://rabe.ch) /
-[sharp stream](https://www.sharp-stream.com/) /
+[radiolize](https://radiolize.com/) / [sharp
+stream](https://www.sharp-stream.com/) /
 [Showergel](https://github.com/martinkirch/showergel) /
 [Slotex](https://slotex.pl/) / [Starsystem FM](https://radiosurle.net/) /
 [systrum](https://systrum.net/) / [The saturday night
