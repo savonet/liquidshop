@@ -209,6 +209,8 @@ p {text-align: justify;}
 #downloads {display: none;}
 a {text-decoration: none;}
 a:hover {text-decoration: underline;}
+h1 {text-shadow: 0 0 10px;}
+h2 {text-shadow: 0 0 5px;}
 </style>
 
 <script>
