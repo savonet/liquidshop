@@ -116,15 +116,16 @@ We'll go over how we've mashed up Liquidsoap and other technologies in novel
 ways to support [BMIR 94.5 FM](https://en.wikipedia.org/wiki/BMIR) and [Shouting
 Fire](https://shoutingfire.com/) radio. Our primary goals were,
 
-* A fully decentralized stations (for 2020).
+* Support for fully decentralized stations (helpful during the pandemic);
 * Getting as many technical and non-technical folks able to stream using an
-  _Idiot-Tolerant™ DJing_ approach.
-* Tight authorization windows for DJs; and
+  _Idiot-Tolerant™ DJing_ approach;
+* Tight authorization windows for DJs;
+* Simple to schedule shows with a shared Google Calendar; and
 * Zero listener downtime.
 
 The approach has motived an in-development project called [Crazy Arms Radio
 Backend](https://github.com/dtcooper/crazyarms), straightforward backend-only
-playout software for the modern, fully de-centralized station.
+playout software for the modern, fully decentralized station.
 
 **Youenn Piolet: _Liquidsoap at Radio France_**
 
