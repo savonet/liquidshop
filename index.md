@@ -1,10 +1,3 @@
-<style>
-p {text-align: justify;}
-#downloads {display: none;}
-a {text-decoration: none;}
-a:hover {text-decoration: underline;}
-</style>
-
 The **liquidshop** is the first edition of a workshop about
 [Liquidsoap](https://www.liquidsoap.info/) and related technologies (for
 streaming audio and video, interacting through websites, etc.). It will be held
@@ -191,7 +184,7 @@ Backend](https://crazyarms.xyz) / [datafruits.fm](https://datafruits.fm/) /
 [mediainbox](http://mediainbox.net/) / [Nakalen](http://narkanalen.no/) /
 [Opus75](http://opus75.com/) / [per](https://mustafejen.se/~per/) /
 [Psychedelik.com](https://www.psychedelik.com/) / [RaBe](https://rabe.ch) /
-[radiolize](https://radiolize.com/) / [sharp
+[radio.af](https://radio.af) / [radiolize](https://radiolize.com/) / [sharp
 stream](https://www.sharp-stream.com/) /
 [Showergel](https://github.com/martinkirch/showergel) /
 [Slotex](https://slotex.pl/) / [Starsystem FM](https://radiosurle.net/) /
@@ -210,3 +203,17 @@ In case of any question, comment or suggestion please contact the organizers
 - Samuel Mimram: [sam@liquidsoap.info](mailto:sam@liquidsoap.info)
 
 <center><a href="https://www.liquidsoap.info/"><img src="https://www.liquidsoap.info/assets/img/bottle_invert.png" alt="drawing" height="100px" style="margin-top: 50px;"/></a></center>
+
+<style>
+p {text-align: justify;}
+#downloads {display: none;}
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+</style>
+
+<script>
+window.onload = function() {
+  var date = new Date();
+  document.querySelector("#schedule + p").innerHTML += " The current GMT time is "+date.getUTCHours()+":"+date.getUTCMinutes()+".";
+}
+</script>
