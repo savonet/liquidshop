@@ -29,7 +29,7 @@ times are given in [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)]:
 | 17:20 GMT | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
 | 17:40 GMT | David Baelde: __The early days of Liquidsoap__ |
 | 18:10 GMT | _Break_ |
-| 18:20 GMT | Sheri Barclay: __Onboarding and Community Management Techniques__ |
+| 18:20 GMT | Sheri Barclay: __[KPISS.FM](http://kpiss.fm/) – Onboarding and Community Management Techniques__ |
 | 18:40 GMT | David Cooper: __[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap__ |
 | 19:00 GMT | Youenn Piolet: __Liquidsoap at Radio France__ |
 | 19:45 GMT | _Break_ |
@@ -110,7 +110,7 @@ As one of the founders and past developers of Liquidsoap, I will recall the
 early history of the project. This will be an opportunity to reflect on several
 choices we made and discuss what went well or not so well.
 
-**Sheri Barclay: _Onboarding and Community Management Techniques_**
+**Sheri Barclay: _[KPISS.FM](http://kpiss.fm/) – Onboarding and Community Management Techniques_**
 
 When 75 DJ's are all sharing the same MountPoint – how do you set it up? A
 presentation of onboarding and community management techniques at
