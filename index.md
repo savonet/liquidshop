@@ -104,7 +104,7 @@ As one of the founders and past developers of Liquidsoap, I will recall the
 early history of the project. This will be an opportunity to reflect on several
 choices we made and discuss what went well or not so well.
 
-**Sheri Barclay: _[KPISS.FM](http://kpiss.fm/) – Onboarding and Community Management Techniques_**
+**Sheri Barclay: _[KPISS.FM](http://kpiss.fm/) – Onboarding and Community Management Techniques_** / [slides](slides/barclay.pdf)
 
 When 75 DJ's are all sharing the same MountPoint – how do you set it up? A
 presentation of onboarding and community management techniques at
