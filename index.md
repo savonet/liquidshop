@@ -129,7 +129,7 @@ The approach has motived an in-development project called [Crazy Arms Radio
 Backend](https://github.com/dtcooper/crazyarms), straightforward backend-only
 playout software for the modern, fully decentralized station.
 
-**Youenn Piolet: _Liquidsoap at Radio France_**
+**Youenn Piolet: _Liquidsoap at Radio France_** / [slides](slides/piolet.pdf)
 
 **John Warburton: _Easing your automation and improving your sound with Liquidsoap and FFmpeg_** / [slides](slides/warburton.pdf)
 
