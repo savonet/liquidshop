@@ -151,7 +151,7 @@ showcase any of our usage and experiences.
 
 **StarveTheEgo: _[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)_**
 
-**Gilles Pietri: _Actual radio work with Liquidsoap_**
+**Gilles Pietri: _Actual radio work with Liquidsoap_** / [slides](slides/pietri.pdf)
 
 Radios expect a lot from their automation system, let's talk about blank
 detections, rotations, genre-driven clocks, jingles, avoiding repetitions, sound
