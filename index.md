@@ -52,7 +52,7 @@ features will be given by the lead developer Romain Beauxis.
 Abstracts
 ---------
 
-**Romain Beauxis: _Liquidsoap current and future features_**
+**Romain Beauxis: _Liquidsoap current and future features_** [[slides](slides/beauxis.pdf)]
 
 What a year this has been... And to think that, just before everything went
 haywire, we were [presenting at
@@ -68,14 +68,14 @@ recently added to the latest code and that terribly lack documentation. We'll
 see a couple of exciting examples and discuss future plans to stabilize and
 release it as Liquidsoap 2.0!
 
-**Tony	Miller: _[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio_**
+**Tony	Miller: _[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio_** [[slides](slides/miller.pdf)]
 
 [Datafruits.fm](http://datafruits.fm/) has been online since late 2011, and has
 been using liquidsoap for all of its broadcasts. Learn about our history and how
 we formed an international online community, the ways we use liquidsoap and
 running week long online festivals.
 
-**Martin Kirchgessner: _Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)_**
+**Martin Kirchgessner: _Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)_** [[slides](slides/kirchgessner.pdf)]
 
 As a volunteer in a local FM station, I experimented with Liquidsoap last
 summer. It looked very promising – by the way I published [some
@@ -129,12 +129,12 @@ playout software for the modern, fully decentralized station.
 
 **Youenn Piolet: _Liquidsoap at Radio France_**
 
-**John Warburton: _Easing your automation and improving your sound with Liquidsoap and FFmpeg_**
+**John Warburton: _Easing your automation and improving your sound with Liquidsoap and FFmpeg_** [[slides](slides/warburton.pdf)]
 
 An explanation of working, time-saving systems I have written, and use: and how
 they integrate with Liquidsoap.
 
-**Jon Stephenson: _A presentation of [live365.com](http://live365.com)_**
+**Jon Stephenson: _A presentation of [live365.com](http://live365.com)_** [[slides](slides/stephenson.pdf)]
 
 **Dane Streeter: _Creating a global virtual radio station with Liquidsoap_**
 
