@@ -28,8 +28,7 @@ The current schedule is the following and still subject to minor changes
 | 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
 | 20:20 GMT | Jon Stephenson: __A presentation of [live365.com](http://live365.com)__ |
 | 20:40 GMT | Dane Streeter: __Creating a global virtual radio station with Liquidsoap__ |
-| 21:00 GMT | StarveTheEgo: __[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)__ |
-| 21:20 GMT | Gilles Pietri: __Actual radio work with Liquidsoap__ |
+| 21:00 GMT | Gilles Pietri: __Actual radio work with Liquidsoap__ |
 | 21:40 GMT | Workshop and free discussions |
 
 <!--
@@ -148,8 +147,6 @@ addition.... [SharpStream](https://www.sharp-stream.com/) uses LS to create
 with bad net connections & large events. Overall, I've been using soap in
 various community and enterprise various since 2012/13 and would be happy to
 showcase any of our usage and experiences.
-
-**StarveTheEgo: _[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)_**
 
 **Gilles Pietri: _Actual radio work with Liquidsoap_** / [slides](slides/pietri.pdf)
 
