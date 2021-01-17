@@ -91,7 +91,7 @@ metadata logging or occasional scheduling, with a (minimalist,
 localhost-oriented) Web interface. It is meant to remain small and simple (a
 Python package using a SQLite DB), for community/benevolent radios.
 
-**Lucas	Bickel: _The Broadcasters Niche – why we contribute_**
+**Lucas	Bickel: _The Broadcasters Niche – why we contribute_** / [slides](slides/bickel.pdf)
 
 [Radio Bern RaBe](https://rabe.ch/) is one of the cofounding stations behind the
 LibreTime project. This talk introduces the niche in which community-radio
