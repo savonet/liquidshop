@@ -112,7 +112,7 @@ presentation of onboarding and community management techniques at
 transition into a fully remote entity from a physical space becoming truly 100%
 an internet radio station.
 
-**David Cooper: _[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap_**
+**David Cooper: _[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap_** / [slides](slides/cooper.pdf)
 
 We'll go over how we've mashed up Liquidsoap and other technologies in novel
 ways to support [BMIR 94.5 FM](https://en.wikipedia.org/wiki/BMIR) and [Shouting
