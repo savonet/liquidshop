@@ -13,20 +13,20 @@ instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
 The current schedule is the following and still subject to minor changes
 
-| 15:15 GMT | _Welcome_ |
-| 15:30 GMT | Romain Beauxis: __Liquidsoap current and future features__ |
+| 15:15 GMT | _Welcome_ / [slides](slides/mimram.pdf) |
+| 15:30 GMT | Romain Beauxis: __Liquidsoap current and future features__  / [slides](slides/beauxis.pdf) |
 | 16:30 GMT | _Break_ |
-| 16:40 GMT | Tony Miller: __[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio__ |
-| 17:00 GMT | Martin Kirchgessner: __Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)__ |
+| 16:40 GMT | Tony Miller: __[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio__ / [slides](slides/miller.pdf) |
+| 17:00 GMT | Martin Kirchgessner: __Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)__ / [slides](slides/kirchgessner.pdf) |
 | 17:20 GMT | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
 | 17:40 GMT | David Baelde: __The early days of Liquidsoap__ |
 | 18:10 GMT | _Break_ |
 | 18:20 GMT | Sheri Barclay: __[KPISS.FM](http://kpiss.fm/) – Onboarding and Community Management Techniques__ |
 | 18:40 GMT | David Cooper: __[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap__ |
-| 19:00 GMT | Youenn Piolet: __Liquidsoap at Radio France__ |
+| 19:00 GMT | Youenn Piolet: __Liquidsoap at Radio France__ / [slides](slides/piolet.pdf) |
 | 19:45 GMT | _Break_ |
-| 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
-| 20:20 GMT | Jon Stephenson: __A presentation of [live365.com](http://live365.com)__ |
+| 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ / [slides](slides/warburton.pdf) |
+| 20:20 GMT | Jon Stephenson: __A presentation of [live365.com](http://live365.com)__ / [slides](slides/stephenson.pdf) |
 | 20:40 GMT | Dane Streeter: __Creating a global virtual radio station with Liquidsoap__ |
 | 21:00 GMT | StarveTheEgo: __[DeerRadio](https://www.youtube.com/channel/UC7vtvyP2VoI30znG2BM5DzQ)__ |
 | 21:20 GMT | Gilles Pietri: __Actual radio work with Liquidsoap__ |
@@ -52,7 +52,9 @@ features will be given by the lead developer Romain Beauxis.
 Abstracts
 ---------
 
-**Romain Beauxis: _Liquidsoap current and future features_** [[slides](slides/beauxis.pdf)]
+**Samuel Mimram: _Welcome_** / [slides](slides/mimram.pdf)
+
+**Romain Beauxis: _Liquidsoap current and future features_** / [slides](slides/beauxis.pdf)
 
 What a year this has been... And to think that, just before everything went
 haywire, we were [presenting at
@@ -68,14 +70,14 @@ recently added to the latest code and that terribly lack documentation. We'll
 see a couple of exciting examples and discuss future plans to stabilize and
 release it as Liquidsoap 2.0!
 
-**Tony	Miller: _[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio_** [[slides](slides/miller.pdf)]
+**Tony	Miller: _[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio_** / [slides](slides/miller.pdf)
 
 [Datafruits.fm](http://datafruits.fm/) has been online since late 2011, and has
 been using liquidsoap for all of its broadcasts. Learn about our history and how
 we formed an international online community, the ways we use liquidsoap and
 running week long online festivals.
 
-**Martin Kirchgessner: _Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)_** [[slides](slides/kirchgessner.pdf)]
+**Martin Kirchgessner: _Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)_** / [slides](slides/kirchgessner.pdf)
 
 As a volunteer in a local FM station, I experimented with Liquidsoap last
 summer. It looked very promising – by the way I published [some
@@ -129,12 +131,12 @@ playout software for the modern, fully decentralized station.
 
 **Youenn Piolet: _Liquidsoap at Radio France_**
 
-**John Warburton: _Easing your automation and improving your sound with Liquidsoap and FFmpeg_** [[slides](slides/warburton.pdf)]
+**John Warburton: _Easing your automation and improving your sound with Liquidsoap and FFmpeg_** / [slides](slides/warburton.pdf)
 
 An explanation of working, time-saving systems I have written, and use: and how
 they integrate with Liquidsoap.
 
-**Jon Stephenson: _A presentation of [live365.com](http://live365.com)_** [[slides](slides/stephenson.pdf)]
+**Jon Stephenson: _A presentation of [live365.com](http://live365.com)_** / [slides](slides/stephenson.pdf)
 
 **Dane Streeter: _Creating a global virtual radio station with Liquidsoap_**
 
