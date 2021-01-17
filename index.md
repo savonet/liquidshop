@@ -98,7 +98,7 @@ LibreTime project. This talk introduces the niche in which community-radio
 broadcasters consume digital audio technology and goes on to explain why we see
 contributing to open source as a key factor in reaching our goals.
 
-**David Baelde: _The early days of liquidsoap_**
+**David Baelde: _The early days of liquidsoap_** / [slides](slides/baelde.pdf)
 
 As one of the founders and past developers of Liquidsoap, I will recall the
 early history of the project. This will be an opportunity to reflect on several
