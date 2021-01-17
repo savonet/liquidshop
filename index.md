@@ -138,7 +138,7 @@ they integrate with Liquidsoap.
 
 **Jon Stephenson: _A presentation of [live365.com](http://live365.com)_** / [slides](slides/stephenson.pdf)
 
-**Dane Streeter: _Creating a global virtual radio station with Liquidsoap_**
+**Dane Streeter: _Creating a global virtual radio station with Liquidsoap_** / [slides](slides/streeter.pdf)
 
 Basis is showcasing how TTNS uses liquidsoap to enable DJ's from any time zone
 stream to a global audience. Highlight so far was a 24 hour broadcast touching
