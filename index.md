@@ -1,8 +1,16 @@
 The **liquidshop** is the first edition of a workshop about
 [Liquidsoap](https://www.liquidsoap.info/) and related technologies (for
 streaming audio and video, interacting through websites, etc.). It will be held
-fully online. Feel free to [register](https://forms.gle/HdGNLz5qM3HVU1ub7) in
+fully online.
+
+<!--
+Feel free to [register](https://forms.gle/HdGNLz5qM3HVU1ub7) in
 order to attend or propose a talk!
+-->
+
+[The full video of the conference is available
+here](https://webconf.math.cnrs.fr/playback/presentation/2.0/playback.html?meetingId=81d0e0e6f60ca203b52378cbc8875e804cfe8732-1610896362432),
+I will split it and upload it on a more convenient website in the next few days.
 
 Schedule
 --------
