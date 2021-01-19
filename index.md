@@ -108,6 +108,8 @@ an internet radio station.
 
 **David Cooper: _[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap_** / [slides](slides/cooper.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9klZXtK-XCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We'll go over how we've mashed up Liquidsoap and other technologies in novel
 ways to support [BMIR 94.5 FM](https://en.wikipedia.org/wiki/BMIR) and [Shouting
 Fire](https://shoutingfire.com/) radio. Our primary goals were,
