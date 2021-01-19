@@ -98,6 +98,8 @@ choices we made and discuss what went well or not so well.
 
 **Sheri Barclay: _[KPISS.FM](http://kpiss.fm/) – Onboarding and Community Management Techniques_** / [slides](slides/barclay.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffDUF5wO8dU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 When 75 DJ's are all sharing the same MountPoint – how do you set it up? A
 presentation of onboarding and community management techniques at
 [KPISS.FM](http://kpiss.fm/). Learn a little bit about our 5 year history and
