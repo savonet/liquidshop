@@ -65,6 +65,8 @@ running week long online festivals.
 
 **Martin Kirchgessner: _Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)_** / [slides](slides/kirchgessner.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9U2xsAhz_dU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 As a volunteer in a local FM station, I experimented with Liquidsoap last
 summer. It looked very promising – by the way I published [some
 documentation](https://www.liquidsoap.info/doc-dev/beets.html) and [a few
@@ -79,12 +81,16 @@ Python package using a SQLite DB), for community/benevolent radios.
 
 **Lucas	Bickel: _The Broadcasters Niche – why we contribute_** / [slides](slides/bickel.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9kpAxLd9Spc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Radio Bern RaBe](https://rabe.ch/) is one of the cofounding stations behind the
 LibreTime project. This talk introduces the niche in which community-radio
 broadcasters consume digital audio technology and goes on to explain why we see
 contributing to open source as a key factor in reaching our goals.
 
 **David Baelde: _The early days of liquidsoap_** / [slides](slides/baelde.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APSGSHlScaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As one of the founders and past developers of Liquidsoap, I will recall the
 early history of the project. This will be an opportunity to reflect on several
@@ -149,7 +155,7 @@ relying (or not?) on liq can help!
 Schedule
 --------
 
-The workshop was held on **Sunday January 17th**. The time span was roughly
+The workshop was held on Sunday January 17th, 2021. The time span was roughly
 15:00–23:00 GMT in order to accommodate with most timezones (for instance, this
 means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
