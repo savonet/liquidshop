@@ -56,6 +56,8 @@ release it as Liquidsoap 2.0!
 
 **Tony	Miller: _[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio_** / [slides](slides/miller.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PlS3AQTXgvc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Datafruits.fm](http://datafruits.fm/) has been online since late 2011, and has
 been using liquidsoap for all of its broadcasts. Learn about our history and how
 we formed an international online community, the ways we use liquidsoap and
