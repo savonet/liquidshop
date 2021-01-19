@@ -1,6 +1,6 @@
-The **liquidshop** is the first edition of a workshop about
+The **liquidshop** was the first edition of a workshop about
 [Liquidsoap](https://www.liquidsoap.info/) and related technologies (for
-streaming audio and video, interacting through websites, etc.). It will be held
+streaming audio and video, interacting through websites, etc.). It was held
 fully online.
 
 <!--
@@ -15,9 +15,9 @@ here](https://webconf.math.cnrs.fr/playback/presentation/2.0/playback.html?meeti
 Schedule
 --------
 
-The workshop will be held on **Sunday January 17th**. The time span will be
-roughly 15:00–23:00 GMT in order to accommodate with most timezones (for
-instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
+The workshop was held on **Sunday January 17th**. The time span was roughly
+15:00–23:00 GMT in order to accommodate with most timezones (for instance, this
+means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
 The current schedule is the following and still subject to minor changes
 
@@ -56,14 +56,16 @@ A detailed presentation about the forthcoming Liquidsoap 2.0 and the new
 features will be given by the lead developer Romain Beauxis.
 -->
 
-Abstracts
----------
+Videos
+------
 
 **Samuel Mimram: _Welcome_** / [slides](slides/mimram.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oA15cGpYyKY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Romain Beauxis: _Liquidsoap current and future features_** / [slides](slides/beauxis.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VT6TEjJzWoY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 What a year this has been... And to think that, just before everything went
 haywire, we were [presenting at
@@ -150,6 +152,8 @@ they integrate with Liquidsoap.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-GfhEOUBy1Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Dane Streeter: _Creating a global virtual radio station with Liquidsoap_** / [slides](slides/streeter.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2M_TBvSVIJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Basis is showcasing how TTNS uses liquidsoap to enable DJ's from any time zone
 stream to a global audience. Highlight so far was a 24 hour broadcast touching
