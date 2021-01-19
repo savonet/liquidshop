@@ -127,7 +127,11 @@ playout software for the modern, fully decentralized station.
 
 **Youenn Piolet: _Liquidsoap at Radio France_** / [slides](slides/piolet.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UnHfgDmi9_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **John Warburton: _Easing your automation and improving your sound with Liquidsoap and FFmpeg_** / [slides](slides/warburton.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FPPATbOZKgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 An explanation of working, time-saving systems I have written, and use: and how
 they integrate with Liquidsoap.
