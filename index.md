@@ -159,7 +159,11 @@ General presentation / discussion about Liquidsoap:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hzZ76Eez0ps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Tutorial about building a webradio with Liquidsoap:
+Tutorial about building a webradio with Liquidsoap (the Liquidsoap files used in
+the presentation are [simple.liq](liq/simple.liq),
+[schedule.liq](liq/schedule.liq),
+[schedule_rotation.liq](liq/schedule_rotation.liq),
+[light_dsp.liq](liq/light_dsp.liq) and [stereotool.liq](liq/stereotool.liq)):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8l8uqBS6-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
