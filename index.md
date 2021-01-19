@@ -9,8 +9,8 @@ order to attend or propose a talk!
 -->
 
 [The full video of the conference is available
-here](https://webconf.math.cnrs.fr/playback/presentation/2.0/playback.html?meetingId=81d0e0e6f60ca203b52378cbc8875e804cfe8732-1610896362432),
-I will split it and upload it on a more convenient website in the next few days.
+here](https://webconf.math.cnrs.fr/playback/presentation/2.0/playback.html?meetingId=81d0e0e6f60ca203b52378cbc8875e804cfe8732-1610896362432)
+(slightly better quality than individual videos below).
 
 Schedule
 --------
@@ -60,6 +60,8 @@ Abstracts
 ---------
 
 **Samuel Mimram: _Welcome_** / [slides](slides/mimram.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oA15cGpYyKY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Romain Beauxis: _Liquidsoap current and future features_** / [slides](slides/beauxis.pdf)
 
@@ -145,6 +147,8 @@ they integrate with Liquidsoap.
 
 **Jon Stephenson: _A presentation of [live365.com](http://live365.com)_** / [slides](slides/stephenson.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-GfhEOUBy1Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Dane Streeter: _Creating a global virtual radio station with Liquidsoap_** / [slides](slides/streeter.pdf)
 
 Basis is showcasing how TTNS uses liquidsoap to enable DJ's from any time zone
@@ -220,6 +224,7 @@ a {text-decoration: none;}
 a:hover {text-decoration: underline;}
 h1 {text-shadow: 0 0 10px;}
 h2 {text-shadow: 0 0 5px;}
+iframe {display: block; margin: auto;}
 </style>
 
 <script>
