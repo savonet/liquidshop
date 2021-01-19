@@ -155,7 +155,11 @@ showcase any of our usage and experiences.
 
 **Gilles Pietri: _Actual radio work with Liquidsoap_** / [slides](slides/pietri.pdf)
 
+General presentation / discussion about Liquidsoap:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hzZ76Eez0ps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Tutorial about building a webradio with Liquidsoap:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8l8uqBS6-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
