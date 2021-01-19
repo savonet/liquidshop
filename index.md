@@ -125,7 +125,7 @@ The approach has motived an in-development project called [Crazy Arms Radio
 Backend](https://github.com/dtcooper/crazyarms), straightforward backend-only
 playout software for the modern, fully decentralized station.
 
-**Youenn Piolet: _Liquidsoap at Radio France_** / [slides](slides/piolet.pdf)
+**Youenn Piolet: _Streaming at Radio France_** / [slides](slides/piolet.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UnHfgDmi9_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -155,6 +155,10 @@ showcase any of our usage and experiences.
 
 **Gilles Pietri: _Actual radio work with Liquidsoap_** / [slides](slides/pietri.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hzZ76Eez0ps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8l8uqBS6-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Radios expect a lot from their automation system, let's talk about blank
 detections, rotations, genre-driven clocks, jingles, avoiding repetitions, sound
 processing (internal, using LADSPA, StereoTool)… Let's see also what tools
@@ -179,7 +183,7 @@ The current schedule is the following and still subject to minor changes
 | 18:10 GMT | _Break_ |
 | 18:20 GMT | Sheri Barclay: __[KPISS.FM](http://kpiss.fm/) – Onboarding and Community Management Techniques__ |
 | 18:40 GMT | David Cooper: __[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap__ |
-| 19:00 GMT | Youenn Piolet: __Liquidsoap at Radio France__ |
+| 19:00 GMT | Youenn Piolet: __Streaming at Radio France__ |
 | 19:45 GMT | _Break_ |
 | 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
 | 20:20 GMT | Jon Stephenson: __A presentation of [live365.com](http://live365.com)__ |
