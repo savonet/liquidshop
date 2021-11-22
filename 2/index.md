@@ -51,7 +51,7 @@ Registration
 ------------
 
 If you want to attend [**please register
-here**](https://forms.gle/HdGNLz5qM3HVU1ub7). Registration is free but mandatory
+here**](https://forms.gle/EDFsfMCS4dNKnrxc9). Registration is free but mandatory
 for organisational purposes (in particular, we need your mail in order to
 communicate the link to the live stream later on).
 
