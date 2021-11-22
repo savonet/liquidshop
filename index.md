@@ -1,2 +1,21 @@
 - [Liquidshop 1](1) (2021)
 - [Liquidshop 2](2) (2022)
+
+<center><a href="https://www.liquidsoap.info/"><img src="https://www.liquidsoap.info/assets/img/bottle_invert.png" alt="drawing" height="100px" style="margin-top: 50px;"/></a></center>
+
+<style>
+p {text-align: justify;}
+#downloads {display: none;}
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+h1 {text-shadow: 0 0 10px;}
+h2 {text-shadow: 0 0 5px;}
+iframe {display: block; margin: auto;}
+</style>
+
+<script>
+window.onload = function() {
+  var date = new Date();
+  document.querySelector("#schedule + p + p").innerHTML += " (all times are given in <a href='https://en.wikipedia.org/wiki/Greenwich_Mean_Time'>GMT</a>, current GMT time is "+date.getUTCHours()+":"+date.getUTCMinutes()+"):";
+}
+</script>
