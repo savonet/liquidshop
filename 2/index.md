@@ -1,4 +1,4 @@
-The **liquidshop** was the second edition of a workshop about
+The **liquidshop** is the second edition of a workshop about
 [Liquidsoap](https://www.liquidsoap.info/) and related technologies (for
 streaming audio and video, interacting through websites, etc.). It will be held
 fully online.
