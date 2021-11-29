@@ -21,7 +21,7 @@ Three kinds of presentations will be featured during the workshop:
 Schedule
 --------
 
-The workshop was held on Sunday January 23rd, 2022. The time span will be
+The workshop will be held on Sunday January 23rd, 2022. The time span will be
 roughly 15:00–23:00 GMT in order to accommodate with most timezones (for
 instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
@@ -67,6 +67,10 @@ Links
 -----
 
 **[Liquidsoap](https://www.liquidsoap.info/)**
+
+Previous editions:
+
+- [Liquidshop 1](../1/)
 
 Organizing team
 ---------------
