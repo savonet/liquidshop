@@ -66,7 +66,11 @@ Please reach out if you want to sponsor the event in some way, you can also make
 Links
 -----
 
-**[Liquidsoap](https://www.liquidsoap.info/)**
+[Aleatoric Forest](https://radio.af/) / [Azuracast](https://azuracast.com) /
+[Digris](digris.ch) / [Gargoyle](http://gargoyle.co.za) /
+[G&L](https://www.gl-systemhaus.de/) / [Jew.pizza](https://jew.pizza/) / [John
+Warburton](https://www.surrey.ac.uk/people/john-warburton) /
+**[Liquidsoap](https://www.liquidsoap.info/)** / [Systrum](https://systrum.net)
 
 Previous editions:
 
