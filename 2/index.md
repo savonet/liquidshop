@@ -68,9 +68,13 @@ Links
 
 [Aleatoric Forest](https://radio.af/) / [Azuracast](https://azuracast.com) /
 [Digris](digris.ch) / [Gargoyle](http://gargoyle.co.za) /
-[G&L](https://www.gl-systemhaus.de/) / [Jew.pizza](https://jew.pizza/) / [John
-Warburton](https://www.surrey.ac.uk/people/john-warburton) /
-**[Liquidsoap](https://www.liquidsoap.info/)** / [Systrum](https://systrum.net)
+[G&L](https://www.gl-systemhaus.de/) / [HearDis!](https://www.heardis.com/) /
+[Jew.pizza](https://jew.pizza/) / [John
+Warburton](https://www.surrey.ac.uk/people/john-warburton) / [Lahmacun
+radio](https://www.lahmacun.hu/) /
+**[Liquidsoap](https://www.liquidsoap.info/)** / [Radio
+France](https://www.radiofrance.fr/) / [Systrum](https://systrum.net) /
+[T4P](https://www.t4p.com/)
 
 Previous editions:
 
