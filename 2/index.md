@@ -47,6 +47,10 @@ Abstracts
 
 **Romain Beauxis: _Some news about Liquidsoap_**
 
+**Rich Showalter and Gene Savage: Live365 Product Showcase**
+
+Live365 is a pioneer in streaming audio with its first streams going live in 1998. In 2017 Live365 relaunched on a new platform powered by Liquidsoap. Boasting over 4,000 active broadcasters, Live365 provides a one-stop-shop for streaming audio by offering music licensing (US, UK and Canada), cloud/live management tools, ad insertion with revenue share, analytics and a full directory with mobile, Alexa and iHeart distribution.
+
 **Buster Neece: _AzuraCast, Liquidsoap, and the Open Radio Ecosystem_**
 
 Five years ago, a fan radio station project expanded its focus from a single
