@@ -25,29 +25,17 @@ The workshop will be held on Sunday January 23rd, 2022. The time span will be
 roughly 15:00–23:00 GMT in order to accommodate with most timezones (for
 instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
-The schedule will be announced soon.
+The tentative schedule is the following, and still subject to changes:
 
-<!--
-The current schedule is the following and still subject to minor changes
-
-| 15:15 GMT | _Welcome_ |
-| 15:30 GMT | Romain Beauxis: __Liquidsoap current and future features__ |
-| 16:30 GMT | _Break_ |
-| 16:40 GMT | Tony Miller: __[Datafruits.fm](http://datafruits.fm/) – a community built around internet radio__ |
-| 17:00 GMT | Martin Kirchgessner: __Using Liquidsoap... and [Showergel](https://github.com/martinkirch/showergel)__ |
-| 17:20 GMT | Lucas	Bickel: __The Broadcasters Niche – why we contribute__ |
-| 17:40 GMT | David Baelde: __The early days of Liquidsoap__ |
-| 18:10 GMT | _Break_ |
-| 18:20 GMT | Sheri Barclay: __[KPISS.FM](http://kpiss.fm/) – Onboarding and Community Management Techniques__ |
-| 18:40 GMT | David Cooper: __[Burning Man Radio](https://en.wikipedia.org/wiki/BMIR) Scrubbed with Liquidsoap__ |
-| 19:00 GMT | Youenn Piolet: __Streaming at Radio France__ |
-| 19:45 GMT | _Break_ |
-| 20:00 GMT | John Warburton: __Easing your automation and improving your sound with Liquidsoap and FFmpeg__ |
-| 20:20 GMT | Jon Stephenson: __A presentation of [live365.com](http://live365.com)__ |
-| 20:40 GMT | Dane Streeter: __Creating a global virtual radio station with Liquidsoap__ |
-| 21:00 GMT | Gilles Pietri: __Actual radio work with Liquidsoap__ |
-| 21:40 GMT | Workshop and free discussions |
--->
+| 15:45 GMT | _Welcome_ |
+| 16:00 GMT | Romain Beauxis: __Some news about Liquidsoap__ |
+| 16:30 GMT | Buster Neece: __AzuraCast, Liquidsoap, and the Open Radio Ecosystem__ |
+| 17:00 GMT | Mark Jeghers: __Playgen: an automated playlist generator__ |
+| 17:30 GMT | Chris Mahoney: __MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication__ |
+| 18:00 GMT | Pedro Vílchez: __[xrcb.cat](https://xrcb.cat/) -- a community radio network in Barcelona__ |
+| 18:30 GMT | Peter Bokor: __Liquidsoap & the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
+| 19:00 GMT | Gilles Pietri: __Migrating from 1.4 to 2.0__ |
+| 19:30 GMT | _Goodbye_ |
 
 Registration
 ------------
@@ -73,8 +61,9 @@ Links
 Warburton](https://www.surrey.ac.uk/people/john-warburton) / [Lahmacun
 radio](https://www.lahmacun.hu/) /
 **[Liquidsoap](https://www.liquidsoap.info/)** / [Radio
-France](https://www.radiofrance.fr/) / [Systrum](https://systrum.net) /
-[T4P](https://www.t4p.com/)
+France](https://www.radiofrance.fr/) /
+[Showergel](https://showergel.readthedocs.io/) / [Systrum](https://systrum.net)
+/ [T4P](https://www.t4p.com/) / [The Movement Channel](https://www.themove.tv/)
 
 Previous editions:
 
