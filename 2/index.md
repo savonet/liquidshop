@@ -32,7 +32,7 @@ The tentative schedule is the following, and still subject to changes
 | 15:15 GMT | _Welcome_ |
 | 15:30 GMT | Romain Beauxis: __Some news about Liquidsoap__ |
 | 16:00 GMT | Buster Neece: __[AzuraCast](https://www.azuracast.com/), Liquidsoap, and the Open Radio Ecosystem__ |
-| 16:30 GMT | Mark Jeghers: __Playgen: an automated playlist generator__ |
+| 16:30 GMT | Mark Jeghers: __[Playgen](https://github.com/jeghers/playgen): an automated playlist generator__ |
 | 17:00 GMT | Rich Showalter and Gene Savage: __[Live365](https://live365.com/) Product Showcase__ |
 | 17:30 GMT | Chris Mahoney: __MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication__ |
 | 18:00 GMT | Pedro Vílchez: __[xrcb.cat](https://xrcb.cat/) -- a community radio network in Barcelona__ |
@@ -45,7 +45,7 @@ Abstracts
 
 **Romain Beauxis: _Some news about Liquidsoap_**
 
-**Buster Neece: _AzuraCast, Liquidsoap, and the Open Radio Ecosystem_**
+**Buster Neece: _[AzuraCast](https://www.azuracast.com/), Liquidsoap, and the Open Radio Ecosystem_**
 
 Five years ago, a fan radio station project expanded its focus from a single
 community to being a free and open-source web radio suite for the whole web
@@ -57,14 +57,15 @@ open-source web radio option has been a labor of love, filled with lots of great
 moments, but also lots of challenges, so join us as we talk about how things
 have gone so far, and what's next for us.
 
-**Mark Jeghers: _Playgen: an automated playlist generator_**
+**Mark Jeghers: _[Playgen](https://github.com/jeghers/playgen): an automated
+playlist generator_**
 
 Playgen provides automated playlist generation with enhanced randomization,
 management APIs, on-demand request queueing and history logging. This talk
 presents the basic design and usage details that a software developer needs to
 get started.
 
-**Rich Showalter and Gene Savage: Live365 Product Showcase**
+**Rich Showalter and Gene Savage: [Live365](https://live365.com/) Product Showcase**
 
 Live365 is a pioneer in streaming audio with its first streams going live
 in 1998. In 2017 Live365 relaunched on a new platform powered by
