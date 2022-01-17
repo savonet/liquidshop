@@ -31,8 +31,9 @@ The tentative schedule is the following, and still subject to changes
 
 |   |   |
 |---|---|
-| 15:45 GMT | _Welcome_ |
-| 16:00 GMT | Romain Beauxis: __Some news about Liquidsoap__ |
+| 15:15 GMT | _Welcome_ |
+| 15:30 GMT | Romain Beauxis: __Some news about Liquidsoap__ |
+| 16:00 GMT | Rich Showalter and Gene Savage: __Live365 Product Showcase__ |
 | 16:30 GMT | Buster Neece: __AzuraCast, Liquidsoap, and the Open Radio Ecosystem__ |
 | 17:00 GMT | Mark Jeghers: __Playgen: an automated playlist generator__ |
 | 17:30 GMT | Chris Mahoney: __MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication__ |
