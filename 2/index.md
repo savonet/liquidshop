@@ -41,6 +41,7 @@ The tentative schedule is the following, and still subject to changes
 | 18:30 GMT | Peter Bokor: __Liquidsoap & the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
 | 19:00 GMT | Gilles Pietri: __Migrating from 1.4 to 2.0__ |
 | 19:30 GMT | _Goodbye_ |
+|---|---|
 
 Abstracts
 ---------
@@ -165,5 +166,10 @@ iframe {display: block; margin: auto;}
 window.onload = function() {
   var date = new Date();
   document.querySelector("#schedule + p + p").innerHTML += " (all times are given in <a href='https://en.wikipedia.org/wiki/Greenwich_Mean_Time'>GMT</a>, current GMT time is "+date.getUTCHours()+":"+date.getUTCMinutes()+"):";
+  const hours = document.querySelectorAll("#schedule + p + p + table tr td:first-child");
+  hours.forEach(function(h) {
+    d = new Date("Jan 23 2022 " + h.innerHTML);
+    h.innerHTML += " (" + d.getHours() + ":" + d.getMinutes() + " local time)";
+  });
 }
 </script>
