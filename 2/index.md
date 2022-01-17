@@ -29,8 +29,6 @@ instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
 The tentative schedule is the following, and still subject to changes
 
-|   |   |
-|---|---|
 | 15:15 GMT | _Welcome_ |
 | 15:30 GMT | Romain Beauxis: __Some news about Liquidsoap__ |
 | 16:00 GMT | Rich Showalter and Gene Savage: __Live365 Product Showcase__ |
@@ -41,7 +39,6 @@ The tentative schedule is the following, and still subject to changes
 | 18:30 GMT | Peter Bokor: __Liquidsoap & the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
 | 19:00 GMT | Gilles Pietri: __Migrating from 1.4 to 2.0__ |
 | 19:30 GMT | _Goodbye_ |
-|---|---|
 
 Abstracts
 ---------
