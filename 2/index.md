@@ -32,8 +32,8 @@ The tentative schedule is the following, and still subject to changes
 | 15:15 GMT | _Welcome_ |
 | 15:30 GMT | Romain Beauxis: __Some news about Liquidsoap__ |
 | 16:00 GMT | Buster Neece: __[AzuraCast](https://www.azuracast.com/), Liquidsoap, and the Open Radio Ecosystem__ |
-| 16:30 GMT | Rich Showalter and Gene Savage: __[Live365](https://live365.com/) Product Showcase__ |
-| 17:00 GMT | Mark Jeghers: __Playgen: an automated playlist generator__ |
+| 16:30 GMT | Mark Jeghers: __Playgen: an automated playlist generator__ |
+| 17:00 GMT | Rich Showalter and Gene Savage: __[Live365](https://live365.com/) Product Showcase__ |
 | 17:30 GMT | Chris Mahoney: __MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication__ |
 | 18:00 GMT | Pedro Vílchez: __[xrcb.cat](https://xrcb.cat/) -- a community radio network in Barcelona__ |
 | 18:30 GMT | Peter Bokor: __Liquidsoap & the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
@@ -57,6 +57,13 @@ open-source web radio option has been a labor of love, filled with lots of great
 moments, but also lots of challenges, so join us as we talk about how things
 have gone so far, and what's next for us.
 
+**Mark Jeghers: _Playgen: an automated playlist generator_**
+
+Playgen provides automated playlist generation with enhanced randomization,
+management APIs, on-demand request queueing and history logging. This talk
+presents the basic design and usage details that a software developer needs to
+get started.
+
 **Rich Showalter and Gene Savage: Live365 Product Showcase**
 
 Live365 is a pioneer in streaming audio with its first streams going live
@@ -65,13 +72,6 @@ Liquidsoap. Boasting over 4,000 active broadcasters, Live365 provides a
 one-stop-shop for streaming audio by offering music licensing (US, UK and
 Canada), cloud/live management tools, ad insertion with revenue share, analytics
 and a full directory with mobile, Alexa and iHeart distribution.
-
-**Mark Jeghers: _Playgen: an automated playlist generator_**
-
-Playgen provides automated playlist generation with enhanced randomization,
-management APIs, on-demand request queueing and history logging. This talk
-presents the basic design and usage details that a software developer needs to
-get started.
 
 **Chris Mahoney: _MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication_**
 
