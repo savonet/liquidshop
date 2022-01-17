@@ -6,6 +6,7 @@ fully online.
 Feel free to [register](https://forms.gle/EDFsfMCS4dNKnrxc9) in order to attend
 or propose a talk!
 
+<!--
 Presentations
 -------------
 
@@ -17,6 +18,7 @@ Three kinds of presentations will be featured during the workshop:
   Liquidsoap and streaming in general
 - _workshop_: user-centered freeform discussions about your project or issues
   around Liquidsoap and streaming
+-->
 
 Schedule
 --------
@@ -25,7 +27,7 @@ The workshop will be held on Sunday January 23rd, 2022. The time span will be
 roughly 15:00–23:00 GMT in order to accommodate with most timezones (for
 instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
 
-The tentative schedule is the following, and still subject to changes:
+The tentative schedule is the following, and still subject to changes
 
 | 15:45 GMT | _Welcome_ |
 | 16:00 GMT | Romain Beauxis: __Some news about Liquidsoap__ |
@@ -36,6 +38,69 @@ The tentative schedule is the following, and still subject to changes:
 | 18:30 GMT | Peter Bokor: __Liquidsoap & the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
 | 19:00 GMT | Gilles Pietri: __Migrating from 1.4 to 2.0__ |
 | 19:30 GMT | _Goodbye_ |
+
+Abstracts
+---------
+
+**Romain Beauxis: _Some news about Liquidsoap_**
+
+**Buster Neece: _AzuraCast, Liquidsoap, and the Open Radio Ecosystem_**
+
+Five years ago, a fan radio station project expanded its focus from a single
+community to being a free and open-source web radio suite for the whole web
+radio community. AzuraCast was born, and since then it has seen remarkable
+growth in the community, with tens of thousands of stations using it today. From
+the very start, under the hood of AzuraCast was Liquidsoap, which opened up a
+world of "power user" customization for users. Maintaining a fully free and
+open-source web radio option has been a labor of love, filled with lots of great
+moments, but also lots of challenges, so join us as we talk about how things
+have gone so far, and what's next for us.
+
+**Mark Jeghers: _Playgen: an automated playlist generator_**
+
+Playgen provides automated playlist generation with enhanced randomization,
+management APIs, on-demand request queueing and history logging. This talk
+presents the basic design and usage details that a software developer needs to
+get started.
+
+**Chris Mahoney: _MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication_**
+
+Chris Mahoney, Founder/CTO of TrueMotive Media. 
+
+TrueMotive is a close-knit team with a deep shared background in the evolution
+of audiovisual and emerging technologies, who during this global pandemic have
+had a lot of time to consider the future of human communication and
+interaction. Our team is committed to being a strong voice for a future that
+returns individual creative control, and natural human interaction that the
+evolution of Web 2.0 platforming has failed to provide.
+
+MediaMesh is our current development priority aimed at achieving the goal of
+people-powered communication. We have incorporated Liquidsoap into our workflow
+almost immediately after experiencing version 2.0. This talk will be a light
+technical overview of our experience during development so far, a high-level
+overview of our intended product and goals, along with a chance to discuss the
+wealth of opportunities that first class ffmpeg video support provides.
+
+**Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- a community radio network in Barcelona_**
+
+**Peter Bokor: _Liquidsoap & the [Lahmacun community radio](https://www.lahmacun.hu/)_**
+
+The talk presents how Liquidsoap is used in the Lahmacun community web radio
+(based in Budapest, Hungary). Lahmacun radio was founded in 2018, early versions
+of the website had used Liquidsoap as part of an Azuracast instance (using the
+functionalities offered by Azuracast), then we introduced a custom Liquidsoap
+script (entirely detached from Azuracast's scheduling features). Our current
+efforts aim at upgrading our Liquidsoap 1.4 script to a recent 2.0
+version. Highlights of our script include advanced usages of the delay operator
+and how we use fading transitions. Lahmacun radio's regular IT team consists of
+5+ volunteers (all of them being experienced IT professionals).
+
+**Gilles Pietri: _Migrating from 1.4 to 2.0_**
+
+Some insight about the things that needed to change to work on 2.0, and the
+improvement made possible through the new API / language possibilities
+(including FFmpeg frame copy).
+
 
 Registration
 ------------
