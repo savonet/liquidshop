@@ -37,7 +37,7 @@ The tentative schedule is the following, and still subject to changes
 | 17:30 GMT | Chris Mahoney: __MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication__ |
 | 18:00 GMT | Pedro Vílchez: __[xrcb.cat](https://xrcb.cat/) -- a community radio network in Barcelona__ |
 | 18:20 GMT | Peter Bokor: __Liquidsoap & the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
-| 18:40 GMT | Sheri	Barclay: __[KPISS](https://kpiss.fm/) 3.0 - Sustaining an Online Radio Community__ |
+| 18:40 GMT | Sheri	Barclay: __[KPISS](https://kpiss.fm/) 3.0 -- Sustaining an Online Radio Community__ |
 | 19:00 GMT | Gilles Pietri: __Migrating from 1.4 to 2.0__ |
 | 19:30 GMT | _Goodbye_ |
 
@@ -107,7 +107,7 @@ version. Highlights of our script include advanced usages of the delay operator
 and how we use fading transitions. Lahmacun radio's regular IT team consists of
 5+ volunteers (all of them being experienced IT professionals).
 
-**Sheri	Barclay: _[KPISS](https://kpiss.fm/) 3.0 - Sustaining an Online Radio Community_**
+**Sheri	Barclay: _[KPISS](https://kpiss.fm/) 3.0 -- Sustaining an Online Radio Community_**
 
 I would like to discuss the finer points of building and sustaining a community
 pre, during and post pandemic as well as how we updated the structure of our
