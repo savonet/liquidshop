@@ -35,8 +35,8 @@ The tentative schedule is the following, and still subject to changes
 | 16:30 GMT | Mark Jeghers: __[Playgen](https://github.com/jeghers/playgen): an automated playlist generator__ |
 | 17:00 GMT | Rich Showalter and Gene Savage: __[Live365](https://live365.com/) Product Showcase__ |
 | 17:30 GMT | Chris Mahoney: __MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication__ |
-| 18:00 GMT | Antonia Folguera & Pedro Vílchez: __[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Network__ |
-| 18:20 GMT | Peter Bokor: __Liquidsoap & the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
+| 18:00 GMT | Antonia Folguera and Pedro Vílchez: __[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Network__ |
+| 18:20 GMT | Peter Bokor: __Liquidsoap and the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
 | 18:40 GMT | Sheri	Barclay: __[KPISS](https://kpiss.fm/) 3.0 -- Sustaining an Online Radio Community__ |
 | 19:00 GMT | Gilles Pietri: __Migrating from 1.4 to 2.0__ |
 | 19:30 GMT | _Goodbye_ |
@@ -93,9 +93,9 @@ technical overview of our experience during development so far, a high-level
 overview of our intended product and goals, along with a chance to discuss the
 wealth of opportunities that first class ffmpeg video support provides.
 
-**Antonia Folguera & Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Networkx_**
+**Antonia Folguera and Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Networkx_**
 
-**Peter Bokor: _Liquidsoap & the [Lahmacun community radio](https://www.lahmacun.hu/)_**
+**Peter Bokor: _Liquidsoap and the [Lahmacun community radio](https://www.lahmacun.hu/)_**
 
 The talk presents how Liquidsoap is used in the Lahmacun community web radio
 (based in Budapest, Hungary). Lahmacun radio was founded in 2018, early versions
