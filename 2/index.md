@@ -143,8 +143,8 @@ Links
 [Digris](digris.ch) / [Gargoyle](http://gargoyle.co.za) /
 [G&L](https://www.gl-systemhaus.de/) / [HearDis!](https://www.heardis.com/) /
 [Jew.pizza](https://jew.pizza/) / [John
-Warburton](https://www.surrey.ac.uk/people/john-warburton) / [Lahmacun
-radio](https://www.lahmacun.hu/) /
+Warburton](https://www.surrey.ac.uk/people/john-warburton) /
+[KPISS](https://kpiss.fm/) / [Lahmacun radio](https://www.lahmacun.hu/) /
 **[Liquidsoap](https://www.liquidsoap.info/)** / [Radio
 France](https://www.radiofrance.fr/) /
 [Showergel](https://showergel.readthedocs.io/) / [Systrum](https://systrum.net)
