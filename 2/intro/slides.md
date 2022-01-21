@@ -1,8 +1,13 @@
 ---
 title: The Liquidshop 2.0
 date: January 23rd, 2022
-theme: metropolis
 aspectratio: 169
+theme: focus
+themeoptions:
+- numbering=minimal
+header-includes:
+- \definecolor{main}{RGB}{0, 0, 0}
+- \definecolor{background}{RGB}{255, 255, 255}
 ---
 
 # 
@@ -24,8 +29,9 @@ January 23rd, 2022
 
 # Introducing Liquidsoap 2.0
 
-Since last year we have released **Liquidsoap 2.0**. Let's present some of the
-main new features.
+Since last year we have released **Liquidsoap 2.0**.
+
+Let's present some of the main new features.
 
 # Using (and abusing) FFmpeg
 
