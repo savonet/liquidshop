@@ -34,7 +34,7 @@ The tentative schedule is the following, and still subject to changes
 | 16:00 GMT | Buster Neece: __[AzuraCast](https://www.azuracast.com/), Liquidsoap, and the Open Radio Ecosystem__ |
 | 16:30 GMT | Mark Jeghers: __[Playgen](https://github.com/jeghers/playgen): an automated playlist generator__ |
 | 17:00 GMT | Rich Showalter and Gene Savage: __[Live365](https://live365.com/) Product Showcase__ |
-| 17:30 GMT | Chris Mahoney: __MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication__ |
+| 17:30 GMT | Chris Mahoney and Rob Carballo: __MediaMesh: A Collaborative, Intuitive Approach to Complex Media Productions__ |
 | 18:00 GMT | Antonia Folguera and Pedro Vílchez: __[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Network__ |
 | 18:20 GMT | Peter Bokor: __Liquidsoap and the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
 | 18:40 GMT | Sheri	Barclay: __[KPISS](https://kpiss.fm/) 2.0 One year on -- a talk about sustainability__ |
@@ -75,9 +75,7 @@ one-stop-shop for streaming audio by offering music licensing (US, UK and
 Canada), cloud/live management tools, ad insertion with revenue share, analytics
 and a full directory with mobile, Alexa and iHeart distribution.
 
-**Chris Mahoney: _MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication_**
-
-Chris Mahoney, Founder/CTO of TrueMotive Media. 
+**Chris Mahoney and Rob Carballo: _MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication_**
 
 TrueMotive is a close-knit team with a deep shared background in the evolution
 of audiovisual and emerging technologies, who during this global pandemic have
@@ -86,12 +84,18 @@ interaction. Our team is committed to being a strong voice for a future that
 returns individual creative control, and natural human interaction that the
 evolution of Web 2.0 platforming has failed to provide.
 
-MediaMesh is our current development priority aimed at achieving the goal of
-people-powered communication. We have incorporated Liquidsoap into our workflow
-almost immediately after experiencing version 2.0. This talk will be a light
-technical overview of our experience during development so far, a high-level
-overview of our intended product and goals, along with a chance to discuss the
-wealth of opportunities that first class ffmpeg video support provides.
+Liquidsoap has been pivotal in achieving our vision for a media system that
+allows users to collaborate and iterate on streaming and classic prerecorded
+media content. Having evolved through the web broadcasting influx of the past 2
+decades, technology is converging in such a way that integrates existing
+streaming approaches with truly novel interactive media production/sharing.
+
+Our talk will cover the journey toward a v1.0 release, our goals for the system
+in terms of novel user experience, and some lessons learned along the way. A
+short demo of the user interface is also in order with our user experience lead
+Rob Carballo, to review how modern web technologies can make MediaMesh possible
+while also shifting power from monolithic platforms to individuals & close-knit
+communities.
 
 **Antonia Folguera and Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Networkx_**
 
