@@ -39,3 +39,17 @@ We now have a tight integration with FFmpeg
 
 - TODO: example of generating streams without decoding
 - TODO: example of using an FFmpeg filter
+
+<!-- \part{The Liquidsoap typing system} -->
+<!-- \partpage -->
+
+# Why do we want a typing system?
+
+In Liquidsoap
+
+
+
+
+# The book
+
+book.pdf
