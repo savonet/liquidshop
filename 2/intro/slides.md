@@ -12,10 +12,10 @@ header-includes:
 
 # 
 
-\vspace{5ex}
+\vspace{4cm}
 
 \begin{center}
-\includegraphics[scale=.5]{logo}
+\includegraphics[scale=.5]{logo}\hspace{2cm}
 
 \bigskip
 \bigskip
