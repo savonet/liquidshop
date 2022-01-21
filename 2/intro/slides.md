@@ -52,4 +52,6 @@ In Liquidsoap
 
 # The book
 
-book.pdf
+If you want to learn more:
+
+![The book](book.pdf){height=7cm}
