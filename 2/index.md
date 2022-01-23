@@ -59,7 +59,7 @@ moments, but also lots of challenges, so join us as we talk about how things
 have gone so far, and what's next for us.
 
 **Mark Jeghers: _[Playgen](https://github.com/jeghers/playgen): an automated
-playlist generator_**
+playlist generator_** / [slides](slides/3.jeghers.pdf)
 
 Playgen provides automated playlist generation with enhanced randomization,
 management APIs, on-demand request queueing and history logging. This talk
