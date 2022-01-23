@@ -97,7 +97,7 @@ Rob Carballo, to review how modern web technologies can make MediaMesh possible
 while also shifting power from monolithic platforms to individuals & close-knit
 communities.
 
-**Antonia Folguera and Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Networkx_** / [slides](slides/6.xrcb.cat.pdf)
+**Antonia Folguera and Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Network_** / [slides](slides/6.xrcb.cat.pdf)
 
 **Peter Bokor: _Liquidsoap and the [Lahmacun community radio](https://www.lahmacun.hu/)_** / [slides](slides/7.lahmacun.pdf)
 
