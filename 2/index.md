@@ -24,8 +24,8 @@ Schedule
 --------
 
 The workshop will be held on Sunday January 23rd, 2022. The time span will be
-roughly 15:00–23:00 GMT in order to accommodate with most timezones (for
-instance, this means 9:00–17:00 in New Orleans and 16:00–00:00 in Paris).
+roughly 15:00–20:00 GMT in order to accommodate with most timezones (for
+instance, this means 9:00–14:00 in New Orleans and 16:00–21:00 in Paris).
 
 The tentative schedule is the following, and still subject to changes
 
