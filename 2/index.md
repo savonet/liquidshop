@@ -44,9 +44,9 @@ The tentative schedule is the following, and still subject to changes
 Abstracts
 ---------
 
-**Romain Beauxis: _Some news about Liquidsoap_** / [slides](slides/1.beauxis.pdf)
+**Romain Beauxis: _Some news about Liquidsoap_** / [slides](slides/1.liquidsoap.pdf)
 
-**Buster Neece: _[AzuraCast](https://www.azuracast.com/), Liquidsoap, and the Open Radio Ecosystem_** / [slides](slides/2.neece.pdf)
+**Buster Neece: _[AzuraCast](https://www.azuracast.com/), Liquidsoap, and the Open Radio Ecosystem_** / [slides](slides/2.azuracast.pdf)
 
 Five years ago, a fan radio station project expanded its focus from a single
 community to being a free and open-source web radio suite for the whole web
@@ -59,7 +59,7 @@ moments, but also lots of challenges, so join us as we talk about how things
 have gone so far, and what's next for us.
 
 **Mark Jeghers: _[Playgen](https://github.com/jeghers/playgen): an automated
-playlist generator_** / [slides](slides/3.jeghers.pdf)
+playlist generator_** / [slides](slides/3.playgen.pdf)
 
 Playgen provides automated playlist generation with enhanced randomization,
 management APIs, on-demand request queueing and history logging. This talk
@@ -97,9 +97,9 @@ Rob Carballo, to review how modern web technologies can make MediaMesh possible
 while also shifting power from monolithic platforms to individuals & close-knit
 communities.
 
-**Antonia Folguera and Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Networkx_**
+**Antonia Folguera and Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Networkx_** / [slides](slides/6.xrcb.cat.pdf)
 
-**Peter Bokor: _Liquidsoap and the [Lahmacun community radio](https://www.lahmacun.hu/)_** / [slides](slides/7.bokor.pdf)
+**Peter Bokor: _Liquidsoap and the [Lahmacun community radio](https://www.lahmacun.hu/)_** / [slides](slides/7.lahmacun.pdf)
 
 The talk presents how Liquidsoap is used in the Lahmacun community web radio
 (based in Budapest, Hungary). Lahmacun radio was founded in 2018, early versions
@@ -111,7 +111,7 @@ version. Highlights of our script include advanced usages of the delay operator
 and how we use fading transitions. Lahmacun radio's regular IT team consists of
 5+ volunteers (all of them being experienced IT professionals).
 
-**Sheri	Barclay: _[KPISS](https://kpiss.fm/) 2.0 One year on -- a talk about sustainability_** / [slides](slides/8.barclay.pdf)
+**Sheri	Barclay: _[KPISS](https://kpiss.fm/) 2.0 One year on -- a talk about sustainability_** / [slides](slides/8.kpiss.pdf)
 
 I would like to discuss the finer points of building and sustaining a community
 pre, during and post pandemic as well as how we updated the structure of our
