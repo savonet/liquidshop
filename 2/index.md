@@ -1,10 +1,12 @@
-The **liquidshop** is the second edition of a workshop about
+The **liquidshop** was the second edition of a workshop about
 [Liquidsoap](https://www.liquidsoap.info/) and related technologies (for
-streaming audio and video, interacting through websites, etc.). It will be held
-fully online.
+streaming audio and video, interacting through websites, etc.). It was held
+fully online on Sunday January 23rd, 2022.
 
+<!--
 Feel free to [register](https://forms.gle/EDFsfMCS4dNKnrxc9) in order to attend
 or propose a talk!
+-->
 
 <!--
 Presentations
@@ -20,6 +22,7 @@ Three kinds of presentations will be featured during the workshop:
   around Liquidsoap and streaming
 -->
 
+<!--
 Schedule
 --------
 
@@ -40,13 +43,18 @@ The tentative schedule is the following, and still subject to changes
 | 18:40 GMT | Sheri	Barclay: __[KPISS](https://kpiss.fm/) 2.0 One year on -- a talk about sustainability__ |
 | 19:00 GMT | Gilles Pietri: __Migrating from 1.4 to 2.0__ |
 | 19:30 GMT | _Goodbye_ |
+-->
 
 Abstracts
 ---------
 
 **Romain Beauxis: _Some news about Liquidsoap_** / [slides](slides/1.liquidsoap.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nCp-Ik6Z5hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Buster Neece: _[AzuraCast](https://www.azuracast.com/), Liquidsoap, and the Open Radio Ecosystem_** / [slides](slides/2.azuracast.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rApEODLKY0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Five years ago, a fan radio station project expanded its focus from a single
 community to being a free and open-source web radio suite for the whole web
@@ -61,12 +69,16 @@ have gone so far, and what's next for us.
 **Mark Jeghers: _[Playgen](https://github.com/jeghers/playgen): an automated
 playlist generator_** / [slides](slides/3.playgen.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w_93Qekb8AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Playgen provides automated playlist generation with enhanced randomization,
 management APIs, on-demand request queueing and history logging. This talk
 presents the basic design and usage details that a software developer needs to
 get started.
 
 **Rich Showalter and Gene Savage: [Live365](https://live365.com/) Product Showcase**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Sh8QvGZb-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Live365 is a pioneer in streaming audio with its first streams going live
 in 1998. In 2017 Live365 relaunched on a new platform powered by
@@ -76,6 +88,8 @@ Canada), cloud/live management tools, ad insertion with revenue share, analytics
 and a full directory with mobile, Alexa and iHeart distribution.
 
 **Chris Mahoney and Rob Carballo: _MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication_**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQEh481Aoho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 TrueMotive is a close-knit team with a deep shared background in the evolution
 of audiovisual and emerging technologies, who during this global pandemic have
@@ -99,7 +113,11 @@ communities.
 
 **Antonia Folguera and Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Network_** / [slides](slides/6.xrcb.cat.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nj82LJwNhUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Peter Bokor: _Liquidsoap and the [Lahmacun community radio](https://www.lahmacun.hu/)_** / [slides](slides/7.lahmacun.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9FEGFRXPptE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The talk presents how Liquidsoap is used in the Lahmacun community web radio
 (based in Budapest, Hungary). Lahmacun radio was founded in 2018, early versions
@@ -113,6 +131,8 @@ and how we use fading transitions. Lahmacun radio's regular IT team consists of
 
 **Sheri	Barclay: _[KPISS](https://kpiss.fm/) 2.0 One year on -- a talk about sustainability_** / [slides](slides/8.kpiss.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5JkvFku2wzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I would like to discuss the finer points of building and sustaining a community
 pre, during and post pandemic as well as how we updated the structure of our
 website in a year since the last liquid soap meeting, the potential to build in
@@ -121,10 +141,13 @@ streaming game.
 
 **Gilles Pietri: _Migrating from 1.4 to 2.0_**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9nrOUCrl3zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Some insight about the things that needed to change to work on 2.0, and the
 improvement made possible through the new API / language possibilities
 (including FFmpeg frame copy).
 
+<!--
 
 Registration
 ------------
@@ -139,6 +162,8 @@ Sponsoring
 
 Please reach out if you want to sponsor the event in some way, you can also make
 [donations on Paypal](http://paypal.me/LiquidsoapMedia).
+
+-->
 
 Links
 -----
