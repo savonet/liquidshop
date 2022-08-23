@@ -1,6 +1,6 @@
 The liquidshop is a workshop about [Liquidsoap](http://www.liquidsoap.info/) and
 related technologies (for streaming audio and video, interacting through
-websites, etc.). You can see the videos of previous workshops here:
+websites, etc.). You can see the videos of the previous workshops here:
 
 - [Liquidshop 1](1) (2021)
 - [Liquidshop 2](2) (2022)
