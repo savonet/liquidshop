@@ -3,7 +3,7 @@ Hi everybody,
 We are glad to announce the second edition of *Liquidshop*, the Liquidsoap
 workshop, which will be held online on
 
-    ** January 23rd 2022 **
+    ** Thursday 30 May 2023 **
     
 To goal is to gather all people interested in Liquidsoap (of course) but also in
 related topics
@@ -29,7 +29,7 @@ We will have 3 different tracks for the event, namely
 If you're interested to participate, whether it is as an attendee or a
 presenter, make sure to register via our website at
 http://www.liquidsoap.info/liquidshop/ or directly via the form available at
-https://forms.gle/EDFsfMCS4dNKnrxc9
+https://forms.gle/2QZDNJUH9XdRJ5bP8
 
 We are super excited for this event. We have already secured a couple of
 interesting speakers and we would love to get to know the community better, see
