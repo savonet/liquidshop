@@ -5,13 +5,20 @@ workshop, which will be held online on
 
     ** Thursday 30 May 2023 **
     
-To goal is to gather all people interested in Liquidsoap (of course) but also in
-related topics
+To goal is to gather all people interested in Liquidsoap (of course) and welcome any contribution, related or not to liquidsoap.
+
+As project leaders, we are particularly eager to get to know how people in the community do radio, media streaming and more,
+learning about specific to certain tools or workflow that we could, in turn, use to enhance how liquidsoap works.
+
+We also love to meet the people involved and engaged with these technologies, community radios, non-profit but also budding startup
+or more established businesses, art project and installations and more!
 
 - audio and video streaming
 - radio broadcasting
 - signal processing
 - audio and video synthesis
+- community projects
+- creative art and art installations
 - and so on
 
 using whichever software. This is thus the place to share to the world your
