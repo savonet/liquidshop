@@ -1,6 +1,6 @@
 Hi everybody,
 
-We are glad to announce the second edition of *Liquidshop*, the Liquidsoap
+We are glad to announce the third edition of *Liquidshop*, the Liquidsoap
 workshop, which will be held online on
 
     ** Thursday 30 May 2023 **
