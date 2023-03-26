@@ -20,6 +20,7 @@ businesses, art project and installations and more!
 - radio broadcasting
 - signal processing
 - audio and video synthesis
+- website interaction
 - community projects
 - creative art and art installations
 - and so on

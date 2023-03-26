@@ -8,6 +8,8 @@ topics
 - signal processing
 - audio and video synthesis
 - website interaction
+- community projects
+- creative art and art installations
 - and so on
 
 using whichever software. This is thus the place to share to the world your
