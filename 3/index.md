@@ -1,5 +1,5 @@
 The **liquidshop 3** is the third edition of a workshop about
-[Liquidsoap](https://www.liquidsoap.info/) and related technologies.  To goal is
+[Liquidsoap](https://www.liquidsoap.info/) and related technologies.  The goal is
 to gather all people interested in Liquidsoap (of course) and welcome any
 contribution, related or not to Liquidsoap.
 
