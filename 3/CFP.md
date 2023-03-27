@@ -5,7 +5,7 @@ workshop, which will be held online on
 
     ** Tuesday 30 May 2023 **
     
-To goal is to gather all people interested in Liquidsoap (of course) and welcome
+The goal is to gather all people interested in Liquidsoap (of course) and welcome
 any contribution, related or not to Liquidsoap.
 
 We are particularly eager to get to know how people in the community do radio,
