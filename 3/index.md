@@ -24,7 +24,7 @@ Topics of interest are for instance
 This is thus the place to share to the world your favorite or cutting edge
 technologies and projects!
 
-It will be held on **Tuesday 30 May 2023**.
+It will be held on <blink>**Tuesday 30 May 2023**</blink>.
 
 Feel free to [register](https://forms.gle/2QZDNJUH9XdRJ5bP8) in order to attend
 or propose a talk!
