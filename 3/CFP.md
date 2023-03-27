@@ -3,7 +3,7 @@ Hi everybody,
 We are glad to announce the third edition of *Liquidshop*, the Liquidsoap
 workshop, which will be held online on
 
-    ** Thursday 30 May 2023 **
+    ** Tuesday 30 May 2023 **
     
 To goal is to gather all people interested in Liquidsoap (of course) and welcome
 any contribution, related or not to Liquidsoap.
