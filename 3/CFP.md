@@ -53,4 +53,5 @@ Finally, if any of you have some specific topics to discuss and would like to
 learn more about Liquidsoap, this will be a great place to connect!
 
 See y'all soon!
+
 -- Romain and Sam
