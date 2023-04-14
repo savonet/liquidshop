@@ -41,6 +41,48 @@ Three kinds of presentations will be featured during the workshop:
 - _workshop_: user-centered freeform discussions about your project or issues
   around Liquidsoap and streaming
 
+
+Abstracts
+---------
+
+The list below is not complete or definitive, feel free to propose more talks!
+
+**Peter	Bokor: _Scheduling dynamic length radio shows in fixed time slots_**
+
+[Lahmacun radio](https://lahmacun.hu/) is a happy Liquidsoap user since many
+years now. We use a custom Liquidsoap configuration inside an Azuracast
+instance. Our basic use case is fixed time slots for shows in a weekly
+rotation. One challenge we face is that the exact length of each show is a
+priori unknown. For example, a show on Tuesday between 6-7PM may be 55 or 70
+minutes and the Liquidsoap configuration needs to handle it in a flexible
+manner. The expected semantics we'd like to implement is that too short episodes
+will not be played again in the slot (an ambient playlist will be played
+instead) and too long episodes will be faded out at the end of the slot. Also,
+shows need to start on time, which means that other playbacks may need to be
+interrupted. We at Lahmacun radio have been experimenting with different ways of
+implementing the previous semantics, which are: 1) scheduled switch + once
+operator + external daily reloads (currently in production), 2) scheduled
+switch + delay operator (in development).  In this talk/workshop, we'd like to
+discuss our main use case with other users and improve on our solution if
+necessary/possible.
+
+**Sheri Barclay: _KPISS 2023_**
+
+A brief discussion of our community and workflow.
+
+**Youenn Piolet: _Building an open source production ready liquidsoap stack for
+radio broadcasting using cloud native tools_**
+
+The ins an outs of building a portable liquidsoap stack for resilient radio live
+streaming, with production ready open source monitoring tools: docker,
+prometheus, grafana, alertmanager, nginx, icecast. In this presentation we will
+share our liquidsoap scripts and a cloud native monitoring stack similar to what
+we use at Radio France to stream and monitor our 70 online radios.
+
+**Ivan Rendulic: _MusicBox or Air Music_**
+
+Using LiquidSoap on AWS to stream music from server.
+
 <!--
 Schedule
 --------
