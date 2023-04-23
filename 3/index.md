@@ -66,7 +66,7 @@ switch + delay operator (in development).  In this talk/workshop, we'd like to
 discuss our main use case with other users and improve on our solution if
 necessary/possible.
 
-**Sheri Barclay: _KPISS 2023_**
+**Sheri Barclay: _[KPISS](https://kpiss.fm/) 2023_**
 
 A brief discussion of our community and workflow.
 
@@ -77,9 +77,10 @@ The ins an outs of building a portable liquidsoap stack for resilient radio live
 streaming, with production ready open source monitoring tools: docker,
 prometheus, grafana, alertmanager, nginx, icecast. In this presentation we will
 share our liquidsoap scripts and a cloud native monitoring stack similar to what
-we use at Radio France to stream and monitor our 70 online radios.
+we use at [Radio France](https://www.radiofrance.fr/) to stream and monitor our
+70 online radios.
 
-**Ivan Rendulic: _MusicBox or Air Music_**
+**Ivan Rendulic: _[MusicBox](https://airmusic.io) or Air Music_**
 
 Using LiquidSoap on AWS to stream music from server.
 
