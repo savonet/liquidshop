@@ -47,6 +47,10 @@ Abstracts
 
 The list below is not complete or definitive, feel free to propose more talks!
 
+**Romain Beauxis: _Latest news about Liquidsoap_**
+
+Presenting the new features of Liquidsoap.
+
 **Peter	Bokor: _Scheduling dynamic length radio shows in fixed time slots_**
 
 [Lahmacun radio](https://lahmacun.hu/) is a happy Liquidsoap user since many
