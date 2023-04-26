@@ -88,6 +88,11 @@ we use at [Radio France](https://www.radiofrance.fr/) to stream and monitor our
 
 Using LiquidSoap on AWS to stream music from server.
 
+**Denis "Jaromil" Roio: _[frei0r](https://frei0r.dyne.org/) workshop_**
+
+A workshop around the [frei0r](https://frei0r.dyne.org/) collection of video
+effect plugins, which are supported by Liquidsoap.
+
 <!--
 Schedule
 --------
