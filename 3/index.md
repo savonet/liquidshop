@@ -93,6 +93,15 @@ Using LiquidSoap on AWS to stream music from server.
 A workshop around the [frei0r](https://frei0r.dyne.org/) collection of video
 effect plugins, which are supported by Liquidsoap.
 
+**Martin Kirchgessner: _A few things to know when interacting with a live Liquidsoap script_**
+
+For the past 3 years I've been developing
+[Showergel](https://showergel.readthedocs.io), a light web application acting as
+a front-end to a Liquisoap script. It was designed to be plugged with any
+Liquidsoap script: that was too ambitious, but at least I've learned a few
+things along the way! In this talk, I will share some insights and advices to
+fellow developers trying to interact with a running Liquidsoap script.
+
 <!--
 Schedule
 --------
