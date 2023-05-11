@@ -102,6 +102,11 @@ Liquidsoap script: that was too ambitious, but at least I've learned a few
 things along the way! In this talk, I will share some insights and advices to
 fellow developers trying to interact with a running Liquidsoap script.
 
+**Alejandro Ferrari: _IoT based Broadcast radio capture_**
+
+We'll share some lesson learned trying to build a remote managed IoT Broadcast
+capture and recording under bad internet.
+
 <!--
 Schedule
 --------
