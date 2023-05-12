@@ -215,7 +215,13 @@ iframe {display: block; margin: auto;}
 <script>
 window.onload = function() {
   var date = new Date();
-  document.querySelector("#schedule + p + p").innerHTML += " (all times are given in <a href='https://en.wikipedia.org/wiki/Greenwich_Mean_Time'>GMT</a>, current GMT time is "+date.getUTCHours()+":"+date.getUTCMinutes()+"):";
+  var tzo = - (date.getTimezoneOffset() / 60);
+  var tzs; // TZ sign
+
+  if (tzo >= 0) { tzs = "+"; }
+  else { tzs = ""; }
+
+  document.querySelector("#schedule + p + p").innerHTML += " (all times are given in <a href='https://en.wikipedia.org/wiki/Greenwich_Mean_Time'>GMT</a>, the current GMT time is "+date.getUTCHours()+":"+date.getUTCMinutes()+" and your current timezone is GMT"+tzs+tzo+"):";
   /*
   const hours = document.querySelectorAll("#schedule + p + p + table tr td:first-child");
   hours.forEach(function(h) {
