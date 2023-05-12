@@ -29,6 +29,7 @@ It will be held on **Tuesday 30 May 2023**.
 Feel free to [register](https://forms.gle/2QZDNJUH9XdRJ5bP8) in order to attend
 or propose a talk!
 
+<!--
 Presentations
 -------------
 
@@ -40,16 +41,86 @@ Three kinds of presentations will be featured during the workshop:
   Liquidsoap and streaming in general
 - _workshop_: user-centered freeform discussions about your project or issues
   around Liquidsoap and streaming
+-->
 
+Schedule
+--------
+
+The workshop will be held on Tuesday 30 May 2023.
+
+The tentative schedule is the following, and still subject to changes
+
+| 12:45 GMT | _Welcome_ |
+| 13:00 GMT | Romain Beauxis |
+| 13:30 GMT | Youenn Piolet |
+| 14:00 GMT | Alejandro Ferrari |
+| 14:30 GMT | Ivan Rendulic |
+| 14:45 GMT | Oriol	Gómez |
+| 15:00 GMT | Umar Dockrat |
+| 15:15 GMT | Jean-Baptiste Bayle |
+| 15:30 GMT | Denis "Jaromil" Roio |
+| 16:00 GMT | Sheri Barclay |
+| 16:30 GMT | Peter	Bokor |
+| 17:00 GMT | Martin Kirchgessner |
+| 17:30 GMT | Mircea Paun |
+| 18:00 GMT | _Goodbye_ |
 
 Abstracts
 ---------
 
 The list below is not complete or definitive, feel free to propose more talks!
 
+### Regular talks
+
 **Romain Beauxis: _Latest news about Liquidsoap_**
 
 Presenting the new features of Liquidsoap.
+
+**Youenn Piolet: _Building an open source production ready liquidsoap stack for
+radio broadcasting using cloud native tools_**
+
+The ins an outs of building a portable liquidsoap stack for resilient radio live
+streaming, with production ready open source monitoring tools: docker,
+prometheus, grafana, alertmanager, nginx, icecast. In this presentation we will
+share our liquidsoap scripts and a cloud native monitoring stack similar to what
+we use at [Radio France](https://www.radiofrance.fr/) to stream and monitor our
+70 online radios.
+
+**Alejandro Ferrari: _IoT based Broadcast radio capture_**
+
+We'll share some lesson learned trying to build a remote managed IoT Broadcast
+capture and recording under bad internet.
+
+### Showcase presentations
+
+**Ivan Rendulic: _[MusicBox](https://airmusic.io) or Air Music_**
+
+Using LiquidSoap on AWS to stream music from server.
+
+**Oriol	Gómez: _How Liquidsoap changes my radio needs_**
+
+The importance of an open source system like Liquidsoap and how it helped me not
+to use a managed solution like Centova.
+
+**Umar Dockrat: _Technology in Religious Community Broadcasting_**
+
+How we are using online streaming to facilitate tolerance in multicultural
+communities.
+
+**Jean-Baptiste Bayle: _Radiophonic projects_**
+
+Some projects made with Liquidsoap.
+
+### Workshops
+
+**Denis "Jaromil" Roio: _[frei0r](https://frei0r.dyne.org/) workshop_**
+
+A workshop around the [frei0r](https://frei0r.dyne.org/) collection of video
+effect plugins, which are supported by Liquidsoap.
+
+**Sheri Barclay: _[KPISS](https://kpiss.fm/) 2023_**
+
+A brief discussion of our community and workflow.
 
 **Peter	Bokor: _Scheduling dynamic length radio shows in fixed time slots_**
 
@@ -70,29 +141,6 @@ switch + delay operator (in development).  In this talk/workshop, we'd like to
 discuss our main use case with other users and improve on our solution if
 necessary/possible.
 
-**Sheri Barclay: _[KPISS](https://kpiss.fm/) 2023_**
-
-A brief discussion of our community and workflow.
-
-**Youenn Piolet: _Building an open source production ready liquidsoap stack for
-radio broadcasting using cloud native tools_**
-
-The ins an outs of building a portable liquidsoap stack for resilient radio live
-streaming, with production ready open source monitoring tools: docker,
-prometheus, grafana, alertmanager, nginx, icecast. In this presentation we will
-share our liquidsoap scripts and a cloud native monitoring stack similar to what
-we use at [Radio France](https://www.radiofrance.fr/) to stream and monitor our
-70 online radios.
-
-**Ivan Rendulic: _[MusicBox](https://airmusic.io) or Air Music_**
-
-Using LiquidSoap on AWS to stream music from server.
-
-**Denis "Jaromil" Roio: _[frei0r](https://frei0r.dyne.org/) workshop_**
-
-A workshop around the [frei0r](https://frei0r.dyne.org/) collection of video
-effect plugins, which are supported by Liquidsoap.
-
 **Martin Kirchgessner: _A few things to know when interacting with a live Liquidsoap script_**
 
 For the past 3 years I've been developing
@@ -102,135 +150,25 @@ Liquidsoap script: that was too ambitious, but at least I've learned a few
 things along the way! In this talk, I will share some insights and advices to
 fellow developers trying to interact with a running Liquidsoap script.
 
-**Alejandro Ferrari: _IoT based Broadcast radio capture_**
+**Mircea Paun: _Which next song would be the best?_**
 
-We'll share some lesson learned trying to build a remote managed IoT Broadcast
-capture and recording under bad internet.
+Playlist Scheduler, playlist import custom settings, automatic create playlist
+from a playlist file.
 
-<!--
-Schedule
---------
+I want to help to improve music playlist scheduling songs.
 
-The workshop will be held on Sunday January 23rd, 2022. The time span will be
-roughly 15:00–20:00 GMT in order to accommodate with most timezones (for
-instance, this means 9:00–14:00 in New Orleans and 16:00–21:00 in Paris).
-
-The tentative schedule is the following, and still subject to changes
-
-| 15:15 GMT | _Welcome_ |
-| 15:30 GMT | Romain Beauxis: __Some news about Liquidsoap__ |
-| 16:00 GMT | Buster Neece: __[AzuraCast](https://www.azuracast.com/), Liquidsoap, and the Open Radio Ecosystem__ |
-| 16:30 GMT | Mark Jeghers: __[Playgen](https://github.com/jeghers/playgen): an automated playlist generator__ |
-| 17:00 GMT | Rich Showalter and Gene Savage: __[Live365](https://live365.com/) Product Showcase__ |
-| 17:30 GMT | Chris Mahoney and Rob Carballo: __MediaMesh: A Collaborative, Intuitive Approach to Complex Media Productions__ |
-| 18:00 GMT | Antonia Folguera and Pedro Vílchez: __[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Network__ |
-| 18:20 GMT | Peter Bokor: __Liquidsoap and the [Lahmacun community radio](https://www.lahmacun.hu/)__ |
-| 18:40 GMT | Sheri	Barclay: __[KPISS](https://kpiss.fm/) 2.0 One year on -- a talk about sustainability__ |
-| 19:00 GMT | Gilles Pietri: __Migrating from 1.4 to 2.0__ |
-| 19:30 GMT | _Goodbye_ |
-
-Abstracts
----------
-
-**Romain Beauxis: _Some news about Liquidsoap_** / [slides](slides/1.liquidsoap.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nCp-Ik6Z5hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Buster Neece: _[AzuraCast](https://www.azuracast.com/), Liquidsoap, and the Open Radio Ecosystem_** / [slides](slides/2.azuracast.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rApEODLKY0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Five years ago, a fan radio station project expanded its focus from a single
-community to being a free and open-source web radio suite for the whole web
-radio community. AzuraCast was born, and since then it has seen remarkable
-growth in the community, with tens of thousands of stations using it today. From
-the very start, under the hood of AzuraCast was Liquidsoap, which opened up a
-world of "power user" customization for users. Maintaining a fully free and
-open-source web radio option has been a labor of love, filled with lots of great
-moments, but also lots of challenges, so join us as we talk about how things
-have gone so far, and what's next for us.
-
-**Mark Jeghers: _[Playgen](https://github.com/jeghers/playgen): an automated
-playlist generator_** / [slides](slides/3.playgen.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w_93Qekb8AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Playgen provides automated playlist generation with enhanced randomization,
-management APIs, on-demand request queueing and history logging. This talk
-presents the basic design and usage details that a software developer needs to
-get started.
-
-**Rich Showalter and Gene Savage: [Live365](https://live365.com/) Product Showcase**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Sh8QvGZb-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Live365 is a pioneer in streaming audio with its first streams going live
-in 1998. In 2017 Live365 relaunched on a new platform powered by
-Liquidsoap. Boasting over 4,000 active broadcasters, Live365 provides a
-one-stop-shop for streaming audio by offering music licensing (US, UK and
-Canada), cloud/live management tools, ad insertion with revenue share, analytics
-and a full directory with mobile, Alexa and iHeart distribution.
-
-**Chris Mahoney and Rob Carballo: _MediaMesh: Utilizing Liquidsoap to Help Steer the Future of Communication_**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQEh481Aoho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-TrueMotive is a close-knit team with a deep shared background in the evolution
-of audiovisual and emerging technologies, who during this global pandemic have
-had a lot of time to consider the future of human communication and
-interaction. Our team is committed to being a strong voice for a future that
-returns individual creative control, and natural human interaction that the
-evolution of Web 2.0 platforming has failed to provide.
-
-Liquidsoap has been pivotal in achieving our vision for a media system that
-allows users to collaborate and iterate on streaming and classic prerecorded
-media content. Having evolved through the web broadcasting influx of the past 2
-decades, technology is converging in such a way that integrates existing
-streaming approaches with truly novel interactive media production/sharing.
-
-Our talk will cover the journey toward a v1.0 release, our goals for the system
-in terms of novel user experience, and some lessons learned along the way. A
-short demo of the user interface is also in order with our user experience lead
-Rob Carballo, to review how modern web technologies can make MediaMesh possible
-while also shifting power from monolithic platforms to individuals & close-knit
-communities.
-
-**Antonia Folguera and Pedro Vílchez: _[xrcb.cat](https://xrcb.cat/) -- Barcelona Community Radio Network_** / [slides](slides/6.xrcb.cat.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nj82LJwNhUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Peter Bokor: _Liquidsoap and the [Lahmacun community radio](https://www.lahmacun.hu/)_** / [slides](slides/7.lahmacun.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9FEGFRXPptE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The talk presents how Liquidsoap is used in the Lahmacun community web radio
-(based in Budapest, Hungary). Lahmacun radio was founded in 2018, early versions
-of the website had used Liquidsoap as part of an Azuracast instance (using the
-functionalities offered by Azuracast), then we introduced a custom Liquidsoap
-script (entirely detached from Azuracast's scheduling features). Our current
-efforts aim at upgrading our Liquidsoap 1.4 script to a recent 2.0
-version. Highlights of our script include advanced usages of the delay operator
-and how we use fading transitions. Lahmacun radio's regular IT team consists of
-5+ volunteers (all of them being experienced IT professionals).
-
-**Sheri	Barclay: _[KPISS](https://kpiss.fm/) 2.0 One year on -- a talk about sustainability_** / [slides](slides/8.kpiss.pdf)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5JkvFku2wzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-I would like to discuss the finer points of building and sustaining a community
-pre, during and post pandemic as well as how we updated the structure of our
-website in a year since the last liquid soap meeting, the potential to build in
-the metaverse and some thoughts on growth and an interesting new player to the
-streaming game.
-
-**Gilles Pietri: _Migrating from 1.4 to 2.0_**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9nrOUCrl3zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Some insight about the things that needed to change to work on 2.0, and the
-improvement made possible through the new API / language possibilities
-(including FFmpeg frame copy).
--->
+- Artist & Title separation
+- Song propertiesseparation like: tempo, mood, public top scoring, personal scoring...
+- "same hour separation" - title & artist & song (hours) prev. day 
+- # of plays in other hours till play again in same hour
+- "max. waiting" then force to schedule (days)
+- "percent back" in a scheduler (per individual song or per tag/properties) 
+- priority/order of scheduling (per category or group/tag/properties), I mean
+  which one will be choosing first then second and so on, when engine search for
+  the right song.  Day restrictions( will override the others separation rules):
+  - Song max per day 
+  - Artist max per day 
+  - Title max per day 
 
 Registration
 ------------
@@ -248,7 +186,6 @@ Please reach out if you want to sponsor the event in some way, you can also make
 
 Links
 -----
-
 
 Previous editions:
 
