@@ -155,21 +155,8 @@ fellow developers trying to interact with a running Liquidsoap script.
 Playlist Scheduler, playlist import custom settings, automatic create playlist
 from a playlist file.
 
-I want to help to improve music playlist scheduling songs.
-
-- Artist & Title separation
-- Song propertiesseparation like: tempo, mood, public top scoring, personal scoring...
-- "same hour separation" - title & artist & song (hours) prev. day 
-- # of plays in other hours till play again in same hour
-- "max. waiting" then force to schedule (days)
-- "percent back" in a scheduler (per individual song or per tag/properties) 
-- priority/order of scheduling (per category or group/tag/properties), I mean
-  which one will be choosing first then second and so on, when engine search for
-  the right song.  Day restrictions( will override the others separation rules):
-  - Song max per day 
-  - Artist max per day 
-  - Title max per day 
-
+I want to help to improve music playlist scheduling songs: artist and title
+separation / Song properties separation like: tempo, mood, public top scoring, personal scoring... / "same hour separation" / title & artist & song (hours) prev. day / number of plays in other hours till play again in same hour / "max. waiting" then force to schedule (days) / "percent back" in a scheduler (per individual song or per tag/properties) / priority/order of scheduling (per category or group/tag/properties), I mean which one will be choosing first then second and so on, when engine search for the right song.  Day restrictions (will override the others separation rules): Song or Artist or Title max per day
 Registration
 ------------
 
