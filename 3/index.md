@@ -184,13 +184,11 @@ Sponsoring
 Please reach out if you want to sponsor the event in some way, you can also make
 [donations on Paypal](http://paypal.me/LiquidsoapMedia).
 
-Links
------
+Editing
+-------
 
-Previous editions:
-
-- [Liquidshop 1](../1/)
-- [Liquidshop 2](../2/)
+In case you find a mistake on this page, please contact the organizers or [file
+a pull request](https://github.com/savonet/liquidshop).
 
 Organizing team
 ---------------
@@ -199,6 +197,14 @@ In case of any question, comment or suggestion please contact the organizers
 
 - Romain Beauxis: [romain@liquidsoap.info](mailto:romain@liquidsoap.info)
 - Samuel Mimram: [sam@liquidsoap.info](mailto:sam@liquidsoap.info)
+
+Links
+-----
+
+Previous editions:
+
+- [Liquidshop 1](../1/)
+- [Liquidshop 2](../2/)
 
 <center><a href="https://www.liquidsoap.info/"><img src="https://www.liquidsoap.info/assets/img/bottle_invert.png" alt="drawing" height="100px" style="margin-top: 50px;"/></a></center>
 
