@@ -68,8 +68,6 @@ The tentative schedule is the following, and still subject to changes
 Abstracts
 ---------
 
-The list below is not complete or definitive, feel free to propose more talks!
-
 ### Regular talks
 
 **Romain Beauxis: _Latest news about Liquidsoap_**
