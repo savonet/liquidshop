@@ -107,7 +107,12 @@ communities.
 
 **Jean-Baptiste Bayle: _Radiophonic projects_**
 
-Some projects made with Liquidsoap.
+Some projects made with Liquidsoap:
+
+- [Radio Free Assange](http://p-node.org/freeassange)
+- [talking clock project](http://stream.p-node.org/clock.mp3)
+- [∏ANO](https://p-node.org/piano/)
+
 
 ### Workshops
 
