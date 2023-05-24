@@ -209,7 +209,8 @@ a:hover {text-decoration: underline;}
 h1 {text-shadow: 0 0 10px;}
 h2 {text-shadow: 0 0 5px;}
 iframe {display: block; margin: auto;}
-li {list-style-image: none; list-style-type: "–";}
+ul li {list-style-image: none;}
+li {list-style-type: "–";}
 </style>
 
 <script>
