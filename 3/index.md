@@ -146,7 +146,7 @@ switch + delay operator (in development).  In this talk/workshop, we'd like to
 discuss our main use case with other users and improve on our solution if
 necessary/possible.
 
-**Martin Kirchgessner: _A few things to know when interacting with a live Liquidsoap script_**
+**Martin Kirchgessner: _Making your app interact with Liquidsoap_**
 
 For the past 3 years I've been developing
 [Showergel](https://showergel.readthedocs.io), a light web application acting as
