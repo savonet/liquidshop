@@ -121,7 +121,7 @@ Some projects made with Liquidsoap:
 
 ### Workshops
 
-**Denis "Jaromil" Roio: _[frei0r](https://frei0r.dyne.org/) workshop_**
+**Denis "Jaromil" Roio: _[frei0r](https://frei0r.dyne.org/) workshop_** / [slides](slides/frei0r.pdf)
 
 A workshop around the [frei0r](https://frei0r.dyne.org/) collection of video
 effect plugins, which are supported by Liquidsoap.
