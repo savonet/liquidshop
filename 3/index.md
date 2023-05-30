@@ -126,7 +126,7 @@ Some projects made with Liquidsoap:
 A workshop around the [frei0r](https://frei0r.dyne.org/) collection of video
 effect plugins, which are supported by Liquidsoap.
 
-**Sheri Barclay: _[KPISS](https://kpiss.fm/) 2023_**
+**Sheri Barclay: _[KPISS](https://kpiss.fm/) 2023_** / [slides](slides/kpiss.pdf)
 
 A brief discussion of our community and workflow.
 
