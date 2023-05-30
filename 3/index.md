@@ -105,7 +105,7 @@ Using LiquidSoap on AWS to stream music from server.
 The importance of an open source system like Liquidsoap and how it helped me not
 to use a managed solution like Centova.
 
-**Umar Dockrat: _Technology in Religious Community Broadcasting_**
+**Umar Dockrat: _Technology in Religious Community Broadcasting_** / [slides](slides/umar.pdf)
 
 How we are using online streaming to facilitate tolerance in multicultural
 communities.
