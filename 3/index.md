@@ -80,7 +80,7 @@ Abstracts
 Presenting the new features of Liquidsoap.
 
 **Youenn Piolet: _Building an open source production ready liquidsoap stack for
-radio broadcasting using cloud native tools_**
+radio broadcasting using cloud native tools_** / [slides](slides/rf.pdf)
 
 The ins an outs of building a portable liquidsoap stack for resilient radio live
 streaming, with production ready open source monitoring tools: docker,
