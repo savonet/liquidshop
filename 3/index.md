@@ -89,7 +89,7 @@ share our liquidsoap scripts and a cloud native monitoring stack similar to what
 we use at [Radio France](https://www.radiofrance.fr/) to stream and monitor our
 70 online radios.
 
-**Alejandro Ferrari: _IoT based Broadcast radio capture_**
+**Alejandro Ferrari: _IoT based Broadcast radio capture_** / [slides](slides/mediainbox.pdf)
 
 We'll share some lesson learned trying to build a remote managed IoT Broadcast
 capture and recording under bad internet.
