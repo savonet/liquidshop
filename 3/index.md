@@ -32,7 +32,7 @@ Attending
 ---------
 
 The event is fully online and the video-conference website is
-<http://bbb.liquidshop.info>.
+<https://bbb.liquidshop.info>.
 
 <!--
 Presentations
