@@ -75,7 +75,7 @@ Abstracts
 
 ### Regular talks
 
-**Romain Beauxis: _Latest news about Liquidsoap_**
+**Romain Beauxis: _Latest news about Liquidsoap_** / [slides](slides/liquidsoap.pdf)
 
 Presenting the new features of Liquidsoap.
 
