@@ -57,8 +57,7 @@ The tentative schedule is the following, and still subject to changes
 
 | 12:45 GMT | _Welcome_ |
 | 13:00 GMT | Romain Beauxis: _Latest news about Liquidsoap_ |
-| 13:30 GMT | Youenn Piolet: _Building an open source production ready liquidsoap stack for
-radio broadcasting using cloud native tools_ |
+| 13:30 GMT | Youenn Piolet: _Building an open source production ready liquidsoap stack for radio broadcasting using cloud native tools_ |
 | 14:00 GMT | Alejandro Ferrari: _IoT based Broadcast radio capture_ |
 | 14:30 GMT | Ivan Rendulic: _[MusicBox](https://airmusic.io) or Air Music_ |
 | 14:45 GMT | Oriol	Gómez: _How Liquidsoap changes my radio needs_ |
