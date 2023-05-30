@@ -149,7 +149,7 @@ switch + delay operator (in development).  In this talk/workshop, we'd like to
 discuss our main use case with other users and improve on our solution if
 necessary/possible.
 
-**Martin Kirchgessner: _Making your app interact with Liquidsoap_**
+**Martin Kirchgessner: _Making your app interact with Liquidsoap_** / [slides](slides/showergel.pdf)
 
 For the past 3 years I've been developing
 [Showergel](https://showergel.readthedocs.io), a light web application acting as
