@@ -56,18 +56,19 @@ The workshop will be held on Tuesday 30 May 2023.
 The tentative schedule is the following, and still subject to changes
 
 | 12:45 GMT | _Welcome_ |
-| 13:00 GMT | Romain Beauxis |
-| 13:30 GMT | Youenn Piolet |
-| 14:00 GMT | Alejandro Ferrari |
-| 14:30 GMT | Ivan Rendulic |
-| 14:45 GMT | Oriol	Gómez |
-| 15:00 GMT | Umar Dockrat |
-| 15:15 GMT | Jean-Baptiste Bayle |
-| 15:30 GMT | Denis "Jaromil" Roio |
-| 16:00 GMT | Sheri Barclay |
-| 16:30 GMT | Peter	Bokor |
-| 17:00 GMT | Martin Kirchgessner |
-| 17:30 GMT | Mircea Paun |
+| 13:00 GMT | Romain Beauxis: _Latest news about Liquidsoap_ |
+| 13:30 GMT | Youenn Piolet: _Building an open source production ready liquidsoap stack for
+radio broadcasting using cloud native tools_ |
+| 14:00 GMT | Alejandro Ferrari: _IoT based Broadcast radio capture_ |
+| 14:30 GMT | Ivan Rendulic: _[MusicBox](https://airmusic.io) or Air Music_ |
+| 14:45 GMT | Oriol	Gómez: _How Liquidsoap changes my radio needs_ |
+| 15:00 GMT | Umar Dockrat: _Technology in Religious Community Broadcasting_ |
+| 15:15 GMT | Jean-Baptiste Bayle: _Radiophonic projects_ |
+| 15:30 GMT | Denis "Jaromil" Roio: _[frei0r](https://frei0r.dyne.org/) workshop_ |
+| 16:00 GMT | Sheri Barclay: _[KPISS](https://kpiss.fm/) 2023_ |
+| 16:30 GMT | Peter	Bokor: _Scheduling dynamic length radio shows in fixed time slots_ |
+| 17:00 GMT | Martin Kirchgessner: _Making your app interact with Liquidsoap_ |
+| 17:30 GMT | Mircea Paun: _Which next song would be the best?_ |
 | 18:00 GMT | _Goodbye_ |
 
 Abstracts
