@@ -96,7 +96,7 @@ capture and recording under bad internet.
 
 ### Showcase presentations
 
-**Ivan Rendulic: _[MusicBox](https://airmusic.io) or Air Music_**
+**Ivan Rendulic: _[MusicBox](https://airmusic.io) or Air Music_** / [slides](slides/musicbox.pdf)
 
 Using LiquidSoap on AWS to stream music from server.
 
