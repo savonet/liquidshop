@@ -130,7 +130,7 @@ effect plugins, which are supported by Liquidsoap.
 
 A brief discussion of our community and workflow.
 
-**Peter	Bokor: _Scheduling dynamic length radio shows in fixed time slots_**
+**Peter	Bokor: _Scheduling dynamic length radio shows in fixed time slots_** / [slides](slides/lahmacun.pdf)
 
 [Lahmacun radio](https://lahmacun.hu/) is a happy Liquidsoap user since many
 years now. We use a custom Liquidsoap configuration inside an Azuracast
