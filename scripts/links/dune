@@ -1,0 +1,10 @@
+(env
+ (dev
+  (flags (:standard -w -32))
+ )
+)
+
+(executable
+ (name links)
+ (libraries csv)
+)
