@@ -24,12 +24,15 @@ Topics of interest are for instance
 This is thus the place to share to the world your favorite or cutting edge
 technologies and projects!
 
-It will be held on **Tuesday 30 May 2023**. The event is fully online, the link
-to the video-conference website (presumably BigBlueButton) will be sent out by
-mail.
+It will be held on **Tuesday 30 May 2023**. Feel free to
+[register](https://forms.gle/2QZDNJUH9XdRJ5bP8) in order to attend or propose a
+talk!
 
-Feel free to [register](https://forms.gle/2QZDNJUH9XdRJ5bP8) in order to attend
-or propose a talk!
+Attending
+---------
+
+The event is fully online and the video-conference website is
+<http://bbb.liquidshop.info>.
 
 <!--
 Presentations
