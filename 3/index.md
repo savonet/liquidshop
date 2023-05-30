@@ -110,7 +110,7 @@ to use a managed solution like Centova.
 How we are using online streaming to facilitate tolerance in multicultural
 communities.
 
-**Jean-Baptiste Bayle: _Radiophonic projects_**
+**Jean-Baptiste Bayle: _Radiophonic projects_** / [slides](slides/pi-node.pdf)
 
 Some projects made with Liquidsoap:
 
