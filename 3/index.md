@@ -150,6 +150,8 @@ A brief discussion of our community and workflow.
 
 **Peter	Bokor: _Scheduling dynamic length radio shows in fixed time slots_** / [slides](slides/lahmacun.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FaPPfjhTfns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [Lahmacun radio](https://lahmacun.hu/) is a happy Liquidsoap user since many
 years now. We use a custom Liquidsoap configuration inside an Azuracast
 instance. Our basic use case is fixed time slots for shows in a weekly
@@ -169,6 +171,8 @@ necessary/possible.
 
 **Martin Kirchgessner: _Making your app interact with Liquidsoap_** / [slides](slides/showergel.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_STnqvCSzlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 For the past 3 years I've been developing
 [Showergel](https://showergel.readthedocs.io), a light web application acting as
 a front-end to a Liquisoap script. It was designed to be plugged with any
@@ -177,6 +181,8 @@ things along the way! In this talk, I will share some insights and advices to
 fellow developers trying to interact with a running Liquidsoap script.
 
 **Mircea Paun: _Which next song would be the best?_**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_9fi_Foa1DI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Playlist Scheduler, playlist import custom settings, automatic create playlist
 from a playlist file.
