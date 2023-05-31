@@ -28,13 +28,13 @@ It will be held on **Tuesday 30 May 2023**. Feel free to
 [register](https://forms.gle/2QZDNJUH9XdRJ5bP8) in order to attend or propose a
 talk!
 
+<!--
 Attending
 ---------
 
 The event is fully online and the video-conference website is
 [https://bbb.liquidshop.info](http://bbb.liquidsoap.info/).
 
-<!--
 Presentations
 -------------
 
@@ -77,10 +77,14 @@ Abstracts
 
 **Romain Beauxis: _Latest news about Liquidsoap_** / [slides](slides/liquidsoap.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bQiHuFJRNH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Presenting the new features of Liquidsoap.
 
 **Youenn Piolet: _Building an open source production ready liquidsoap stack for
 radio broadcasting using cloud native tools_** / [slides](slides/rf.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lyj4YLj2evY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The ins an outs of building a portable liquidsoap stack for resilient radio live
 streaming, with production ready open source monitoring tools: docker,
@@ -91,6 +95,8 @@ we use at [Radio France](https://www.radiofrance.fr/) to stream and monitor our
 
 **Alejandro Ferrari: _IoT based Broadcast radio capture_** / [slides](slides/mediainbox.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7zTmn7D0uNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 We'll share some lesson learned trying to build a remote managed IoT Broadcast
 capture and recording under bad internet.
 
@@ -98,19 +104,27 @@ capture and recording under bad internet.
 
 **Ivan Rendulic: _[MusicBox](https://airmusic.io) or Air Music_** / [slides](slides/musicbox.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/owfzGVnnzbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Using LiquidSoap on AWS to stream music from server.
 
 **Oriol	Gómez: _How Liquidsoap changes my radio needs_**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6aij9N0c1yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The importance of an open source system like Liquidsoap and how it helped me not
 to use a managed solution like Centova.
 
 **Umar Dockrat: _Technology in Religious Community Broadcasting_** / [slides](slides/umar.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IwRY_JC-xzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 How we are using online streaming to facilitate tolerance in multicultural
 communities.
 
 **Jean-Baptiste Bayle: _Radiophonic projects_** / [slides](slides/pi-node.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zh9duID1rKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Some projects made with Liquidsoap:
 
@@ -123,10 +137,14 @@ Some projects made with Liquidsoap:
 
 **Denis "Jaromil" Roio: _[frei0r](https://frei0r.dyne.org/) workshop_** / [slides](slides/frei0r.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9HqBy6nH2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 A workshop around the [frei0r](https://frei0r.dyne.org/) collection of video
 effect plugins, which are supported by Liquidsoap.
 
 **Sheri Barclay: _[KPISS](https://kpiss.fm/) 2023_** / [slides](slides/kpiss.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k3VmuZcdiSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 A brief discussion of our community and workflow.
 
