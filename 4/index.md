@@ -25,7 +25,7 @@ This is thus the place to share to the world your favorite or cutting edge
 technologies and projects!
 
 It will be held on **Tuesday 27 May 2024**. Feel free to
-[register](whttps://forms.gle/FUptuWRGGJFCMttC7) in order to attend or propose a
+[register](https://forms.gle/FUptuWRGGJFCMttC7) in order to attend or propose a
 talk!
 
 <!--
@@ -205,7 +205,7 @@ Registration
 ------------
 
 If you want to attend [**please register
-here**](https://forms.gle/2QZDNJUH9XdRJ5bP8). Registration is free but mandatory
+here**](https://forms.gle/FUptuWRGGJFCMttC7). Registration is free but mandatory
 for organisational purposes (in particular, we need your mail in order to
 communicate the link to the live stream later on).
 
