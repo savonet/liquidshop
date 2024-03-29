@@ -1,5 +1,5 @@
-The **liquidshop 4** is the fourth edition of a workshop about
-[Liquidsoap](https://www.liquidsoap.info/) and related technologies. The goal is
+The **liquidshop 3** is the third edition of a workshop about
+[Liquidsoap](https://www.liquidsoap.info/) and related technologies.  The goal is
 to gather all people interested in Liquidsoap (of course) and welcome any
 contribution, related or not to Liquidsoap.
 
@@ -24,8 +24,8 @@ Topics of interest are for instance
 This is thus the place to share to the world your favorite or cutting edge
 technologies and projects!
 
-It will be held on **Tuesday 27 May 2024**. Feel free to
-[register](https://forms.gle/FUptuWRGGJFCMttC7) in order to attend or propose a
+It will be held on **Tuesday 30 May 2023**. Feel free to
+[register](https://forms.gle/2QZDNJUH9XdRJ5bP8) in order to attend or propose a
 talk!
 
 <!--
@@ -51,9 +51,6 @@ Three kinds of presentations will be featured during the workshop:
 Schedule
 --------
 
-TBA
-
-<!--
 The workshop will be held on Tuesday 30 May 2023.
 
 The tentative schedule is the following, and still subject to changes
@@ -73,14 +70,8 @@ The tentative schedule is the following, and still subject to changes
 | 17:30 GMT | Mircea Paun: _Which next song would be the best?_ |
 | 18:00 GMT | _Goodbye_ |
 
--->
-
 Abstracts
 ---------
-
-TBA
-
-<!--
 
 ### Regular talks
 
@@ -199,13 +190,11 @@ from a playlist file.
 I want to help to improve music playlist scheduling songs: artist and title
 separation / Song properties separation like: tempo, mood, public top scoring, personal scoring... / "same hour separation" / title & artist & song (hours) prev. day / number of plays in other hours till play again in same hour / "max. waiting" then force to schedule (days) / "percent back" in a scheduler (per individual song or per tag/properties) / priority/order of scheduling (per category or group/tag/properties), I mean which one will be choosing first then second and so on, when engine search for the right song.  Day restrictions (will override the others separation rules): Song or Artist or Title max per day
 
--->
-
 Registration
 ------------
 
 If you want to attend [**please register
-here**](https://forms.gle/FUptuWRGGJFCMttC7). Registration is free but mandatory
+here**](https://forms.gle/2QZDNJUH9XdRJ5bP8). Registration is free but mandatory
 for organisational purposes (in particular, we need your mail in order to
 communicate the link to the live stream later on).
 
@@ -232,17 +221,14 @@ In case of any question, comment or suggestion please contact the organizers
 Links
 -----
 
-Links from participants: TBA
+Links from participants:
 
-<!--
 [440Music](https://www.440music.com/) / [audiomastering.lt](http://audiomastering.lt) / [Azuracast](https://azuracast.com/) / [BFF.fm](https://bff.fm/) / [BMIR](https://bmir.org/) / [Cambridge Digital Radio](https://cambridgedigitalradio.co.uk) / [Charon Faustinus](https://charon.monster) / [Chris Masters](https://www.chrismasters.studio/) / [ChuntFM](https://www.chunt.org/) / [Dee Spaces](https://www.deespaces.com/en/) / [DRN1](DRN1.com) / [firedrill](https://freedrull.online/) / [Frei0r](https://dyne.org/software/frei0r/) / [G&L](https://www.gl-systemhaus.de/) / [Gargoyle](http://gargoyle.co.za/) / [Hawkwynd Radio](www.hawkwynd.com) / [He can jog](https://hecanjog.com) / [KPISS.FM](KPISS.FM) / [Kynan Puru Watt](http://kynan.pw/) / [Kyriakos Tsoukalas](https://www.ktsoukalas.com/) / [lahmacun](https://lahmacun.hu) / [LICKD](https://lickd.co/) / [Live365](https://live365.com/) / [LiveATC.net](https://liveatc.net) / [LiveMasjid](https://www.livemasjid.com/) / [mawalkingradio.com](http://mawalkingradio.com/) / [mediainbox](http://mediainbox.net/) / [NEXUS](https://nexus.org) / [Oriol Gómez](https://www.oriolgomez.com) / [Orion](https://www.orion-web.hr) / [Pi Radio](https://piradio.de/) / [Pierre Depaz](https://pierredepaz.net) / [QuantumCast](https://www.quantumcast-digital.de) / [Radio blackout](https://radioblackout.org/) / [radiocafé](http://radiocafe.ro/) / [radiofrance](https://radiofrance.fr/) / [Radiophone](http://radiophone.gr/) / [Ruff Cutz Radio](https://turbozone.org/) / [Scenir Telepresence](https://telepresence-scenic.ca/) / [Scout Radio](https://scout.radio/) / [Sharp stream](https://sharp-stream.com) / [shoutcastnet](https://www.shoutcastnet.com/) / [Shouting Fire](https://shoutingfire.com/) / [Shoutzor](www.shoutzor.com) / [Showergel](https://showergel.readthedocs.io) / [SoundStack](https://soundstack.com) / [Starsystem FM](http://radiosurle.net/) / [Systrum Sistum](https//systrum.net) / [Taifuun FM](https://taifuun.eu) / [this is the coast](www.thisisthecoast.co.uk) / [Uncertain.fm](uncertain.fm) / [VestRadio](https://www.vestaradio.net) / [Vincent Rioux](http://vincentrioux.net/) / [Πnode](https://p-node.org/)
--->
 
 Previous editions:
 
 - [Liquidshop 1](../1/)
 - [Liquidshop 2](../2/)
-- [Liquidshop 3](../3/)
 
 <center><a href="https://www.liquidsoap.info/"><img src="https://www.liquidsoap.info/assets/img/bottle_invert.png" alt="drawing" height="100px" style="margin-top: 50px;"/></a></center>
 
