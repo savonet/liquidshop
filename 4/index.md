@@ -264,7 +264,7 @@ Links
 -----
 
 {% for link in site.data.links4 %}
-[{{ link.name }}]({{ link.url }})
+[{{ link.name }}]({{ link.url }}) /
 {% endfor %}
 
 <!--
