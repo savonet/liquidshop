@@ -34,6 +34,7 @@ Attending
 
 The event is fully online and the video-conference website is
 [https://bbb.liquidshop.info](http://bbb.liquidsoap.info/).
+-->
 
 Presentations
 -------------
@@ -46,7 +47,6 @@ Three kinds of presentations will be featured during the workshop:
   Liquidsoap and streaming in general
 - _workshop_: user-centered freeform discussions about your project or issues
   around Liquidsoap and streaming
--->
 
 Schedule
 --------
@@ -78,7 +78,38 @@ The tentative schedule is the following, and still subject to changes
 Abstracts
 ---------
 
-TBA
+### Regular talks
+
+**Romain Beauxis: _Latest news about Liquidsoap_**
+
+Presenting the new features of Liquidsoap.
+
+### Showcase presentations
+
+**Sheri	Barclay: _Kpiss 2024_**
+
+Tour of our site and technology and upgrades.
+
+**Mihai	Ciurea: _HLS Interstitial_**
+
+An overview of not very new HLS Interstitial support from Apple
+
+**Pierre Depaz: _Cyclic broadcasting on Dial Radio_**
+
+This talk provides an overview of the technical and social components of Dial Radio. As a worldwide broadcasting station, Dial Radio plays through a pool of user-submitted, externally-hosted playlists. The technical part goes over the technical details of the broadcasting system (LS), as well as the downloading system (Go), while the social part goes over the design choices and community events to get people to contribute playlists. As a young project (1 year), we would be looking very much forward to any feedback from the community!
+
+**Nicholas Simoneaux: _[Turbozone.org](https://turbozone.org/) Ruff Cutz Radio_**
+
+Discussion of the radio station and liquidsoap to distribute music produced by local artists.
+
+**Aleksas Tunikas: _Using Randomness for fun and a no profit at all_**
+
+How to solve the problem with a big library, a good taste, some free time and modern open source technology.
+
+### Workshop discussion
+
+**Brian Rickman: _Radio: The Evolution Continues_**
+
 
 <!--
 
