@@ -232,18 +232,6 @@ Previous editions:
 
 <center><a href="https://www.liquidsoap.info/"><img src="https://www.liquidsoap.info/assets/img/bottle_invert.png" alt="drawing" height="100px" style="margin-top: 50px;"/></a></center>
 
-<style>
-p {text-align: justify;}
-#downloads {display: none;}
-a {text-decoration: none;}
-a:hover {text-decoration: underline;}
-h1 {text-shadow: 0 0 10px;}
-h2 {text-shadow: 0 0 5px;}
-iframe {display: block; margin: auto;}
-ul li {list-style-image: none;}
-li {list-style-type: "– ";}
-</style>
-
 <script>
 window.onload = function() {
   var date = new Date();
