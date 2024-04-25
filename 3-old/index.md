@@ -51,7 +51,7 @@ Three kinds of presentations will be featured during the workshop:
 Schedule
 --------
 
-The workshop will be held on Tuesday 30 May 2023.
+The workshop was be held on Tuesday 30 May 2023.
 
 The tentative schedule is the following, and still subject to changes
 
