@@ -57,13 +57,14 @@ The tentative schedule is the following, and still subject to changes
 
 | 12:45 GMT | _Welcome_ |
 | 13:00 GMT | Romain Beauxis: _Latest news about Liquidsoap_ |
-| 13:30 GMT | Sheri	Barclay: _[Kpiss](https://kpiss.fm/) 2024_ |
-| 13:50 GMT | Mihai	Ciurea: _HLS Interstitial_ |
-| 14:10 GMT | Pierre Depaz: _Cyclic broadcasting on Dial Radio_ |
-| 14:30 GMT | Nicholas Simoneaux: _[Turbozone.org](https://turbozone.org/) Ruff Cutz Radio_ |
-| 14:50 GMT | Aleksas Tunikas: _Using Randomness for fun and a no profit at all_ |
-| 15:10 GMT | Brian Rickman: _Radio: The Evolution Continues_ |
-| 15:40 GMT | _Goodbye_ |
+| 13:30 GMT | Kosa K054: _Free as libre 24/7 TV stream_ |
+| 14:00 GMT | Sheri	Barclay: _[Kpiss](https://kpiss.fm/) 2024_ |
+| 14:20 GMT | Mihai	Ciurea: _HLS Interstitial_ |
+| 14:40 GMT | Pierre Depaz: _Cyclic broadcasting on Dial Radio_ |
+| 15:00 GMT | Nicholas Simoneaux: _[Turbozone.org](https://turbozone.org/) Ruff Cutz Radio_ |
+| 15:20 GMT | Aleksas Tunikas: _Using Randomness for fun and a no profit at all_ |
+| 15:40 GMT | Brian Rickman: _Radio: The Evolution Continues_ |
+| 16:00 GMT | _Goodbye_ |
 
 Abstracts
 ---------
@@ -73,6 +74,10 @@ Abstracts
 **Romain Beauxis: _Latest news about Liquidsoap_**
 
 Presenting the new features of Liquidsoap.
+
+**Kosa K054: _Free as libre 24/7 TV stream_**
+
+What we do at [ConerreTV](https://conerre.tv), which is gathering media from different sources (youtube, vimeo, peertube and such) and create a 24/7 video stream with it. The whole stack is yt-dlp -> liquidsoap -> nginx-rtmp -> drupal10 -> videojs.
 
 ### Showcase presentations
 
@@ -90,35 +95,32 @@ This talk provides an overview of the technical and social components of Dial Ra
 
 **Nicholas Simoneaux: _[Turbozone.org](https://turbozone.org/) Ruff Cutz Radio_**
 
-Discussion of the radio station and liquidsoap to distribute music produced by local artists.
+Our radio station, [turbozone.org](https://turbozone.org/), is the current primary delivery platform of a group of New Orleans artists, the _Ruff Cutz Ethical Music Collective_. I will discuss about the radio station and Liquidsoap to distribute music produced by local artists.
 
 **Aleksas Tunikas: _Using Randomness for fun and a no profit at all_**
 
-How to solve the problem with a big library, a good taste, some free time and modern open source technology.
+Some research on the art selection based on randomness, with a situation with a large library that is too big to listen to literary, for a personal and public profit. How to solve the problem with a big library, a good taste, some free time and modern open source technology.
 
 ### Workshop discussion
 
 **Brian Rickman: _Radio: The Evolution Continues_**
 
+A conversation about the future of broadcast radio and how Liquidsoap can play an important role going forward. See also this [recent article about Radio-TV/SONA/The Future](https://www.linkedin.com/pulse/radio-whats-next-sona-more-brian-rickman-icjgc/).
+
 Registration
 ------------
 
-If you want to attend [**please register
-here**](https://forms.gle/FUptuWRGGJFCMttC7). Registration is free but mandatory
-for organisational purposes (in particular, we need your mail in order to
-communicate the link to the live stream later on).
+If you want to attend [**please register here**](https://forms.gle/FUptuWRGGJFCMttC7). Registration is free but mandatory for organisational purposes (in particular, we need your mail in order to communicate the link to the live stream later on).
 
 Sponsoring
 ----------
 
-Please reach out if you want to sponsor the event in some way, you can also make
-[donations on Paypal](http://paypal.me/LiquidsoapMedia).
+Please reach out if you want to sponsor the event in some way, you can also make [donations on Paypal](http://paypal.me/LiquidsoapMedia).
 
 Editing
 -------
 
-In case you find a mistake on this page, please contact the organizers or [file
-a pull request](https://github.com/savonet/liquidshop).
+In case you find a mistake on this page, please contact the organizers or [file a pull request](https://github.com/savonet/liquidshop).
 
 Organizing team
 ---------------
