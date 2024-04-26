@@ -25,8 +25,8 @@ This is thus the place to share to the world your favorite or cutting edge
 technologies and projects!
 
 It will be held on **Monday 27 May 2024**. Feel free to
-[register](https://forms.gle/FUptuWRGGJFCMttC7) in order to attend or propose a
-talk!
+[register](https://forms.gle/FUptuWRGGJFCMttC7) in order to attend.
+<!-- or propose a talk! -->
 
 <!--
 Attending
@@ -36,6 +36,7 @@ The event is fully online and the video-conference website is
 [https://bbb.liquidshop.info](http://bbb.liquidsoap.info/).
 -->
 
+<!--
 Presentations
 -------------
 
@@ -47,6 +48,7 @@ Three kinds of presentations will be featured during the workshop:
   Liquidsoap and streaming in general
 - _workshop_: user-centered freeform discussions about your project or issues
   around Liquidsoap and streaming
+-->
 
 Schedule
 --------
@@ -77,7 +79,7 @@ Presenting the new features of Liquidsoap.
 
 **Kosa K054: _Free as libre 24/7 TV stream_**
 
-What we do at [ConerreTV](https://conerre.tv), which is gathering media from different sources (youtube, vimeo, peertube and such) and create a 24/7 video stream with it. The whole stack is yt-dlp -> liquidsoap -> nginx-rtmp -> drupal10 -> videojs.
+What we do at [ConerreTV](https://conerre.tv), which is gathering media from different sources (youtube, vimeo, peertube and such) and create a 24/7 video stream with it. The whole stack is yt-dlp → liquidsoap → nginx-rtmp → drupal10 → videojs.
 
 ### Showcase presentations
 
