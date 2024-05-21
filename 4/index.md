@@ -59,14 +59,16 @@ The tentative schedule is the following, and still subject to changes
 
 | 12:45 GMT | _Welcome_ |
 | 13:00 GMT | Romain Beauxis: _Latest news about Liquidsoap_ |
-| 13:30 GMT | Kosa K054: _Free as libre 24/7 TV stream_ |
-| 14:00 GMT | Sheri	Barclay: _[Kpiss](https://kpiss.fm/) 2024_ |
-| 14:20 GMT | Mihai	Ciurea: _HLS Interstitial_ |
-| 14:40 GMT | Pierre Depaz: _Cyclic broadcasting on Dial Radio_ |
+| 13:30 GMT | Matthias Hormann: _The Autocue Saga_ |
+| 14:00 GMT | Aleksas Tunikas: _Using Randomness for fun and a no profit at all_ |
+| 14:15 GMT | Mihai	Ciurea: _HLS Interstitial_ |
+| 14:30 GMT | Pierre Depaz: _Cyclic broadcasting on Dial Radio_ |
+| 14:45 GMT | Deer Radio: _The Story of Deer Radio_ |
 | 15:00 GMT | Nicholas Simoneaux: _[Turbozone.org](https://turbozone.org/) Ruff Cutz Radio_ |
-| 15:20 GMT | Aleksas Tunikas: _Using Randomness for fun and a no profit at all_ |
-| 15:40 GMT | Brian Rickman: _Radio: The Evolution Continues_ |
-| 16:00 GMT | _Goodbye_ |
+| 15:15 GMT | Kosa K054: _Free as libre 24/7 TV stream_ |
+| 15:45 GMT | Sheri	Barclay: _[Kpiss](https://kpiss.fm/) 2024_ |
+| 16:00 GMT | Brian Rickman: _Radio: The Evolution Continues_ |
+| 16:30 GMT | _Goodbye_ |
 
 Abstracts
 ---------
@@ -80,6 +82,10 @@ Presenting the new features of Liquidsoap.
 **Kosa K054: _Free as libre 24/7 TV stream_**
 
 What we do at [ConerreTV](https://conerre.tv), which is gathering media from different sources (youtube, vimeo, peertube and such) and create a 24/7 video stream with it. The whole stack is yt-dlp → liquidsoap → nginx-rtmp → drupal10 → videojs.
+
+**Matthias Hormann: _The Autocue Saga_**
+
+The recent developement of _autocue_ in liquidsoap, released with version `v2.2.5`, was the culmination of weeks of joint work between radio enthusiasts and liquidsoap devs. In this talk, Matthias will present how the idea came together, was implemented and how it can be used.
 
 ### Showcase presentations
 
@@ -102,6 +108,10 @@ Our radio station, [turbozone.org](https://turbozone.org/), is the current prima
 **Aleksas Tunikas: _Using Randomness for fun and a no profit at all_**
 
 Some research on the art selection based on randomness, with a situation with a large library that is too big to listen to literary, for a personal and public profit. How to solve the problem with a big library, a good taste, some free time and modern open source technology.
+
+**Deer Radio: _The Story of Deer Radio_**
+
+_Deer Radio_ was probably one of the very first liquidsoap users to leverage video and YouTube streaming cababilities. During this talk, we shall revisit the history of Deer Radio, how it has evolved over the years and how liquidsoap had adapted to its needs.
 
 ### Workshop discussion
 
