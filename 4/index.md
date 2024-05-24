@@ -24,17 +24,17 @@ Topics of interest are for instance
 This is thus the place to share to the world your favorite or cutting edge
 technologies and projects!
 
-It will be held on **Monday 27 May 2024**. Feel free to
-[register](https://forms.gle/FUptuWRGGJFCMttC7) in order to attend.
-<!-- or propose a talk! -->
-
 <!--
+It will be held on **Monday 27 May 2024**. Feel free to
+[register](https://forms.gle/FUptuWRGGJFCMttC7) in order to attend
+or propose a talk!
+-->
+
 Attending
 ---------
 
 The event is fully online and the video-conference website is
 [https://bbb.liquidshop.info](http://bbb.liquidsoap.info/).
--->
 
 <!--
 Presentations
