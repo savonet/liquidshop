@@ -13,9 +13,9 @@ LOCATION:http://bbb.liquidsoap.info/
 SUMMARY:Liquidshop: {{talk.firstname}} {{talk.lastname}} / {{talk.title}}
 DESCRIPTION:{{ talk.abstract | strip_newlines }}
 CLASS:PUBLIC
-DTSTART;TZID=GMT:20240527T{{talk.time}}
-DTEND;TZID=GMT-1:20240527T{{talk.time}}
-DTSTAMP;TZID=GMT:20240527T{{talk.time}}
+DTSTART;TZID=GMT:20240527T{{talk.time | replace: ":",""}}
+DTEND;TZID=GMT-1:20240527T{{talk.time | replace: ":",""}}
+DTSTAMP;TZID=GMT:20240527T{{talk.time | replace: ":",""}}
 SEQUENCE:1
 END:VEVENT
 {% endfor %}END:VCALENDAR
