@@ -60,6 +60,8 @@ The tentative schedule is the following, and still subject to changes
 {% for talk in site.data.ls4.talks %}
 | {{talk.time}} GMT | {{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_ |{% endfor %}
 
+You can subscribe to the [calendar](calendar.ics) in order keep the up-to-date schedule.
+
 Abstracts
 ---------
 
