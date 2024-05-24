@@ -7,7 +7,7 @@ PRODID:-//TCS seminar//EN
 X-WR-CALNAME:Liquidshop 4
 METHOD:PUBLISH
 {% for talk in site.data.ls4.talks %}BEGIN:VEVENT
-UID:{{ talk.date }}@liquidsoap.info
+UID:{{talk.time | replace: ":",""}}@liquidsoap.info
 ORGANIZER;CN="Liquidshop":MAILTO:liquidshop@liquidsoap.info
 LOCATION:http://bbb.liquidsoap.info/
 SUMMARY:Liquidshop: {{talk.firstname}} {{talk.lastname}} / {{talk.title}}
