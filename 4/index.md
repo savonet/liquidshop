@@ -58,23 +58,16 @@ The workshop will be held on Monday 27 May 2024.
 The tentative schedule is the following, and still subject to changes
 
 {% for talk in site.data.ls4.talks %}
-| {{talk.time}} | {{talk.firstname}} {{talk.lastname}}: _{{talk.title}} |{% endfor %}
-
-| 12:45 GMT | _Welcome_ |
-| 13:00 GMT | Romain Beauxis: _Latest news about Liquidsoap_ |
-| 13:30 GMT | Matthias Hormann: _The Autocue Saga_ |
-| 14:00 GMT | Aleksas Tunikas: _Using Randomness for fun and a no profit at all_ |
-| 14:15 GMT | Mihai	Ciurea: _HLS Interstitial_ |
-| 14:30 GMT | Pierre Depaz: _Cyclic broadcasting on Dial Radio_ |
-| 14:45 GMT | Deer Radio: _The Story of Deer Radio_ |
-| 15:00 GMT | Nicholas Simoneaux: _[Turbozone.org](https://turbozone.org/) Ruff Cutz Radio_ |
-| 15:15 GMT | Kosa K054: _Free as libre 24/7 TV stream_ |
-| 15:45 GMT | Sheri	Barclay: _[Kpiss](https://kpiss.fm/) 2024_ |
-| 16:00 GMT | Brian Rickman: _Radio: The Evolution Continues_ |
-| 16:30 GMT | _Goodbye_ |
+| {{talk.time}} GMT | {{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_ |{% endfor %}
 
 Abstracts
 ---------
+
+{% for talk in site.data.ls4.talks %}
+**{{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_**
+
+{{talk.abstract}}
+{% endfor %}
 
 ### Regular talks
 
