@@ -64,7 +64,7 @@ Abstracts
 ---------
 
 {% for talk in site.data.ls4.talks %}
-**{{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_**
+**{{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_**{% if talk.slides %} / [slides]({{talk.slides}}){% endif %}
 
 {{talk.abstract}}
 {% endfor %}
