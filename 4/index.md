@@ -79,13 +79,13 @@ Abstracts
 
 Presenting the new features of Liquidsoap.
 
-**Kosa K054: _Free as libre 24/7 TV stream_**
-
-What we do at [ConerreTV](https://conerre.tv), which is gathering media from different sources (youtube, vimeo, peertube and such) and create a 24/7 video stream with it. The whole stack is yt-dlp → liquidsoap → nginx-rtmp → drupal10 → videojs.
-
 **Matthias Hormann: _The Autocue Saga_**
 
 The recent developement of _autocue_ in liquidsoap, released with version `v2.2.5`, was the culmination of weeks of joint work between radio enthusiasts and liquidsoap devs. In this talk, Matthias will present how the idea came together, was implemented and how it can be used.
+
+**Kosa K054: _Free as libre 24/7 TV stream_**
+
+What we do at [ConerreTV](https://conerre.tv), which is gathering media from different sources (youtube, vimeo, peertube and such) and create a 24/7 video stream with it. The whole stack is yt-dlp → liquidsoap → nginx-rtmp → drupal10 → videojs.
 
 ### Showcase presentations
 
