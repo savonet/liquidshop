@@ -6,7 +6,7 @@ VERSION:2.0
 PRODID:-//TCS seminar//EN
 X-WR-CALNAME:Liquidshop 4
 METHOD:PUBLISH
-{% for talk in site.data.ls4.talks %}BEGIN:VEVENT
+{% for talk in site.data.ls4.talks %}{% assign nexttalk = site.data.ls4.talks[forloop.index] %}BEGIN:VEVENT
 UID:{{talk.time | replace: ":",""}}@liquidsoap.info
 ORGANIZER;CN="Liquidshop":MAILTO:liquidshop@liquidsoap.info
 LOCATION:http://bbb.liquidsoap.info/
@@ -14,7 +14,7 @@ SUMMARY:Liquidshop: {{talk.firstname}} {{talk.lastname}} / {{talk.title}}
 DESCRIPTION:{{ talk.abstract | strip_newlines }}
 CLASS:PUBLIC
 DTSTART:20240527T{{talk.time | replace: ":",""}}00Z
-DTEND;TZID=Atlantic/Cape_Verde:20240527T{{talk.time | replace: ":",""}}00
+DTEND;TZID=20240527T{{nexttalk.time | replace: ":",""}}00Z
 DTSTAMP:20240527T{{talk.time | replace: ":",""}}00Z
 SEQUENCE:0
 END:VEVENT
