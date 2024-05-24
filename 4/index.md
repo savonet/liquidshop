@@ -57,6 +57,9 @@ The workshop will be held on Monday 27 May 2024.
 
 The tentative schedule is the following, and still subject to changes
 
+{% for talk in site.data.ls4.talks %}
+| {{talk.time}} | {{talk.firstname}} {{talk.lastname}}: _{{talk.title}} |{% endfor %}
+
 | 12:45 GMT | _Welcome_ |
 | 13:00 GMT | Romain Beauxis: _Latest news about Liquidsoap_ |
 | 13:30 GMT | Matthias Hormann: _The Autocue Saga_ |
@@ -95,7 +98,7 @@ Tour of our site and technology and upgrades.
 
 **Mihai	Ciurea: _HLS Interstitial_** / [slides](slides/hls-interstitial.pdf)
 
-An overview of not very new HLS Interstitial support from Apple
+An overview of not very new HLS Interstitial support from Apple.
 
 **Pierre Depaz: _Cyclic broadcasting on Dial Radio_**
 
