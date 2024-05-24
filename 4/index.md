@@ -53,7 +53,7 @@ Three kinds of presentations will be featured during the workshop:
 Schedule
 --------
 
-The workshop will be held on Monday 27 May 2024.
+The workshop will be held on **Monday 27 May 2024**.
 
 The tentative schedule is the following, and still subject to changes
 
