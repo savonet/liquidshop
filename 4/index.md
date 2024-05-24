@@ -63,57 +63,35 @@ The tentative schedule is the following, and still subject to changes
 Abstracts
 ---------
 
+### Regular talks
+
 {% for talk in site.data.ls4.talks %}
+{% if talk.kind == "regular" %}
 **{{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_**{% if talk.slides %} / [slides]({{talk.slides}}){% endif %}
 
 {{talk.abstract}}
+{% endif %}
 {% endfor %}
-
-### Regular talks
-
-**Romain Beauxis: _Latest news about Liquidsoap_**
-
-Presenting the new features of Liquidsoap.
-
-**Matthias Hormann: _The Autocue Saga_**
-
-The recent developement of _autocue_ in liquidsoap, released with version `v2.2.5`, was the culmination of weeks of joint work between radio enthusiasts and liquidsoap devs. In this talk, Matthias will present how the idea came together, was implemented and how it can be used.
-
-**Kosa K054: _Free as libre 24/7 TV stream_**
-
-What we do at [ConerreTV](https://conerre.tv), which is gathering media from different sources (youtube, vimeo, peertube and such) and create a 24/7 video stream with it. The whole stack is yt-dlp → liquidsoap → nginx-rtmp → drupal10 → videojs.
 
 ### Showcase presentations
 
-**Sheri	Barclay: _[Kpiss](https://kpiss.fm/) 2024_**
+{% for talk in site.data.ls4.talks %}
+{% if talk.kind == "showcase" %}
+**{{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_**{% if talk.slides %} / [slides]({{talk.slides}}){% endif %}
 
-Tour of our site and technology and upgrades.
+{{talk.abstract}}
+{% endif %}
+{% endfor %}
 
-**Mihai	Ciurea: _HLS Interstitial_** / [slides](slides/hls-interstitial.pdf)
+### Workshop discussions
 
-An overview of not very new HLS Interstitial support from Apple.
+{% for talk in site.data.ls4.talks %}
+{% if talk.kind == "workshop" %}
+**{{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_**{% if talk.slides %} / [slides]({{talk.slides}}){% endif %}
 
-**Pierre Depaz: _Cyclic broadcasting on Dial Radio_**
-
-This talk provides an overview of the technical and social components of Dial Radio. As a worldwide broadcasting station, Dial Radio plays through a pool of user-submitted, externally-hosted playlists. The technical part goes over the technical details of the broadcasting system (LS), as well as the downloading system (Go), while the social part goes over the design choices and community events to get people to contribute playlists. As a young project (1 year), we would be looking very much forward to any feedback from the community!
-
-**Nicholas Simoneaux: _[Turbozone.org](https://turbozone.org/) Ruff Cutz Radio_**
-
-Our radio station, [turbozone.org](https://turbozone.org/), is the current primary delivery platform of a group of New Orleans artists, the _Ruff Cutz Ethical Music Collective_. I will discuss about the radio station and Liquidsoap to distribute music produced by local artists.
-
-**Aleksas Tunikas: _Using Randomness for fun and a no profit at all_**
-
-Some research on the art selection based on randomness, with a situation with a large library that is too big to listen to literary, for a personal and public profit. How to solve the problem with a big library, a good taste, some free time and modern open source technology.
-
-**Deer Radio: _The Story of Deer Radio_**
-
-_Deer Radio_ was probably one of the very first liquidsoap users to leverage video and YouTube streaming cababilities. During this talk, we shall revisit the history of Deer Radio, how it has evolved over the years and how liquidsoap had adapted to its needs.
-
-### Workshop discussion
-
-**Brian Rickman: _Radio: The Evolution Continues_**
-
-A conversation about the future of broadcast radio and how Liquidsoap can play an important role going forward. See also this [recent article about Radio-TV/SONA/The Future](https://www.linkedin.com/pulse/radio-whats-next-sona-more-brian-rickman-icjgc/).
+{{talk.abstract}}
+{% endif %}
+{% endfor %}
 
 Registration
 ------------
