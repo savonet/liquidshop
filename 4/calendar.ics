@@ -14,7 +14,7 @@ SUMMARY:Liquidshop: {{talk.firstname}} {{talk.lastname}} / {{talk.title}}
 DESCRIPTION:{{ talk.abstract | strip_newlines }}
 CLASS:PUBLIC
 DTSTART:20240527T{{talk.time | replace: ":",""}}00Z
-DTEND:20240527T{{talk.time | replace: ":",""}}00-0100Z
+DTEND:20240527T{{talk.time | replace: ":",""}}00Z
 DTSTAMP:20240527T{{talk.time | replace: ":",""}}00Z
 SEQUENCE:0
 END:VEVENT
