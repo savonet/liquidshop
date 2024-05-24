@@ -93,7 +93,7 @@ The recent developement of _autocue_ in liquidsoap, released with version `v2.2.
 
 Tour of our site and technology and upgrades.
 
-**Mihai	Ciurea: _HLS Interstitial_**
+**Mihai	Ciurea: _HLS Interstitial_** / [slides](slides/hls-interstitial.pdf)
 
 An overview of not very new HLS Interstitial support from Apple
 
