@@ -34,7 +34,7 @@ Attending
 ---------
 
 The event is fully online and the video-conference website is
-[https://bbb.liquidshop.info](http://bbb.liquidsoap.info/).
+[https://bbb.liquidsoap.info](http://bbb.liquidsoap.info/).
 
 <!--
 Presentations
