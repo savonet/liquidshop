@@ -58,7 +58,7 @@ The workshop will be held on **Monday 27 May 2024**.
 The tentative schedule is the following, and still subject to changes
 
 {% for talk in site.data.ls4.talks %}
-| {{talk.time}} GMT | {{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_ | {% if talk.slides %}[slides]({{talk.slides}}){% endif %} |{% endfor %}
+| {{talk.time}} GMT | {% if talk.firstname %}{{talk.firstname}} {{talk.lastname}}:{% endif %} _{{talk.title}}_ | {% if talk.slides %}[slides]({{talk.slides}}){% endif %} |{% endfor %}
 
 You can subscribe to the [calendar](calendar.ics) in order have a schedule which is up-to-date.
 
