@@ -121,7 +121,7 @@ In case of any question, comment or suggestion please contact the organizers
 Links
 -----
 
-{% for link in site.data.ls4.links %}[{{ link.name }}]({{ link.url }}) / {% endfor %}
+{% for link in site.data.ls4.links %}[{{ link.name }}]({{ link.url }}) / {% endfor %} [Liquidsoap](https://www.liquidsoap.info/)
 
 Previous editions:
 
