@@ -1,15 +1,15 @@
-time,firstname,lastname,title,abstract,kind,slides
-13:00,Romain,Beauxis,Latest news about Liquidsoap,Presenting the new features of Liquidsoap.,regular,slides/liquidshop4.pdf
+time,firstname,lastname,title,abstract,kind,slides,youtube
+13:00,Romain,Beauxis,Latest news about Liquidsoap,Presenting the new features of Liquidsoap.,regular,slides/liquidshop4.pdf,1aMcgWqF_F0
 13:30,Matthias,Hormann,The Autocue Saga,"The recent developement of _autocue_ in liquidsoap, released with version `v2.2.5`, was the culmination of weeks of joint work between radio enthusiasts and liquidsoap devs. In this talk, Matthias will present how the idea came together, was implemented and how it can be used.
 
-An [online version of slides](https://moonbase59.github.io/autocue/presentation/autocue.html) is also available.",regular,slides/autocue.pdf
-14:00,Aleksas,Tunikas,Using Randomness for fun and a no profit at all,"Some research on the art selection based on randomness, with a situation with a large library that is too big to listen to literary, for a personal and public profit. How to solve the problem with a big library, a good taste, some free time and modern open source technology.",showcase,
-14:15,Mihai,Ciurea,HLS Interstitial,An overview of not very new HLS Interstitial support from Apple.,showcase,slides/hls-interstitial.pdf
-14:30,Pierre,Depaz,Cyclic broadcasting on Dial Radio,"This talk provides an overview of the technical and social components of Dial Radio. As a worldwide broadcasting station, Dial Radio plays through a pool of user-submitted, externally-hosted playlists. The technical part goes over the technical details of the broadcasting system (LS), as well as the downloading system (Go), while the social part goes over the design choices and community events to get people to contribute playlists. As a young project (1 year), we would be looking very much forward to any feedback from the community!",showcase,slides/dial-radio.pdf
-14:45,John,Chewter,The story of Retail Radio,"John will walk us through the story of Retail Radio, what it does, how he built it and what he thinks is relevant/particularly interesting to other liquidsoap users.",showcase,
-15:00,Nicholas,Simoneaux,[Turbozone.org](https://turbozone.org/) Ruff Cutz Radio,"Our radio station, [turbozone.org](https://turbozone.org/), is the current primary delivery platform of a group of New Orleans artists, the _Ruff Cutz Ethical Music Collective_. I will discuss about the radio station and Liquidsoap to distribute music produced by local artists.",showcase,slides/ruff-cutz.pdf
-15:15,,,Break,,break,
-15:30,Brian,Rickman,Radio: The Evolution Continues,A conversation about the future of broadcast radio and how Liquidsoap can play an important role going forward. See also this [recent article about Radio-TV/SONA/The Future](https://www.linkedin.com/pulse/radio-whats-next-sona-more-brian-rickman-icjgc/).,regular,slides/static.pdf
-15:45,Sheri,Barclay,[Kpiss](https://kpiss.fm/) 2024,Tour of our site and technology and upgrades.,showcase,
-16:00,Matthias,Hormann,The Autocue Saga (part 2),,regular,slides/autocue.pdf
-16:15,,,End of the workshop,,break,
+An [online version of slides](https://moonbase59.github.io/autocue/presentation/autocue.html) is also available.",regular,slides/autocue.pdf,
+14:00,Aleksas,Tunikas,Using Randomness for fun and a no profit at all,"Some research on the art selection based on randomness, with a situation with a large library that is too big to listen to literary, for a personal and public profit. How to solve the problem with a big library, a good taste, some free time and modern open source technology.",showcase,,
+14:15,Mihai,Ciurea,HLS Interstitial,An overview of not very new HLS Interstitial support from Apple.,showcase,slides/hls-interstitial.pdf,
+14:30,Pierre,Depaz,Cyclic broadcasting on Dial Radio,"This talk provides an overview of the technical and social components of Dial Radio. As a worldwide broadcasting station, Dial Radio plays through a pool of user-submitted, externally-hosted playlists. The technical part goes over the technical details of the broadcasting system (LS), as well as the downloading system (Go), while the social part goes over the design choices and community events to get people to contribute playlists. As a young project (1 year), we would be looking very much forward to any feedback from the community!",showcase,slides/dial-radio.pdf,
+14:45,John,Chewter,The story of Retail Radio,"John will walk us through the story of Retail Radio, what it does, how he built it and what he thinks is relevant/particularly interesting to other liquidsoap users.",showcase,,
+15:00,Nicholas,Simoneaux,[Turbozone.org](https://turbozone.org/) Ruff Cutz Radio,"Our radio station, [turbozone.org](https://turbozone.org/), is the current primary delivery platform of a group of New Orleans artists, the _Ruff Cutz Ethical Music Collective_. I will discuss about the radio station and Liquidsoap to distribute music produced by local artists.",showcase,slides/ruff-cutz.pdf,
+15:15,,,Break,,break,,
+15:30,Brian,Rickman,Radio: The Evolution Continues,A conversation about the future of broadcast radio and how Liquidsoap can play an important role going forward. See also this [recent article about Radio-TV/SONA/The Future](https://www.linkedin.com/pulse/radio-whats-next-sona-more-brian-rickman-icjgc/).,regular,slides/static.pdf,
+15:45,Sheri,Barclay,[Kpiss](https://kpiss.fm/) 2024,Tour of our site and technology and upgrades.,showcase,,
+16:00,Matthias,Hormann,The Autocue Saga (part 2),,regular,slides/autocue.pdf,
+16:15,,,End of the workshop,,break,,
