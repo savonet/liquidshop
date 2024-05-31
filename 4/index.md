@@ -85,6 +85,10 @@ Abstracts
 {% if talk.kind == "showcase" %}
 **{{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_**{% if talk.slides %} / [slides]({{talk.slides}}){% endif %}
 
+{% if talk.youtube %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{talk.youtube}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% endif %}
+
 {{talk.abstract}}
 {% endif %}
 {% endfor %}
@@ -94,6 +98,10 @@ Abstracts
 {% for talk in site.data.ls4.talks %}
 {% if talk.kind == "workshop" %}
 **{{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_**{% if talk.slides %} / [slides]({{talk.slides}}){% endif %}
+
+{% if talk.youtube %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{talk.youtube}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% endif %}
 
 {{talk.abstract}}
 {% endif %}
