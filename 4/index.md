@@ -66,6 +66,7 @@ Abstracts
 ---------
 
 {% for talk in site.data.ls4.talks %}
+{% if talk.kind != "break" %}
 **{{talk.firstname}} {{talk.lastname}}: _{{talk.title}}_**{% if talk.slides %} / [slides]({{talk.slides}}){% endif %}
 
 {% if talk.youtube %}
@@ -73,6 +74,7 @@ Abstracts
 {% endif %}
 
 {{talk.abstract}}
+{% endif %}
 {% endfor %}
 
 Registration
