@@ -41,8 +41,8 @@ We will have 3 different tracks for the event, namely
     
 If you're interested to participate, whether it is as an attendee or a
 presenter, make sure to register via our website at
-http://www.liquidsoap.info/liquidshop/4/ or directly via the form available at
-.........
+http://www.liquidsoap.info/liquidshop/5/ or directly via the form available at
+https://forms.gle/mrorntkYve1FHXdk7
 
 We are super excited for this event. We have already secured a couple of
 interesting speakers and we would love to get to know the community better, see
