@@ -15,7 +15,7 @@ Topics of interest are for instance
 
 This is thus the place to share to the world your favorite or cutting edge technologies and projects!
 
-It will be held on **Friday 3 June 2025**. Feel free to [register](https://forms.gle/mrorntkYve1FHXdk7) in order to attend or propose a talk!
+It will be held on **Friday 13 June 2025**. Feel free to [register](https://forms.gle/mrorntkYve1FHXdk7) in order to attend or propose a talk!
 
 Attending
 ---------
@@ -39,7 +39,7 @@ Three kinds of presentations will be featured during the workshop:
 Schedule
 --------
 
-The workshop will be held on **Friday 3 June 2025**.
+The workshop will be held on **Friday 13 June 2025**.
 
 The tentative schedule is the following, and still subject to changes
 
