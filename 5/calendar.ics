@@ -4,9 +4,9 @@ layout: none
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//TCS seminar//EN
-X-WR-CALNAME:Liquidshop 4
+X-WR-CALNAME:Liquidshop 5
 METHOD:PUBLISH
-{% for talk in site.data.ls4.talks %}{% assign nexttalk = site.data.ls4.talks[forloop.index] %}BEGIN:VEVENT
+{% for talk in site.data.ls5.talks %}{% assign nexttalk = site.data.ls5.talks[forloop.index] %}BEGIN:VEVENT
 UID:{{talk.time | replace: ":",""}}@liquidsoap.info
 ORGANIZER;CN="Liquidshop":MAILTO:liquidshop@liquidsoap.info
 LOCATION:http://bbb.liquidsoap.info/
