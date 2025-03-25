@@ -1,0 +1,21 @@
+---
+layout: none
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TCS seminar//EN
+X-WR-CALNAME:Liquidshop 4
+METHOD:PUBLISH
+{% for talk in site.data.ls4.talks %}{% assign nexttalk = site.data.ls4.talks[forloop.index] %}BEGIN:VEVENT
+UID:{{talk.time | replace: ":",""}}@liquidsoap.info
+ORGANIZER;CN="Liquidshop":MAILTO:liquidshop@liquidsoap.info
+LOCATION:http://bbb.liquidsoap.info/
+SUMMARY:Liquidshop: {{talk.firstname}} {{talk.lastname}} / {{talk.title}}
+DESCRIPTION:{{ talk.abstract | strip_newlines }}
+CLASS:PUBLIC
+DTSTART:20240527T{{talk.time | replace: ":",""}}00Z
+DTEND:20240527T{% if nexttalk.time %}{{nexttalk.time | replace: ":",""}}{% else %}{{talk.time | replace: ":",""}}{% endif %}00Z
+DTSTAMP:20240527T{{talk.time | replace: ":",""}}00Z
+SEQUENCE:0
+END:VEVENT
+{% endfor %}END:VCALENDAR
