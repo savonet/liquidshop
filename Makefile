@@ -1,5 +1,8 @@
 all:
 
+serve:
+	jekyll serve --baseurl ""
+
 ci:
 	git ci . -m "Update webpage."
 	git push
