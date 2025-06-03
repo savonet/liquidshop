@@ -10,7 +10,7 @@ METHOD:PUBLISH
 UID:{{talk.time | replace: ":",""}}@liquidsoap.info
 ORGANIZER;CN="Liquidshop":MAILTO:liquidshop@liquidsoap.info
 LOCATION:http://bbb.liquidsoap.info/
-SUMMARY:Liquidshop: {% if talk.lastname %}{{talk.firstname}} {{talk.lastname}} / {% endif *}{{talk.title}}
+SUMMARY:Liquidshop: {% if talk.lastname %}{{talk.firstname}} {{talk.lastname}} / {% endif %}{{talk.title}}
 DESCRIPTION:{{ talk.abstract | strip_newlines }}
 CLASS:PUBLIC
 DTSTART:20250613T{{talk.time | replace: ":",""}}00Z
