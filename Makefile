@@ -1,7 +1,7 @@
 all:
 
 serve:
-	jekyll serve --baseurl ""
+	jekyll serve --baseurl "" --config _config.yml,_config_serve.yml
 
 ci:
 	git ci . -m "Update webpage."
