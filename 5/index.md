@@ -15,7 +15,10 @@ Topics of interest are for instance
 
 This is thus the place to share to the world your favorite or cutting edge technologies and projects!
 
-It will be held on **Friday 13 June 2025**. Feel free to [register](https://forms.gle/mrorntkYve1FHXdk7) in order to attend or propose a talk!
+It is held on **Friday 13 June 2025**.
+
+Link to attend: [bbb.liquidsoap.info](https://bbb.liquidsoap.info/)
+
 
 Attending
 ---------
