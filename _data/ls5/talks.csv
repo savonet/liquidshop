@@ -8,5 +8,5 @@ time,firstname,lastname,title,abstract,kind,slides,youtube
 14:15,Sheri,Barclay,kpiss 25,Showcasing our internet radio community.,showcase,,
 14:30,Matthew,Hine,Bringing Liquidsoap Internet Radio to Non-programers,"I always wanted to curate my own fully automated internet music radio station, with an FM-style programming schedule of shows across the day and week based on playlists. I wanted to focus on easily fine-tuning my station's programming – not tweaking custom code – so ironically I put a few years into writing Liquidsoap code to let anyone configure everything about their radio station, its shows, its virtual DJs, and its daily/weekly schedule with simple but powerful JSON configuration files and using an easy Dockerized deployment.
 
-The result is Station Manager 2 (https://stationmanager.tech), which is free and open source and has a roadmap of further plans. I'd love to see others making use of it to power great curated music netradio, so let me give you a quick walkthrough!",showcase,,
+The result is [Station Manager 2](https://stationmanager.tech), which is free and open source and has a roadmap of further plans. I'd love to see others making use of it to power great curated music netradio, so let me give you a quick walkthrough!",showcase,,
 14:45,,,End of the workshop,,break,,
