@@ -16,6 +16,6 @@ CLASS:PUBLIC
 DTSTART:20250613T{{talk.time | replace: ":",""}}00Z
 DTEND:20250613T{% if nexttalk.time %}{{nexttalk.time | replace: ":",""}}{% else %}{{talk.time | replace: ":",""}}{% endif %}00Z
 DTSTAMP:20250613T{{talk.time | replace: ":",""}}00Z
-SEQUENCE:2
+SEQUENCE:3
 END:VEVENT
 {% endfor %}END:VCALENDAR
