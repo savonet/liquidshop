@@ -1,5 +1,5 @@
 time,firstname,lastname,title,abstract,kind,slides,youtube
-12:00,Romain,Beauxis,Liquidsoap news,,regular,beauxis.pdf,
+12:00,Romain,Beauxis,Liquidsoap news,,regular,slides/beauxis.pdf,
 12:30,Martin,Kirchgessner,Liquidsoap goes RESTful,"I will present the RadioZ automation system and review its liquidsoap script, focusing on HTTP endpoints. Because we don't see enough HTTP endpoints implemented in Liquidsoap.",regular,,
 13:00,John,Chewter,Using CMS for listener auth (Pay To Listen) & stats enrichment,"Using Joomla as an example, how to use its user mechanisms, 'pay to play', audio players & features to allow/block listening to streams on a user, group and or time/date basis. Easily modified for Wordpress and probably many other CMS. Should work with Icecast2, Icecast-KH and Rocket Streaming Audio Server",regular,,
 13:30,Nicholas,Simoneaux,Liquidsoap in Action: Turbozone.org & WHIV,Discussing current implementation of Liquidsoap in local New Orleans radio and IP based radio.,showcase,,
