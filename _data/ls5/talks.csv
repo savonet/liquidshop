@@ -1,5 +1,5 @@
 time,firstname,lastname,title,abstract,kind,slides,youtube
-12:00,Romain,Beauxis,Liquidsoap news,,regular,slides/beauxis.pdf,
+12:00,Romain,Beauxis,Liquidsoap news,,regular,slides/beauxis.pdf,j9_b80di6Nw
 12:30,Martin,Kirchgessner,Liquidsoap goes RESTful,"I will present the RadioZ automation system and review its liquidsoap script, focusing on HTTP endpoints. Because we don't see enough HTTP endpoints implemented in Liquidsoap.",regular,https://mkir.ch/presentations/2025-06-13-Liquidshop5-MyLiquidsoapIsRestful.html,
 13:00,Romain,Beauxis,Installing Liquidsoap,,regular,,
 13:30,Nicholas,Simoneaux,Liquidsoap in Action: Turbozone.org & WHIV,Discussing current implementation of Liquidsoap in local New Orleans radio and IP based radio.,showcase,slides/simoneaux.pdf,
