@@ -1,8 +1,8 @@
-The **liquidshop 6** is the sixth edition of a workshop about [Liquidsoap](https://www.liquidsoap.info/) and related technologies. The goal is to gather all people interested in Liquidsoap (of course) and welcome any contribution, related or not to Liquidsoap.
+**Liquidshop 6** is the sixth edition of a workshop about [Liquidsoap](https://www.liquidsoap.info/) and related technologies. The goal is to gather everyone interested in Liquidsoap (of course) and welcome any contribution, whether related to Liquidsoap or not.
 
-We are particularly eager to get to know how people in the community do radio, media streaming and more, learning about specific tools or workflow that we could, in turn, use to enhance how liquidsoap works. We also love to meet the people involved and engaged with these technologies, community radios, non-profit but also budding startups or more established businesses, art project and installations and more!
+We are particularly eager to learn how people in the community do radio, media streaming, and more, and to hear about specific tools or workflows that we could, in turn, use to improve how Liquidsoap works. We also love meeting people involved with these technologies: community radio stations, non-profits, budding startups, more established businesses, art projects, installations, and more!
 
-Topics of interest are for instance
+Topics of interest include, for instance:
 
 - audio and video streaming
 - radio broadcasting
@@ -13,9 +13,9 @@ Topics of interest are for instance
 - creative art and art installations
 - and so on
 
-This is thus the place to share to the world your favorite or cutting edge technologies and projects!
+This is the place to share your favorite or cutting-edge technologies and projects with the world!
 
-It will be held on **Friday 29 May 2026**. Feel free to [register](https://forms.gle/gjhgmzRJuaSqAzde8) in order to attend or propose a talk!
+It will be held on **Friday, 29 May 2026**. Feel free to [register](https://forms.gle/gjhgmzRJuaSqAzde8) to attend or propose a talk!
 
 Attending
 ---------
@@ -34,19 +34,19 @@ Three kinds of presentations will be featured during the workshop:
 
 - _showcase_ (15 min): a short presentation about a website / radio / art installation that you built using Liquidsoap or related tools
 - _tech talks_ (30 min): an in-depth presentation of a technology related to Liquidsoap and streaming in general
-- _workshop_: user-centered freeform discussions about your project or issues around Liquidsoap and streaming
+- _workshop_: user-centered, freeform discussions about your project or issues around Liquidsoap and streaming
 
 Schedule
 --------
 
 The workshop will be held on **Friday 29 May 2026**.
 
-The tentative schedule is the following, and still subject to changes
+The tentative schedule is as follows, and is still subject to change.
 
 {% for talk in site.data.ls6.talks %}
 | {{talk.time}} GMT | {% if talk.firstname %}{{talk.firstname}} {{talk.lastname}}:{% endif %} _{{talk.title}}_ | {% if talk.slides %}[slides]({{talk.slides}}){% endif %} |{% endfor %}
 
-You can subscribe to the [calendar](calendar.ics) in order have a schedule which is up-to-date.
+You can subscribe to the [calendar](calendar.ics) to get an up-to-date schedule.
 
 Abstracts
 ---------
@@ -66,22 +66,22 @@ Abstracts
 Registration
 ------------
 
-If you want to attend [**please register here**](https://forms.gle/gjhgmzRJuaSqAzde8). Registration is free but mandatory for organisational purposes (in particular, we need your mail in order to communicate the link to the live stream later on).
+If you want to attend, [**please register here**](https://forms.gle/gjhgmzRJuaSqAzde8). Registration is free but mandatory for organizational purposes (in particular, we need your email to send the live stream link later on).
 
 Sponsoring
 ----------
 
-Please reach out if you want to sponsor the event in some way, you can also make [donations on Paypal](http://paypal.me/LiquidsoapMedia).
+Please reach out if you would like to sponsor the event in some way. You can also make [donations on PayPal](http://paypal.me/LiquidsoapMedia).
 
 Editing
 -------
 
-In case you find a mistake on this page, please contact the organizers or [file a pull request](https://github.com/savonet/liquidshop).
+If you find a mistake on this page, please contact the organizers or [file a pull request](https://github.com/savonet/liquidshop).
 
 Organizing team
 ---------------
 
-In case of any question, comment or suggestion please contact the organizers
+If you have any questions, comments, or suggestions, please contact the organizers.
 
 - Romain Beauxis: [romain@liquidsoap.info](mailto:romain@liquidsoap.info)
 - Samuel Mimram: [sam@liquidsoap.info](mailto:sam@liquidsoap.info)
