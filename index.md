@@ -7,6 +7,7 @@ websites, etc.). You can see the videos of the previous workshops here:
 - [Liquidshop 3](3) (2023)
 - [Liquidshop 4](4) (2024)
 - [Liquidshop 5](5) (2025)
+- [Liquidshop 6](6) (2026)
 
 <center><a href="https://www.liquidsoap.info/"><img src="https://www.liquidsoap.info/assets/img/bottle_invert.png" alt="drawing" height="100px" style="margin-top: 50px;"/></a></center>
 

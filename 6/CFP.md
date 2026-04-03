@@ -3,7 +3,7 @@ Hi everybody,
 We are glad to announce the sixth edition of *Liquidshop*, the Liquidsoap
 workshop, which will be held online on
 
-    ** Friday 39 May 2026 **
+    ** Friday 29 May 2026 **
     
 The goal is to gather all people interested in Liquidsoap (of course) and
 welcome any contribution, related or not to Liquidsoap.
