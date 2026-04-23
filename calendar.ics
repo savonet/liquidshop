@@ -10,12 +10,12 @@ METHOD:PUBLISH
 UID:ls6-{{talk.time | replace: ":",""}}@liquidsoap.info
 ORGANIZER;CN="Liquidshop":MAILTO:liquidshop@liquidsoap.info
 LOCATION:http://bbb.liquidsoap.info/
-SUMMARY:Liquidshop: {% if talk.lastname %}{{talk.firstname}} {{talk.lastname}} / {% endif %}{{talk.title}}
-DESCRIPTION:{{ talk.abstract | strip_newlines }}
+SUMMARY:Liquidshop: {% if talk.lastname %}{{talk.firstname}} {{talk.lastname}} / {% endif %}{{talk.title | replace: ",","\,"}}
+DESCRIPTION:{{talk.abstract | strip_newline | replace: ",","\,"}}
 CLASS:PUBLIC
 DTSTART:20250613T{{talk.time | replace: ":",""}}00Z
 DTEND:20250613T{% if nexttalk.time %}{{nexttalk.time | replace: ":",""}}{% else %}{{talk.time | replace: ":",""}}{% endif %}00Z
 DTSTAMP:20250613T{{talk.time | replace: ":",""}}00Z
-SEQUENCE:0
+SEQUENCE:{{site.time | date: "%s"}}
 END:VEVENT
 {% endfor %}END:VCALENDAR
