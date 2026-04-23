@@ -46,7 +46,7 @@ The tentative schedule is as follows, and is still subject to change.
 {% for talk in site.data.ls6.talks %}
 | {{talk.time}} GMT | {% if talk.firstname %}{{talk.firstname}} {{talk.lastname}}:{% endif %} _{{talk.title}}_ | {% if talk.slides %}[slides]({{talk.slides}}){% endif %} |{% endfor %}
 
-You can subscribe to the [calendar](calendar.ics) to get an up-to-date schedule.
+You can subscribe to the [calendar](../calendar.ics) to get an up-to-date schedule.
 
 Abstracts
 ---------
