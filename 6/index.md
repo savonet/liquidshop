@@ -53,7 +53,7 @@ Abstracts
 
 {% for talk in site.data.ls6.talks %}
 {% if talk.kind != "break" %}
-**{%if talk.url%}[{{talk.firstname}} {{talk.lastname}}]({{talk.url}}){%else%}{{talk.firstname}} {{talk.lastname}}{%endif%}: _{{talk.title}}_**{% if talk.slides %} / [slides]({{talk.slides}}){% endif %}
+**{%if talk.lastname%}{%if talk.url%}[{{talk.firstname}} {{talk.lastname}}]({{talk.url}}){%else%}{{talk.firstname}} {{talk.lastname}}{%endif%}: {%endif%}_{{talk.title}}_**{% if talk.slides %} / [slides]({{talk.slides}}){% endif %}
 
 {% if talk.youtube %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{talk.youtube}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
