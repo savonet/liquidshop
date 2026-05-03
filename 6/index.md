@@ -112,12 +112,20 @@ window.onload = function() {
   else { tzs = ""; }
 
   document.querySelector("#schedule + p + p").innerHTML += " (all times are given in <a href='https://en.wikipedia.org/wiki/Greenwich_Mean_Time'>GMT</a>, the current GMT time is "+date.getUTCHours()+":"+date.getUTCMinutes()+" and your current timezone is GMT"+tzs+tzo+"):";
-  /*
+
   const hours = document.querySelectorAll("#schedule + p + p + table tr td:first-child");
   hours.forEach(function(h) {
-    d = new Date("Jan 23 2022 " + h.innerHTML);
-    h.innerHTML += "(" + d.getHours() + ":" + d.getMinutes() + " LT)";
+    var match = h.textContent.match(/(\d+):(\d+)/);
+    if (match) {
+      var d = new Date(Date.UTC(2026, 4, 29, parseInt(match[1]), parseInt(match[2])));
+      var localH = d.getHours().toString().padStart(2, '0');
+      var localM = d.getMinutes().toString().padStart(2, '0');
+      var tz = d.toLocaleTimeString('en-us', {timeZoneName: 'short'}).split(' ').pop();
+      var gmtH = match[1].padStart(2, '0');
+      var gmtM = match[2].padStart(2, '0');
+      h.innerHTML = localH + ":" + localM + " " + tz + " <span style='opacity:0.7'>(" + gmtH + ":" + gmtM + " GMT)</span>";
+    }
   });
-  */
+
 }
 </script>
