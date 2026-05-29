@@ -20,12 +20,7 @@ It will be held on **Friday, 29 May 2026**. Feel free to [register](https://form
 Attending
 ---------
 
-The event will be fully online.
-
-<!--
-The event is fully online and the video-conference website is
-[https://bbb.liquidsoap.info](http://bbb.liquidsoap.info/).
--->
+The event is fully online at [bbb.liquidsoap.info](http://bbb.liquidsoap.info/).
 
 Presentations
 -------------
