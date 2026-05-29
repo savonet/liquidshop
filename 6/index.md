@@ -39,7 +39,7 @@ The workshop will be held on **Friday 29 May 2026**.
 The tentative schedule is as follows, and is still subject to change (new contributions are still being accepted).
 
 {% for talk in site.data.ls6.talks %}
-| {{talk.time}} GMT | {% if talk.firstname %}{{talk.firstname}} {{talk.lastname}}:{% endif %} _{{talk.title}}_ | {% if talk.slides %}[slides]({{talk.slides}}){% endif %} |{% endfor %}
+| {{talk.time}} GMT | {% if talk.firstname %}{{talk.firstname}} {{talk.lastname}}:{% endif %} _{{talk.title}}_ | {% if talk.slides %}[slides](slides/{{talk.slides}}){% endif %} |{% endfor %}
 
 You can subscribe to the [calendar](../calendar.ics) to get an up-to-date schedule.
 
