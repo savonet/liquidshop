@@ -5,6 +5,6 @@ time,firstname,lastname,slides,youtube,url,title,abstract,kind
 13:30,Seva,Mikulski,,wZTopAOGllQ,https://mikulski.rocks/,Mikulski_24/7: original music video playlist + live,"My simple but effective setup, created with no programming experience (well, almost).",showcase
 13:45,Tony,Miller,,7VHAbm45Cmc,https://freedrull.online/,HLS streaming with Liquidsoap,How we implemented rtmp streaming with liquidsoap and kept backwards compatibility with icecast clients.,showcase
 14:00,Vladimir,Lemus,lemus.pdf,JCcvcQkqZKY,https://automata.bearblog.dev/,Radio autómata (automaton radio) a future science and community radio station,"For almost three years, with a few isolated transmissions during pandemia, ""radio autómata"" is an internet radio station initially created to support online courses. The attempts weren't succesufull, but we are trying new ideas to become a community radio around science and education. We'll present how it's working at the moment and the future plans.",showcase
-14:15,Sheroi,Barclay,,M02krODd9Zs,https://kpiss.fm/,KPISS new location + remote training,We will be explaining our new space and our mission for the community both in the know and new people.,showcase
+14:15,Sheroi,Barclay,,-ulpklcvaQw,https://kpiss.fm/,KPISS new location + remote training,We will be explaining our new space and our mission for the community both in the know and new people.,showcase
 14:30,,,,,,Interactive Q&A,,workshop
 15:00,,,,,,End of the workshop,,break
